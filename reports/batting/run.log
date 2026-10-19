@@ -1,0 +1,76 @@
+2026-10-19 23:00:19,126 batting.model INFO batting backtest 2014: train n=878 test n=231
+2026-10-19 23:00:21,377 batting.model INFO batting backtest 2015: train n=1109 test n=214
+2026-10-19 23:00:23,531 batting.model INFO batting backtest 2016: train n=1323 test n=168
+2026-10-19 23:00:25,753 batting.model INFO batting backtest 2017: train n=1491 test n=171
+2026-10-19 23:00:27,825 batting.model INFO batting backtest 2018: train n=1662 test n=186
+2026-10-19 23:00:30,150 batting.model INFO batting backtest 2019: train n=1848 test n=188
+2026-10-19 23:00:32,633 batting.model INFO batting backtest 2020: train n=2036 test n=178
+2026-10-19 23:00:35,134 batting.model INFO batting backtest 2021: train n=2214 test n=185
+2026-10-19 23:00:37,678 batting.model INFO batting backtest 2022: train n=2399 test n=180
+2026-10-19 23:00:40,242 batting.model INFO batting backtest 2023: train n=2579 test n=215
+2026-10-19 23:00:42,842 batting.model INFO batting backtest 2024: train n=2794 test n=233
+2026-10-19 23:00:45,473 batting.model INFO batting backtest 2025: train n=3027 test n=233
+2026-10-19 23:00:48,111 run_batting INFO wrote /Users/shaikyasin/Documents/AI/IPL prediction/reports/ipl_2027_batting_predictions.md
+ rank           batter    dataset_name  player_id last_team_in_data  expected_runs  lower_80  upper_80  expected_innings  expected_runs_per_innings  expected_average  expected_strike_rate confidence
+    1    Sai Sudharsan B Sai Sudharsan       6999                GT          572.2     206.9     820.5              14.3                       40.1              42.7                 153.3       High
+    2  Abhishek Sharma Abhishek Sharma       2349               SRH          541.4     194.2     777.4              14.6                       37.0              39.6                 200.9       High
+    3      Virat Kohli         V Kohli        332               RCB          515.3     183.4     740.9              13.5                       38.2              48.2                 153.1       High
+    4     Shubman Gill    Shubman Gill       1580                GT          500.5     177.3     720.2              13.1                       38.2              42.1                 153.4       High
+    5 Heinrich Klaasen       H Klaasen       1740               SRH          487.2     171.8     701.6              14.6                       33.3              41.2                 165.6       High
+    6 Yashasvi Jaiswal     YBK Jaiswal       4104                RR          464.4     162.4     669.6              13.1                       35.5              40.3                 158.1       High
+    7     Shreyas Iyer         SS Iyer        389              PBKS          421.4     144.6     609.6              13.3                       31.6              45.5                 167.4       High
+    8      Travis Head         TM Head          3               SRH          417.7     143.1     604.3              12.7                       32.9              34.1                 171.9       High
+    9        Phil Salt         PD Salt       8945               RCB          412.9     141.1     597.7              11.5                       35.9              38.7                 174.7     Medium
+   10     Sanju Samson       SV Samson        180               CSK          392.3     132.6     568.9              11.8                       33.4              42.6                 154.5     Medium
+   11    Rajat Patidar      RM Patidar       5349               RCB          360.6     119.5     524.4              12.4                       29.0              31.5                 169.8       High
+   12 Suryakumar Yadav        SA Yadav         61                MI          344.5      37.2     618.1              11.8                       29.1              35.1                 161.9       High
+   13      Riyan Parag         R Parag       3230                RR          335.8      35.3     603.4              12.1                       27.8              32.8                 153.2       High
+   14      Tilak Varma     Tilak Varma       6681                MI          314.9      30.7     568.0              11.9                       26.5              32.0                 149.1       High
+   15  Nicholas Pooran        N Pooran       2766               LSG          314.5      30.6     567.3              11.6                       27.1              33.5                 165.1       High
+   16     Rishabh Pant         RR Pant        181               LSG          307.6      29.1     555.6              11.3                       27.3              32.2                 139.0       High
+   17  Ruturaj Gaikwad      RD Gaikwad       4119               CSK          299.9      27.4     542.7               9.7                       31.0              36.3                 136.0     Medium
+   18 Devdutt Padikkal      D Padikkal       4071               RCB          288.1      24.8     522.6              10.3                       27.9              31.0                 159.5        Low
+   19     Rohit Sharma       RG Sharma         25                MI          246.8      15.6     452.7               8.2                       30.3              34.0                 151.8     Medium
+   20        Tim David        TH David       6550               RCB          194.7       4.1     364.5              10.3                       18.8              38.2                 176.8     Medium
+                        subset              model    n   MAE  RMSE  bias
+            all active batters        last_season 2382  63.8 117.1   9.1
+            all active batters         career_avg 2382  74.8 119.2  18.5
+            all active batters             marcel 2382  64.5 107.5   6.6
+            all active batters              ridge 2382  62.9 103.9   5.0
+            all active batters                 rf 2382  62.7 104.2   2.8
+            all active batters                gbm 2382  62.8 106.2   1.5
+            all active batters           two_part 2382  60.4 102.6  -0.2
+            all active batters ens_ridge_two_part 2382  61.4 102.8   2.4
+established (≥250 runs in S-1)        last_season  393 165.1 211.2  91.5
+established (≥250 runs in S-1)         career_avg  393 149.2 188.5  -6.5
+established (≥250 runs in S-1)             marcel  393 142.0 181.9   9.7
+established (≥250 runs in S-1)              ridge  393 138.7 175.7  -3.5
+established (≥250 runs in S-1)                 rf  393 138.1 174.9  -1.5
+established (≥250 runs in S-1)                gbm  393 142.6 179.6   6.4
+established (≥250 runs in S-1)           two_part  393 136.6 175.2  -2.5
+established (≥250 runs in S-1) ens_ridge_two_part  393 137.0 174.8  -3.0
+            comparison      subset  MAE diff  lo95  hi95
+two_part − last_season         all      -3.4  -5.6  -1.2
+     two_part − marcel         all      -4.1  -5.3  -2.9
+      two_part − ridge         all      -2.5  -3.3  -1.8
+         two_part − rf         all      -2.2  -3.2  -1.3
+        two_part − gbm         all      -2.4  -3.7  -1.2
+two_part − last_season established     -28.5 -39.0 -19.2
+     two_part − marcel established      -5.4 -10.2  -0.4
+      two_part − ridge established      -2.0  -4.9   0.8
+         two_part − rf established      -1.4  -5.7   2.7
+        two_part − gbm established      -5.9 -11.5  -0.2
+                  target                           model   MAE
+                 innings            two-part share model  2.61
+                 innings             last season innings  2.71
+                 innings Marcel weighted share × matches  2.80
+   runs/innings (≥5 inn)              two-part rpi model  5.90
+   runs/innings (≥5 inn)                 last season rpi  7.57
+   runs/innings (≥5 inn)             weighted shrunk rpi  6.31
+strike rate (≥100 balls)              weighted shrunk SR 15.86
+strike rate (≥100 balls)                  last season SR 20.09
+                          method      subset    n  coverage_80  below_lower  above_upper  mean_width  contains_point
+conformal around two-part (used)         all 1937        0.809        0.084        0.107     165.823           1.000
+conformal around two-part (used) established  327        0.801        0.089        0.110     468.558           1.000
+                CQR quantile GBM         all 1937        0.871        0.007        0.121     179.109           0.956
+                CQR quantile GBM established  327        0.807        0.031        0.162     440.668           1.000

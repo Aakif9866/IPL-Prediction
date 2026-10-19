@@ -1,0 +1,76 @@
+{
+  "files": {
+    "ball_by_ball_data.csv": 288226,
+    "ipl_matches_data.csv": 1212,
+    "players-data-updated.csv": 799,
+    "team_aliases.csv": 46,
+    "teams_data.csv": 16
+  },
+  "date_range": [
+    "2008-04-18",
+    "2026-05-01"
+  ],
+  "matches_per_season": {
+    "2008": 58,
+    "2009": 57,
+    "2010": 60,
+    "2011": 73,
+    "2012": 74,
+    "2013": 76,
+    "2014": 60,
+    "2015": 59,
+    "2016": 60,
+    "2017": 59,
+    "2018": 60,
+    "2019": 60,
+    "2020": 60,
+    "2021": 60,
+    "2022": 74,
+    "2023": 74,
+    "2024": 71,
+    "2025": 74,
+    "2026": 43
+  },
+  "result_counts": {
+    "win": 1187,
+    "tie": 16,
+    "no result": 9
+  },
+  "duplicate_match_ids": 0,
+  "duplicate_deliveries": 0,
+  "missing_raw": {
+    "city": 51,
+    "match_number": 70,
+    "win_by_runs": 666,
+    "win_by_wickets": 571,
+    "player_of_match": 9
+  },
+  "missing_balls": {
+    "batsman_type": 239,
+    "bowler_type": 339
+  },
+  "matches_without_balls": 0,
+  "win_by_runs_consistent_with_balls": 0.978021978021978,
+  "super_over_balls": 175,
+  "players": 799,
+  "venue_spellings": 59,
+  "team1_bats_first": 0.7524752475247525,
+  "toss_winner_wins": 0.5164279696714406,
+  "no_result_winner_equals_toss_winner": 0.4444444444444444,
+  "home_team_win_rate": 0.5271867612293144,
+  "home_matches": 846,
+  "season_2026_last_date": "2026-05-01",
+  "season_2026_matches": 43,
+  "teams_2026": [
+    "CSK",
+    "DC",
+    "GT",
+    "KKR",
+    "LSG",
+    "MI",
+    "PBKS",
+    "RCB",
+    "RR",
+    "SRH"
+  ]
+}

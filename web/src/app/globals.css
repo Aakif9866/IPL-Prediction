@@ -1,0 +1,113 @@
+@import "tailwindcss";
+
+/* Dark mode follows a class on <html> (set before paint from the stored choice or the OS setting). */
+@custom-variant dark (&:where(.dark, .dark *));
+
+/*
+ * Tokens (contrast-checked, WCAG AA):
+ *   accent text  light teal-700 #0f766e on white 5.47:1 · dark teal-400 #2dd4bf on #141414 9.90:1
+ *   accent line  light teal-600 #0d9488 3.74:1 (non-text ≥3:1)
+ *   muted text   light gray-600 7.56:1 · dark gray-400 7.26:1
+ *   gradient CTA indigo-600 → purple-600 → pink-600 with white text (each stop ≥4.5:1)
+ *   chart series light #2a78d6 · dark #3987e5 (dataviz reference palette)
+ * Dark surfaces are a near-black ladder: page #0a0a0a → card #141414 → popover #1c1c1c.
+ */
+@theme {
+  --font-sans: var(--font-inter), ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --color-page: #f8fafc;
+  --color-card: #ffffff;
+  --color-pop: #ffffff;
+  --color-ink: #0f172a;
+  --color-body: #334155;
+  --color-muted: #4b5563;
+  --color-line: #e2e8f0;
+  --color-accent: #0f766e;
+  --color-accent-line: #0d9488;
+  --color-series: #2a78d6;
+  --color-series-soft: #9ec5f4;
+  --color-warn: #b45309;
+}
+
+.dark {
+  --color-page: #0a0a0a;
+  --color-card: #141414;
+  --color-pop: #1c1c1c;
+  --color-ink: #ffffff;
+  --color-body: #e5e7eb;
+  --color-muted: #9ca3af;
+  --color-line: rgb(255 255 255 / 0.1);
+  --color-accent: #2dd4bf;
+  --color-accent-line: #2dd4bf;
+  --color-series: #3987e5;
+  --color-series-soft: #1c5cab;
+  --color-warn: #fcd34d;
+}
+
+html {
+  color-scheme: light;
+}
+html.dark {
+  color-scheme: dark;
+}
+body {
+  background: var(--color-page);
+  color: var(--color-body);
+  font-feature-settings: "cv11", "ss01";
+}
+
+.tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+.brand-gradient {
+  background-image: linear-gradient(90deg, #4f46e5, #9333ea, #db2777);
+}
+.brand-gradient-text {
+  background-image: linear-gradient(90deg, #4f46e5, #9333ea, #db2777);
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.dark .brand-gradient-text {
+  background-image: linear-gradient(90deg, #818cf8, #c084fc, #f472b6);
+}
+
+/* Scroll/mount reveal used by <Reveal>; skipped entirely for reduced motion. */
+@media (prefers-reduced-motion: no-preference) {
+  .reveal {
+    opacity: 0;
+    transform: translateY(0.5rem);
+    transition: opacity 400ms ease-out, transform 400ms ease-out;
+  }
+  .reveal.is-visible {
+    opacity: 1;
+    transform: none;
+  }
+  .page-fade {
+    animation: page-fade 300ms ease-out;
+  }
+  @keyframes page-fade {
+    from { opacity: 0; }
+    to { opacity: 1; }
+  }
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent-line);
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
+input[type="range"] {
+  accent-color: var(--color-accent-line);
+}
+
+/* Grid items default to min-width:auto, so a wide table/chart child would widen the whole page on phones. */
+.grid > * {
+  min-width: 0;
+}
+
+/* Some official team colours (GT navy, KKR purple) are near-invisible on near-black: add a faint ring in dark mode. */
+.dark .team-dot {
+  box-shadow: 0 0 0 1px rgb(255 255 255 / 0.4);
+}

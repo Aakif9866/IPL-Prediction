@@ -1,0 +1,1213 @@
+match_id,season_id,balls_per_over,city,match_date,event_name,match_number,gender,match_type,format,overs,season,team_type,venue,toss_winner,team1,team2,toss_decision,match_winner,win_by_runs,win_by_wickets,result,player_of_match
+335982,2008,6,Bangalore,2008-04-18,Indian Premier League,1.0,male,T20,T20,20,2008,club,M Chinnaswamy Stadium,1,1,6,field,6,140.0,,win,46.0
+1082591,2017,6,Hyderabad,2017-04-05,Indian Premier League,1.0,male,T20,T20,20,2017,club,"Rajiv Gandhi International Stadium, Uppal",1,2,1,field,2,35.0,,win,15.0
+1082592,2017,6,Pune,2017-04-06,Indian Premier League,2.0,male,T20,T20,20,2017,club,Maharashtra Cricket Association Stadium,4,4,3,field,4,,7.0,win,36.0
+1082593,2017,6,Rajkot,2017-04-07,Indian Premier League,3.0,male,T20,T20,20,2017,club,Saurashtra Cricket Association Stadium,6,5,6,field,6,,10.0,win,57.0
+1082594,2017,6,Indore,2017-04-08,Indian Premier League,4.0,male,T20,T20,20,2017,club,Holkar Cricket Stadium,494,494,4,field,494,,6.0,win,71.0
+1082595,2017,6,Bengaluru,2017-04-08,Indian Premier League,5.0,male,T20,T20,20,2017,club,M.Chinnaswamy Stadium,1,1,252,bat,1,15.0,,win,4.0
+1082596,2017,6,Hyderabad,2017-04-09,Indian Premier League,6.0,male,T20,T20,20,2017,club,"Rajiv Gandhi International Stadium, Uppal",2,2,5,field,2,,9.0,win,22.0
+1082597,2017,6,Mumbai,2017-04-09,Indian Premier League,7.0,male,T20,T20,20,2017,club,Wankhede Stadium,3,3,6,field,3,,4.0,win,26.0
+1082598,2017,6,Indore,2017-04-10,Indian Premier League,8.0,male,T20,T20,20,2017,club,Holkar Cricket Stadium,1,494,1,bat,494,,8.0,win,70.0
+1082599,2017,6,Pune,2017-04-11,Indian Premier League,9.0,male,T20,T20,20,2017,club,Maharashtra Cricket Association Stadium,4,4,252,field,252,97.0,,win,180.0
+1082600,2017,6,Mumbai,2017-04-12,Indian Premier League,10.0,male,T20,T20,20,2017,club,Wankhede Stadium,3,3,2,field,3,,4.0,win,33.0
+1082601,2017,6,Kolkata,2017-04-13,Indian Premier League,11.0,male,T20,T20,20,2017,club,Eden Gardens,6,6,494,field,6,,8.0,win,65.0
+1082602,2017,6,Bangalore,2017-04-14,Indian Premier League,12.0,male,T20,T20,20,2017,club,M Chinnaswamy Stadium,3,1,3,field,3,,4.0,win,29.0
+1082603,2017,6,Rajkot,2017-04-14,Indian Premier League,13.0,male,T20,T20,20,2017,club,Saurashtra Cricket Association Stadium,5,5,4,field,5,,7.0,win,351.0
+1082604,2017,6,Kolkata,2017-04-15,Indian Premier League,14.0,male,T20,T20,20,2017,club,Eden Gardens,2,6,2,field,6,17.0,,win,58.0
+1082605,2017,6,Delhi,2017-04-15,Indian Premier League,15.0,male,T20,T20,20,2017,club,Feroz Shah Kotla,252,252,494,bat,252,51.0,,win,258.0
+1082606,2017,6,Mumbai,2017-04-16,Indian Premier League,16.0,male,T20,T20,20,2017,club,Wankhede Stadium,3,3,5,field,3,,6.0,win,26.0
+1082607,2017,6,Bangalore,2017-04-16,Indian Premier League,17.0,male,T20,T20,20,2017,club,M Chinnaswamy Stadium,1,1,4,field,4,27.0,,win,37.0
+1082608,2017,6,Delhi,2017-04-17,Indian Premier League,18.0,male,T20,T20,20,2017,club,Feroz Shah Kotla,252,252,6,bat,6,,4.0,win,471.0
+1082609,2017,6,Hyderabad,2017-04-17,Indian Premier League,19.0,male,T20,T20,20,2017,club,"Rajiv Gandhi International Stadium, Uppal",494,2,494,field,2,5.0,,win,20.0
+1082610,2017,6,Rajkot,2017-04-18,Indian Premier League,20.0,male,T20,T20,20,2017,club,Saurashtra Cricket Association Stadium,5,5,1,field,1,21.0,,win,1.0
+1082611,2017,6,Hyderabad,2017-04-19,Indian Premier League,21.0,male,T20,T20,20,2017,club,"Rajiv Gandhi International Stadium, Uppal",2,2,252,bat,2,15.0,,win,531.0
+1082612,2017,6,Indore,2017-04-20,Indian Premier League,22.0,male,T20,T20,20,2017,club,Holkar Cricket Stadium,3,494,3,field,3,,8.0,win,24.0
+1082613,2017,6,Kolkata,2017-04-21,Indian Premier League,23.0,male,T20,T20,20,2017,club,Eden Gardens,5,6,5,field,5,,4.0,win,47.0
+1082614,2017,6,Mumbai,2017-04-22,Indian Premier League,25.0,male,T20,T20,20,2017,club,Wankhede Stadium,252,3,252,field,3,14.0,,win,32.0
+1082615,2017,6,Pune,2017-04-22,Indian Premier League,24.0,male,T20,T20,20,2017,club,Maharashtra Cricket Association Stadium,4,4,2,field,4,,6.0,win,38.0
+1082616,2017,6,Rajkot,2017-04-23,Indian Premier League,26.0,male,T20,T20,20,2017,club,Saurashtra Cricket Association Stadium,5,5,494,field,494,26.0,,win,67.0
+1082617,2017,6,Kolkata,2017-04-23,Indian Premier League,27.0,male,T20,T20,20,2017,club,Eden Gardens,1,6,1,field,6,82.0,,win,471.0
+1082618,2017,6,Mumbai,2017-04-24,Indian Premier League,28.0,male,T20,T20,20,2017,club,Wankhede Stadium,3,3,4,field,4,3.0,,win,37.0
+1082620,2017,6,Pune,2017-04-26,Indian Premier League,30.0,male,T20,T20,20,2017,club,Maharashtra Cricket Association Stadium,6,4,6,field,6,,7.0,win,58.0
+1082621,2017,6,Bangalore,2017-04-27,Indian Premier League,31.0,male,T20,T20,20,2017,club,M Chinnaswamy Stadium,5,1,5,field,5,,7.0,win,351.0
+1082622,2017,6,Kolkata,2017-04-28,Indian Premier League,32.0,male,T20,T20,20,2017,club,Eden Gardens,6,6,252,field,6,,7.0,win,56.0
+1082623,2017,6,Chandigarh,2017-04-28,Indian Premier League,33.0,male,T20,T20,20,2017,club,"Punjab Cricket Association IS Bindra Stadium, Mohali",494,494,2,field,2,26.0,,win,22.0
+1082624,2017,6,Pune,2017-04-29,Indian Premier League,34.0,male,T20,T20,20,2017,club,Maharashtra Cricket Association Stadium,1,4,1,field,4,61.0,,win,361.0
+1082625,2017,6,Rajkot,2017-04-29,Indian Premier League,35.0,male,T20,T20,20,2017,club,Saurashtra Cricket Association Stadium,5,5,3,bat,3,,,tie,28.0
+1082626,2017,6,Chandigarh,2017-04-30,Indian Premier League,36.0,male,T20,T20,20,2017,club,"Punjab Cricket Association IS Bindra Stadium, Mohali",494,494,252,field,494,,10.0,win,76.0
+1082627,2017,6,Hyderabad,2017-04-30,Indian Premier League,37.0,male,T20,T20,20,2017,club,"Rajiv Gandhi International Stadium, Uppal",6,2,6,field,2,48.0,,win,12.0
+1082628,2017,6,Mumbai,2017-05-01,Indian Premier League,38.0,male,T20,T20,20,2017,club,Wankhede Stadium,1,3,1,bat,3,,5.0,win,25.0
+1082629,2017,6,Pune,2017-05-01,Indian Premier League,39.0,male,T20,T20,20,2017,club,Maharashtra Cricket Association Stadium,4,4,5,field,4,,5.0,win,37.0
+1082630,2017,6,Delhi,2017-05-02,Indian Premier League,40.0,male,T20,T20,20,2017,club,Feroz Shah Kotla,252,252,2,field,252,,6.0,win,460.0
+1082631,2017,6,Kolkata,2017-05-03,Indian Premier League,41.0,male,T20,T20,20,2017,club,Eden Gardens,4,6,4,field,4,,4.0,win,268.0
+1082632,2017,6,Delhi,2017-05-04,Indian Premier League,42.0,male,T20,T20,20,2017,club,Feroz Shah Kotla,252,252,5,field,252,,7.0,win,181.0
+1082633,2017,6,Bangalore,2017-05-05,Indian Premier League,43.0,male,T20,T20,20,2017,club,M Chinnaswamy Stadium,1,1,494,field,494,19.0,,win,76.0
+1082634,2017,6,Hyderabad,2017-05-06,Indian Premier League,44.0,male,T20,T20,20,2017,club,"Rajiv Gandhi International Stadium, Uppal",2,2,4,field,4,12.0,,win,438.0
+1082635,2017,6,Delhi,2017-05-06,Indian Premier League,45.0,male,T20,T20,20,2017,club,Feroz Shah Kotla,252,252,3,field,3,146.0,,win,1035.0
+1082636,2017,6,Bangalore,2017-05-07,Indian Premier League,46.0,male,T20,T20,20,2017,club,M Chinnaswamy Stadium,6,1,6,field,6,,6.0,win,65.0
+1082637,2017,6,Chandigarh,2017-05-07,Indian Premier League,47.0,male,T20,T20,20,2017,club,"Punjab Cricket Association IS Bindra Stadium, Mohali",5,494,5,field,5,,6.0,win,50.0
+1082638,2017,6,Hyderabad,2017-05-08,Indian Premier League,48.0,male,T20,T20,20,2017,club,"Rajiv Gandhi International Stadium, Uppal",3,2,3,bat,2,,7.0,win,13.0
+1082639,2017,6,Chandigarh,2017-05-09,Indian Premier League,49.0,male,T20,T20,20,2017,club,"Punjab Cricket Association IS Bindra Stadium, Mohali",6,494,6,field,494,14.0,,win,75.0
+1082640,2017,6,Kanpur,2017-05-10,Indian Premier League,50.0,male,T20,T20,20,2017,club,Green Park,252,5,252,field,252,,2.0,win,389.0
+1082641,2017,6,Mumbai,2017-05-11,Indian Premier League,51.0,male,T20,T20,20,2017,club,Wankhede Stadium,3,3,494,field,494,7.0,,win,69.0
+1082642,2017,6,Delhi,2017-05-12,Indian Premier League,52.0,male,T20,T20,20,2017,club,Feroz Shah Kotla,252,252,4,bat,252,7.0,,win,179.0
+1082643,2017,6,Kanpur,2017-05-13,Indian Premier League,53.0,male,T20,T20,20,2017,club,Green Park,2,5,2,field,2,,8.0,win,538.0
+1082644,2017,6,Kolkata,2017-05-13,Indian Premier League,54.0,male,T20,T20,20,2017,club,Eden Gardens,6,6,3,field,3,9.0,,win,27.0
+1082645,2017,6,Pune,2017-05-14,Indian Premier League,55.0,male,T20,T20,20,2017,club,Maharashtra Cricket Association Stadium,4,4,494,field,4,,9.0,win,438.0
+1082646,2017,6,Delhi,2017-05-14,Indian Premier League,56.0,male,T20,T20,20,2017,club,Feroz Shah Kotla,1,252,1,bat,1,10.0,,win,1285.0
+1082647,2017,6,Mumbai,2017-05-16,Indian Premier League,,male,T20,T20,20,2017,club,Wankhede Stadium,3,3,4,field,4,20.0,,win,613.0
+1082648,2017,6,Bangalore,2017-05-17,Indian Premier League,,male,T20,T20,20,2017,club,M Chinnaswamy Stadium,6,2,6,field,6,,7.0,win,471.0
+1082649,2017,6,Bangalore,2017-05-19,Indian Premier League,,male,T20,T20,20,2017,club,M Chinnaswamy Stadium,3,3,6,field,3,,6.0,win,676.0
+1082650,2017,6,Hyderabad,2017-05-21,Indian Premier League,,male,T20,T20,20,2017,club,"Rajiv Gandhi International Stadium, Uppal",3,3,4,bat,3,1.0,,win,28.0
+1136561,2018,6,Mumbai,2018-04-07,Indian Premier League,1.0,male,T20,T20,20,2018,club,Wankhede Stadium,129,3,129,field,129,,1.0,win,1393.0
+1136562,2018,6,Chandigarh,2018-04-08,Indian Premier League,2.0,male,T20,T20,20,2018,club,Punjab Cricket Association IS Bindra Stadium,494,252,494,field,494,,6.0,win,1409.0
+1136563,2018,6,Kolkata,2018-04-08,Indian Premier League,3.0,male,T20,T20,20,2018,club,Eden Gardens,6,1,6,field,6,,4.0,win,65.0
+1136564,2018,6,Hyderabad,2018-04-09,Indian Premier League,4.0,male,T20,T20,20,2018,club,Rajiv Gandhi International Stadium,2,134,2,field,2,,9.0,win,13.0
+1136565,2018,6,Chennai,2018-04-10,Indian Premier League,5.0,male,T20,T20,20,2018,club,MA Chidambaram Stadium,129,6,129,field,129,,5.0,win,178.0
+1136566,2018,6,Jaipur,2018-04-11,Indian Premier League,6.0,male,T20,T20,20,2018,club,Sawai Mansingh Stadium,252,134,252,field,134,10.0,,win,180.0
+1136567,2018,6,Hyderabad,2018-04-12,Indian Premier League,7.0,male,T20,T20,20,2018,club,Rajiv Gandhi International Stadium,2,3,2,field,2,,1.0,win,22.0
+1136568,2018,6,Bengaluru,2018-04-13,Indian Premier League,8.0,male,T20,T20,20,2018,club,M.Chinnaswamy Stadium,1,494,1,field,1,,4.0,win,318.0
+1136569,2018,6,Mumbai,2018-04-14,Indian Premier League,9.0,male,T20,T20,20,2018,club,Wankhede Stadium,252,3,252,field,252,,7.0,win,45.0
+1136570,2018,6,Kolkata,2018-04-14,Indian Premier League,10.0,male,T20,T20,20,2018,club,Eden Gardens,2,6,2,field,2,,5.0,win,176.0
+1136571,2018,6,Bengaluru,2018-04-15,Indian Premier League,11.0,male,T20,T20,20,2018,club,M.Chinnaswamy Stadium,1,134,1,field,134,19.0,,win,180.0
+1136572,2018,6,Chandigarh,2018-04-15,Indian Premier League,12.0,male,T20,T20,20,2018,club,Punjab Cricket Association IS Bindra Stadium,129,494,129,field,494,4.0,,win,1.0
+1136573,2018,6,Kolkata,2018-04-16,Indian Premier League,13.0,male,T20,T20,20,2018,club,Eden Gardens,252,6,252,field,6,71.0,,win,26.0
+1136574,2018,6,Mumbai,2018-04-17,Indian Premier League,14.0,male,T20,T20,20,2018,club,Wankhede Stadium,1,3,1,field,3,46.0,,win,25.0
+1136575,2018,6,Jaipur,2018-04-18,Indian Premier League,15.0,male,T20,T20,20,2018,club,Sawai Mansingh Stadium,6,134,6,field,6,,7.0,win,26.0
+1136576,2018,6,Chandigarh,2018-04-19,Indian Premier League,16.0,male,T20,T20,20,2018,club,Punjab Cricket Association IS Bindra Stadium,494,494,2,bat,494,15.0,,win,1.0
+1136577,2018,6,Pune,2018-04-20,Indian Premier League,17.0,male,T20,T20,20,2018,club,Maharashtra Cricket Association Stadium,134,129,134,field,129,64.0,,win,5.0
+1136578,2018,6,Kolkata,2018-04-21,Indian Premier League,18.0,male,T20,T20,20,2018,club,Eden Gardens,494,6,494,field,494,,9.0,win,1409.0
+1136579,2018,6,Bengaluru,2018-04-21,Indian Premier League,19.0,male,T20,T20,20,2018,club,M.Chinnaswamy Stadium,1,252,1,field,1,,6.0,win,245.0
+1136580,2018,6,Hyderabad,2018-04-22,Indian Premier League,20.0,male,T20,T20,20,2018,club,Rajiv Gandhi International Stadium,2,129,2,field,129,4.0,,win,27.0
+1136581,2018,6,Jaipur,2018-04-22,Indian Premier League,21.0,male,T20,T20,20,2018,club,Sawai Mansingh Stadium,3,3,134,bat,134,,3.0,win,1833.0
+1136582,2018,6,Delhi,2018-04-23,Indian Premier League,22.0,male,T20,T20,20,2018,club,Arun Jaitley Stadium,252,494,252,field,494,4.0,,win,219.0
+1136583,2018,6,Mumbai,2018-04-24,Indian Premier League,23.0,male,T20,T20,20,2018,club,Wankhede Stadium,3,2,3,field,2,31.0,,win,22.0
+1136584,2018,6,Bengaluru,2018-04-25,Indian Premier League,24.0,male,T20,T20,20,2018,club,M.Chinnaswamy Stadium,129,1,129,field,129,,5.0,win,38.0
+1136585,2018,6,Hyderabad,2018-04-26,Indian Premier League,25.0,male,T20,T20,20,2018,club,Rajiv Gandhi International Stadium,494,2,494,field,2,13.0,,win,219.0
+1136586,2018,6,Delhi,2018-04-27,Indian Premier League,26.0,male,T20,T20,20,2018,club,Arun Jaitley Stadium,6,252,6,field,252,55.0,,win,389.0
+1136587,2018,6,Pune,2018-04-28,Indian Premier League,27.0,male,T20,T20,20,2018,club,Maharashtra Cricket Association Stadium,3,129,3,field,3,,8.0,win,25.0
+1136588,2018,6,Jaipur,2018-04-29,Indian Premier League,28.0,male,T20,T20,20,2018,club,Sawai Mansingh Stadium,2,2,134,bat,2,11.0,,win,531.0
+1136589,2018,6,Bengaluru,2018-04-29,Indian Premier League,29.0,male,T20,T20,20,2018,club,M.Chinnaswamy Stadium,6,1,6,field,6,,6.0,win,57.0
+1136590,2018,6,Pune,2018-04-30,Indian Premier League,30.0,male,T20,T20,20,2018,club,Maharashtra Cricket Association Stadium,252,129,252,field,129,13.0,,win,5.0
+1136591,2018,6,Bengaluru,2018-05-01,Indian Premier League,31.0,male,T20,T20,20,2018,club,M.Chinnaswamy Stadium,3,1,3,field,1,14.0,,win,31.0
+1136592,2018,6,Delhi,2018-05-02,Indian Premier League,32.0,male,T20,T20,20,2018,club,Arun Jaitley Stadium,134,252,134,field,252,4.0,,win,181.0
+1136593,2018,6,Kolkata,2018-05-03,Indian Premier League,33.0,male,T20,T20,20,2018,club,Eden Gardens,6,129,6,field,6,,6.0,win,65.0
+1136594,2018,6,Indore,2018-05-04,Indian Premier League,34.0,male,T20,T20,20,2018,club,Holkar Cricket Stadium,3,494,3,field,3,,6.0,win,61.0
+1136595,2018,6,Pune,2018-05-05,Indian Premier League,35.0,male,T20,T20,20,2018,club,Maharashtra Cricket Association Stadium,129,1,129,field,129,,6.0,win,348.0
+1136596,2018,6,Hyderabad,2018-05-05,Indian Premier League,36.0,male,T20,T20,20,2018,club,Rajiv Gandhi International Stadium,252,252,2,bat,2,,7.0,win,22.0
+1136597,2018,6,Mumbai,2018-05-06,Indian Premier League,37.0,male,T20,T20,20,2018,club,Wankhede Stadium,6,3,6,field,3,13.0,,win,30.0
+1136598,2018,6,Indore,2018-05-06,Indian Premier League,38.0,male,T20,T20,20,2018,club,Holkar Cricket Stadium,494,134,494,field,494,,6.0,win,1419.0
+1136599,2018,6,Hyderabad,2018-05-07,Indian Premier League,39.0,male,T20,T20,20,2018,club,Rajiv Gandhi International Stadium,1,2,1,field,2,5.0,,win,531.0
+1136600,2018,6,Jaipur,2018-05-08,Indian Premier League,40.0,male,T20,T20,20,2018,club,Sawai Mansingh Stadium,134,134,494,bat,134,15.0,,win,24.0
+1136601,2018,6,Kolkata,2018-05-09,Indian Premier League,41.0,male,T20,T20,20,2018,club,Eden Gardens,6,3,6,field,3,102.0,,win,347.0
+1136602,2018,6,Delhi,2018-05-10,Indian Premier League,42.0,male,T20,T20,20,2018,club,Arun Jaitley Stadium,252,252,2,bat,2,,9.0,win,13.0
+1136603,2018,6,Jaipur,2018-05-11,Indian Premier League,43.0,male,T20,T20,20,2018,club,Sawai Mansingh Stadium,129,129,134,bat,134,,4.0,win,24.0
+1136604,2018,6,Indore,2018-05-12,Indian Premier League,44.0,male,T20,T20,20,2018,club,Holkar Cricket Stadium,494,6,494,field,6,31.0,,win,65.0
+1136605,2018,6,Delhi,2018-05-12,Indian Premier League,45.0,male,T20,T20,20,2018,club,Arun Jaitley Stadium,1,252,1,field,1,,5.0,win,245.0
+1136606,2018,6,Pune,2018-05-13,Indian Premier League,46.0,male,T20,T20,20,2018,club,Maharashtra Cricket Association Stadium,129,2,129,field,129,,8.0,win,27.0
+1136607,2018,6,Mumbai,2018-05-13,Indian Premier League,47.0,male,T20,T20,20,2018,club,Wankhede Stadium,134,3,134,field,134,,7.0,win,24.0
+1136608,2018,6,Indore,2018-05-14,Indian Premier League,48.0,male,T20,T20,20,2018,club,Holkar Cricket Stadium,1,494,1,field,1,,10.0,win,318.0
+1136609,2018,6,Kolkata,2018-05-15,Indian Premier League,49.0,male,T20,T20,20,2018,club,Eden Gardens,6,134,6,field,6,,6.0,win,64.0
+1136610,2018,6,Mumbai,2018-05-16,Indian Premier League,50.0,male,T20,T20,20,2018,club,Wankhede Stadium,494,3,494,field,3,3.0,,win,33.0
+1136611,2018,6,Bengaluru,2018-05-17,Indian Premier League,51.0,male,T20,T20,20,2018,club,M.Chinnaswamy Stadium,2,1,2,field,1,14.0,,win,245.0
+1136612,2018,6,Delhi,2018-05-18,Indian Premier League,52.0,male,T20,T20,20,2018,club,Arun Jaitley Stadium,129,252,129,field,252,34.0,,win,1285.0
+1136613,2018,6,Jaipur,2018-05-19,Indian Premier League,53.0,male,T20,T20,20,2018,club,Sawai Mansingh Stadium,134,134,1,bat,134,30.0,,win,1449.0
+1136614,2018,6,Hyderabad,2018-05-19,Indian Premier League,54.0,male,T20,T20,20,2018,club,Rajiv Gandhi International Stadium,2,2,6,bat,6,,5.0,win,57.0
+1136615,2018,6,Delhi,2018-05-20,Indian Premier League,55.0,male,T20,T20,20,2018,club,Arun Jaitley Stadium,252,252,3,bat,252,11.0,,win,185.0
+1136616,2018,6,Pune,2018-05-20,Indian Premier League,56.0,male,T20,T20,20,2018,club,Maharashtra Cricket Association Stadium,129,494,129,field,129,,5.0,win,2024.0
+1136617,2018,6,Mumbai,2018-05-22,Indian Premier League,,male,T20,T20,20,2018,club,Wankhede Stadium,129,2,129,field,129,,2.0,win,267.0
+1136618,2018,6,Kolkata,2018-05-23,Indian Premier League,,male,T20,T20,20,2018,club,Eden Gardens,134,6,134,field,6,25.0,,win,1437.0
+1136619,2018,6,Kolkata,2018-05-25,Indian Premier League,,male,T20,T20,20,2018,club,Eden Gardens,6,2,6,field,2,14.0,,win,22.0
+1136620,2018,6,Mumbai,2018-05-27,Indian Premier League,,male,T20,T20,20,2018,club,Wankhede Stadium,129,2,129,field,129,,8.0,win,5.0
+1175356,2019,6,Chennai,2019-03-23,Indian Premier League,1.0,male,T20,T20,20,2019,club,MA Chidambaram Stadium,129,1,129,field,129,,7.0,win,228.0
+1175357,2019,6,Kolkata,2019-03-24,Indian Premier League,2.0,male,T20,T20,20,2019,club,Eden Gardens,6,2,6,field,6,,6.0,win,1437.0
+1175358,2019,6,Mumbai,2019-03-24,Indian Premier League,3.0,male,T20,T20,20,2019,club,Wankhede Stadium,3,252,3,field,252,37.0,,win,181.0
+1175359,2019,6,Jaipur,2019-03-25,Indian Premier League,4.0,male,T20,T20,20,2019,club,Sawai Mansingh Stadium,134,494,134,field,494,14.0,,win,1.0
+1175360,2019,6,Delhi,2019-03-26,Indian Premier League,5.0,male,T20,T20,20,2019,club,Arun Jaitley Stadium,252,252,129,bat,129,,6.0,win,5.0
+1175361,2019,6,Kolkata,2019-03-27,Indian Premier League,6.0,male,T20,T20,20,2019,club,Eden Gardens,494,6,494,field,6,28.0,,win,1437.0
+1175362,2019,6,Bengaluru,2019-03-28,Indian Premier League,7.0,male,T20,T20,20,2019,club,M.Chinnaswamy Stadium,1,3,1,field,3,6.0,,win,33.0
+1175363,2019,6,Hyderabad,2019-03-29,Indian Premier League,8.0,male,T20,T20,20,2019,club,Rajiv Gandhi International Stadium,134,134,2,bat,2,,5.0,win,22.0
+1175364,2019,6,Chandigarh,2019-03-30,Indian Premier League,9.0,male,T20,T20,20,2019,club,Punjab Cricket Association IS Bindra Stadium,494,3,494,field,494,,8.0,win,35.0
+1175365,2019,6,Delhi,2019-03-30,Indian Premier League,10.0,male,T20,T20,20,2019,club,Arun Jaitley Stadium,252,6,252,field,252,,,tie,1849.0
+1175366,2019,6,Hyderabad,2019-03-31,Indian Premier League,11.0,male,T20,T20,20,2019,club,Rajiv Gandhi International Stadium,1,2,1,field,2,118.0,,win,2719.0
+1175367,2019,6,Chennai,2019-03-31,Indian Premier League,12.0,male,T20,T20,20,2019,club,MA Chidambaram Stadium,134,129,134,field,129,8.0,,win,38.0
+1175368,2019,6,Chandigarh,2019-04-01,Indian Premier League,13.0,male,T20,T20,20,2019,club,Punjab Cricket Association IS Bindra Stadium,252,494,252,field,494,14.0,,win,2768.0
+1175369,2019,6,Jaipur,2019-04-02,Indian Premier League,14.0,male,T20,T20,20,2019,club,Sawai Mansingh Stadium,134,1,134,field,134,,7.0,win,1449.0
+1175370,2019,6,Mumbai,2019-04-03,Indian Premier League,15.0,male,T20,T20,20,2019,club,Wankhede Stadium,129,3,129,field,3,37.0,,win,30.0
+1175371,2019,6,Delhi,2019-04-04,Indian Premier League,16.0,male,T20,T20,20,2019,club,Arun Jaitley Stadium,2,252,2,field,2,,5.0,win,2719.0
+1175372,2019,6,Bengaluru,2019-04-05,Indian Premier League,17.0,male,T20,T20,20,2019,club,M.Chinnaswamy Stadium,6,1,6,field,6,,5.0,win,1437.0
+1178393,2019,6,Chennai,2019-04-06,Indian Premier League,18.0,male,T20,T20,20,2019,club,MA Chidambaram Stadium,129,129,494,bat,129,22.0,,win,228.0
+1178394,2019,6,Hyderabad,2019-04-06,Indian Premier League,19.0,male,T20,T20,20,2019,club,Rajiv Gandhi International Stadium,2,3,2,field,3,40.0,,win,3100.0
+1178395,2019,6,Bengaluru,2019-04-07,Indian Premier League,20.0,male,T20,T20,20,2019,club,M.Chinnaswamy Stadium,252,1,252,field,252,,4.0,win,590.0
+1178396,2019,6,Jaipur,2019-04-07,Indian Premier League,21.0,male,T20,T20,20,2019,club,Sawai Mansingh Stadium,6,134,6,field,6,,8.0,win,3156.0
+1178397,2019,6,Chandigarh,2019-04-08,Indian Premier League,22.0,male,T20,T20,20,2019,club,Punjab Cricket Association IS Bindra Stadium,494,2,494,field,494,,6.0,win,1409.0
+1178398,2019,6,Chennai,2019-04-09,Indian Premier League,23.0,male,T20,T20,20,2019,club,MA Chidambaram Stadium,129,6,129,field,129,,7.0,win,41.0
+1178399,2019,6,Mumbai,2019-04-10,Indian Premier League,24.0,male,T20,T20,20,2019,club,Wankhede Stadium,3,494,3,field,3,,3.0,win,29.0
+1178400,2019,6,Jaipur,2019-04-11,Indian Premier League,25.0,male,T20,T20,20,2019,club,Sawai Mansingh Stadium,129,134,129,field,129,,4.0,win,38.0
+1178401,2019,6,Kolkata,2019-04-12,Indian Premier League,26.0,male,T20,T20,20,2019,club,Eden Gardens,252,6,252,field,252,,7.0,win,13.0
+1178402,2019,6,Mumbai,2019-04-13,Indian Premier League,27.0,male,T20,T20,20,2019,club,Wankhede Stadium,134,3,134,field,134,,4.0,win,24.0
+1178403,2019,6,Chandigarh,2019-04-13,Indian Premier League,28.0,male,T20,T20,20,2019,club,Punjab Cricket Association IS Bindra Stadium,1,494,1,field,1,,8.0,win,245.0
+1178404,2019,6,Kolkata,2019-04-14,Indian Premier League,29.0,male,T20,T20,20,2019,club,Eden Gardens,129,6,129,field,129,,5.0,win,44.0
+1178405,2019,6,Hyderabad,2019-04-14,Indian Premier League,30.0,male,T20,T20,20,2019,club,Rajiv Gandhi International Stadium,2,252,2,field,252,39.0,,win,2745.0
+1178406,2019,6,Mumbai,2019-04-15,Indian Premier League,31.0,male,T20,T20,20,2019,club,Wankhede Stadium,3,1,3,field,3,,5.0,win,230.0
+1178407,2019,6,Chandigarh,2019-04-16,Indian Premier League,32.0,male,T20,T20,20,2019,club,Punjab Cricket Association IS Bindra Stadium,134,494,134,field,494,12.0,,win,1416.0
+1178408,2019,6,Hyderabad,2019-04-17,Indian Premier League,33.0,male,T20,T20,20,2019,club,Rajiv Gandhi International Stadium,129,129,2,bat,2,,6.0,win,12.0
+1178409,2019,6,Delhi,2019-04-18,Indian Premier League,34.0,male,T20,T20,20,2019,club,Arun Jaitley Stadium,3,3,252,bat,3,40.0,,win,30.0
+1178410,2019,6,Kolkata,2019-04-19,Indian Premier League,35.0,male,T20,T20,20,2019,club,Eden Gardens,6,1,6,field,1,10.0,,win,332.0
+1178411,2019,6,Jaipur,2019-04-20,Indian Premier League,36.0,male,T20,T20,20,2019,club,Sawai Mansingh Stadium,134,3,134,field,134,,5.0,win,36.0
+1178412,2019,6,Delhi,2019-04-20,Indian Premier League,37.0,male,T20,T20,20,2019,club,Arun Jaitley Stadium,252,494,252,field,252,,5.0,win,389.0
+1178413,2019,6,Hyderabad,2019-04-21,Indian Premier League,38.0,male,T20,T20,20,2019,club,Rajiv Gandhi International Stadium,2,6,2,field,2,,9.0,win,2662.0
+1178414,2019,6,Bengaluru,2019-04-21,Indian Premier League,39.0,male,T20,T20,20,2019,club,M.Chinnaswamy Stadium,129,1,129,field,1,1.0,,win,23.0
+1178415,2019,6,Jaipur,2019-04-22,Indian Premier League,40.0,male,T20,T20,20,2019,club,Sawai Mansingh Stadium,252,134,252,field,252,,6.0,win,181.0
+1178416,2019,6,Chennai,2019-04-23,Indian Premier League,41.0,male,T20,T20,20,2019,club,MA Chidambaram Stadium,129,2,129,field,129,,6.0,win,5.0
+1178417,2019,6,Bengaluru,2019-04-24,Indian Premier League,42.0,male,T20,T20,20,2019,club,M.Chinnaswamy Stadium,494,1,494,field,1,17.0,,win,245.0
+1178418,2019,6,Kolkata,2019-04-25,Indian Premier League,43.0,male,T20,T20,20,2019,club,Eden Gardens,134,6,134,field,134,,3.0,win,241.0
+1178419,2019,6,Chennai,2019-04-26,Indian Premier League,44.0,male,T20,T20,20,2019,club,MA Chidambaram Stadium,129,3,129,field,3,46.0,,win,25.0
+1178420,2019,6,Jaipur,2019-04-27,Indian Premier League,45.0,male,T20,T20,20,2019,club,Sawai Mansingh Stadium,134,2,134,field,134,,7.0,win,438.0
+1178421,2019,6,Delhi,2019-04-28,Indian Premier League,46.0,male,T20,T20,20,2019,club,Arun Jaitley Stadium,252,252,1,bat,252,16.0,,win,13.0
+1178422,2019,6,Kolkata,2019-04-28,Indian Premier League,47.0,male,T20,T20,20,2019,club,Eden Gardens,3,6,3,field,6,34.0,,win,1437.0
+1178423,2019,6,Hyderabad,2019-04-29,Indian Premier League,48.0,male,T20,T20,20,2019,club,Rajiv Gandhi International Stadium,494,2,494,field,2,45.0,,win,12.0
+1178424,2019,6,Bengaluru,2019-04-30,Indian Premier League,49.0,male,T20,T20,20,2019,club,M.Chinnaswamy Stadium,134,1,134,field,134,,,no result,
+1178425,2019,6,Chennai,2019-05-01,Indian Premier League,50.0,male,T20,T20,20,2019,club,MA Chidambaram Stadium,252,129,252,field,129,80.0,,win,38.0
+1178426,2019,6,Mumbai,2019-05-02,Indian Premier League,51.0,male,T20,T20,20,2019,club,Wankhede Stadium,3,3,2,bat,2,,,tie,33.0
+1178427,2019,6,Chandigarh,2019-05-03,Indian Premier League,52.0,male,T20,T20,20,2019,club,Punjab Cricket Association IS Bindra Stadium,6,494,6,field,6,,7.0,win,1580.0
+1178428,2019,6,Delhi,2019-05-04,Indian Premier League,53.0,male,T20,T20,20,2019,club,Arun Jaitley Stadium,134,134,252,bat,252,,5.0,win,185.0
+1178429,2019,6,Bengaluru,2019-05-04,Indian Premier League,54.0,male,T20,T20,20,2019,club,M.Chinnaswamy Stadium,1,2,1,field,1,,4.0,win,2700.0
+1178430,2019,6,Chandigarh,2019-05-05,Indian Premier League,55.0,male,T20,T20,20,2019,club,Punjab Cricket Association IS Bindra Stadium,494,129,494,field,494,,6.0,win,1409.0
+1178431,2019,6,Mumbai,2019-05-05,Indian Premier League,56.0,male,T20,T20,20,2019,club,Wankhede Stadium,3,6,3,field,3,,9.0,win,30.0
+1181764,2019,6,Chennai,2019-05-07,Indian Premier League,,male,T20,T20,20,2019,club,MA Chidambaram Stadium,129,129,3,bat,3,,6.0,win,61.0
+1181766,2019,6,Visakhapatnam,2019-05-08,Indian Premier League,,male,T20,T20,20,2019,club,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,252,2,252,field,252,,2.0,win,181.0
+1181767,2019,6,Visakhapatnam,2019-05-10,Indian Premier League,,male,T20,T20,20,2019,club,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,129,252,129,field,129,,6.0,win,267.0
+1181768,2019,6,Hyderabad,2019-05-12,Indian Premier League,,male,T20,T20,20,2019,club,Rajiv Gandhi International Stadium,3,3,129,bat,3,1.0,,win,33.0
+1216492,2020,6,Abu Dhabi,2020-09-19,Indian Premier League,1.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,129,3,129,field,129,,5.0,win,27.0
+1216493,2020,6,,2020-09-20,Indian Premier League,2.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,494,252,494,field,494,,,tie,73.0
+1216494,2020,6,Abu Dhabi,2020-10-21,Indian Premier League,39.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,6,6,1,bat,1,,8.0,win,538.0
+1216495,2020,6,,2020-11-03,Indian Premier League,56.0,male,T20,T20,20,2020/21,club,Sharjah Cricket Stadium,2,3,2,field,2,,10.0,win,186.0
+1216496,2020,6,,2020-09-22,Indian Premier League,4.0,male,T20,T20,20,2020/21,club,Sharjah Cricket Stadium,129,134,129,field,134,16.0,,win,180.0
+1216497,2020,6,Abu Dhabi,2020-10-24,Indian Premier League,42.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,252,6,252,field,6,59.0,,win,2825.0
+1216498,2020,6,,2020-10-24,Indian Premier League,43.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,2,494,2,field,494,12.0,,win,1327.0
+1216499,2020,6,Abu Dhabi,2020-10-28,Indian Premier League,48.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,3,1,3,field,3,,5.0,win,61.0
+1216500,2020,6,,2020-10-09,Indian Premier League,23.0,male,T20,T20,20,2020/21,club,Sharjah Cricket Stadium,134,252,134,field,252,46.0,,win,1416.0
+1216501,2020,6,Abu Dhabi,2020-10-07,Indian Premier League,21.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,6,6,129,bat,6,10.0,,win,268.0
+1216502,2020,6,,2020-10-31,Indian Premier League,52.0,male,T20,T20,20,2020/21,club,Sharjah Cricket Stadium,2,1,2,field,2,,5.0,win,76.0
+1216503,2020,6,Abu Dhabi,2020-10-01,Indian Premier League,13.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,494,3,494,field,3,48.0,,win,29.0
+1216504,2020,6,,2020-09-30,Indian Premier League,12.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,134,6,134,field,6,37.0,,win,1581.0
+1216505,2020,6,Abu Dhabi,2020-11-02,Indian Premier League,55.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,252,1,252,field,252,,6.0,win,4047.0
+1216506,2020,6,Abu Dhabi,2020-11-01,Indian Premier League,53.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,129,494,129,field,129,,9.0,win,4119.0
+1216507,2020,6,,2020-10-11,Indian Premier League,26.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,2,2,134,bat,134,,5.0,win,1119.0
+1216508,2020,6,Abu Dhabi,2020-09-23,Indian Premier League,5.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,6,3,6,field,3,49.0,,win,25.0
+1216509,2020,6,,2020-10-17,Indian Premier League,34.0,male,T20,T20,20,2020/21,club,Sharjah Cricket Stadium,129,129,252,bat,252,,5.0,win,13.0
+1216510,2020,6,,2020-09-24,Indian Premier League,6.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,1,494,1,field,494,97.0,,win,1409.0
+1216511,2020,6,Abu Dhabi,2020-10-06,Indian Premier League,20.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,3,3,134,bat,3,57.0,,win,61.0
+1216512,2020,6,Abu Dhabi,2020-10-18,Indian Premier League,35.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,2,6,2,field,2,,,tie,361.0
+1216513,2020,6,,2020-10-04,Indian Premier League,18.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,494,494,129,bat,129,,10.0,win,5.0
+1216514,2020,6,Abu Dhabi,2020-10-03,Indian Premier League,15.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,134,134,1,bat,1,,8.0,win,10.0
+1216515,2020,6,,2020-10-03,Indian Premier League,16.0,male,T20,T20,20,2020/21,club,Sharjah Cricket Stadium,6,252,6,field,252,18.0,,win,389.0
+1216516,2020,6,,2020-10-02,Indian Premier League,14.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,2,2,129,bat,2,7.0,,win,4097.0
+1216517,2020,6,,2020-10-18,Indian Premier League,36.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,3,3,494,bat,494,,,tie,1409.0
+1216518,2020,6,,2020-10-22,Indian Premier League,40.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,2,134,2,field,2,,8.0,win,59.0
+1216519,2020,6,,2020-10-05,Indian Premier League,19.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,1,252,1,field,252,59.0,,win,70.0
+1216520,2020,6,,2020-10-26,Indian Premier League,46.0,male,T20,T20,20,2020/21,club,Sharjah Cricket Stadium,494,6,494,field,494,,8.0,win,1.0
+1216521,2020,6,,2020-10-23,Indian Premier League,41.0,male,T20,T20,20,2020/21,club,Sharjah Cricket Stadium,3,129,3,field,3,,10.0,win,66.0
+1216522,2020,6,,2020-10-17,Indian Premier League,33.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,134,134,1,bat,1,,7.0,win,245.0
+1216523,2020,6,Abu Dhabi,2020-10-10,Indian Premier League,24.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,6,6,494,bat,6,2.0,,win,49.0
+1216524,2020,6,,2020-10-27,Indian Premier League,47.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,252,2,252,field,2,88.0,,win,69.0
+1216525,2020,6,,2020-10-10,Indian Premier League,25.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,1,1,129,bat,1,37.0,,win,332.0
+1216526,2020,6,Abu Dhabi,2020-10-16,Indian Premier League,32.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,6,6,3,bat,3,,8.0,win,1421.0
+1216527,2020,6,,2020-09-27,Indian Premier League,9.0,male,T20,T20,20,2020/21,club,Sharjah Cricket Stadium,134,494,134,field,134,,4.0,win,180.0
+1216528,2020,6,,2020-10-13,Indian Premier League,29.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,129,129,2,bat,129,20.0,,win,348.0
+1216529,2020,6,Abu Dhabi,2020-10-11,Indian Premier League,27.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,252,252,3,bat,3,,5.0,win,1421.0
+1216530,2020,6,,2020-11-01,Indian Premier League,54.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,134,6,134,field,6,60.0,,win,184.0
+1216531,2020,6,,2020-10-15,Indian Premier League,31.0,male,T20,T20,20,2020/21,club,Sharjah Cricket Stadium,1,1,494,bat,494,,8.0,win,1409.0
+1216532,2020,6,Abu Dhabi,2020-09-29,Indian Premier League,11.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,252,2,252,field,2,15.0,,win,22.0
+1216533,2020,6,Abu Dhabi,2020-10-19,Indian Premier League,37.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,129,129,134,bat,134,,7.0,win,24.0
+1216534,2020,6,,2020-09-21,Indian Premier League,3.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,2,1,2,field,1,10.0,,win,10.0
+1216535,2020,6,,2020-10-31,Indian Premier League,51.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,3,252,3,field,3,,9.0,win,347.0
+1216536,2020,6,,2020-10-29,Indian Premier League,49.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,129,6,129,field,129,,6.0,win,4119.0
+1216537,2020,6,Abu Dhabi,2020-10-30,Indian Premier League,50.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,134,494,134,field,134,,7.0,win,37.0
+1216538,2020,6,,2020-10-04,Indian Premier League,17.0,male,T20,T20,20,2020/21,club,Sharjah Cricket Stadium,3,3,2,bat,3,34.0,,win,66.0
+1216539,2020,6,,2020-09-25,Indian Premier League,7.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,129,252,129,field,252,44.0,,win,1849.0
+1216540,2020,6,,2020-10-12,Indian Premier League,28.0,male,T20,T20,20,2020/21,club,Sharjah Cricket Stadium,1,1,6,bat,1,82.0,,win,245.0
+1216541,2020,6,Abu Dhabi,2020-10-25,Indian Premier League,45.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,3,3,134,bat,134,,8.0,win,37.0
+1216542,2020,6,,2020-10-08,Indian Premier League,22.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,2,2,494,bat,2,69.0,,win,2719.0
+1216543,2020,6,,2020-10-14,Indian Premier League,30.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,252,252,134,bat,252,13.0,,win,4047.0
+1216544,2020,6,,2020-10-25,Indian Premier League,44.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,1,1,129,bat,129,,8.0,win,4119.0
+1216545,2020,6,Abu Dhabi,2020-09-26,Indian Premier League,8.0,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,2,2,6,bat,6,,7.0,win,1580.0
+1216546,2020,6,,2020-10-20,Indian Premier League,38.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,252,252,494,bat,494,,5.0,win,13.0
+1216547,2020,6,,2020-09-28,Indian Premier League,10.0,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,3,1,3,field,3,,,tie,245.0
+1237177,2020,6,,2020-11-05,Indian Premier League,,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,252,3,252,field,3,57.0,,win,33.0
+1237178,2020,6,Abu Dhabi,2020-11-06,Indian Premier League,,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,2,1,2,field,2,,6.0,win,531.0
+1237180,2020,6,Abu Dhabi,2020-11-08,Indian Premier League,,male,T20,T20,20,2020/21,club,Sheikh Zayed Stadium,252,252,2,bat,252,17.0,,win,73.0
+1237181,2020,6,,2020-11-10,Indian Premier League,,male,T20,T20,20,2020/21,club,Dubai International Cricket Stadium,252,252,3,bat,3,,5.0,win,66.0
+1254058,2021,6,Chennai,2021-04-09,Indian Premier League,1.0,male,T20,T20,20,2021,club,"MA Chidambaram Stadium, Chepauk, Chennai",1,3,1,field,1,,2.0,win,1285.0
+1254059,2021,6,Mumbai,2021-04-10,Indian Premier League,2.0,male,T20,T20,20,2021,club,"Wankhede Stadium, Mumbai",252,129,252,field,252,,7.0,win,13.0
+1254060,2021,6,Chennai,2021-04-11,Indian Premier League,3.0,male,T20,T20,20,2021,club,"MA Chidambaram Stadium, Chepauk, Chennai",2,6,2,field,6,10.0,,win,26.0
+1254061,2021,6,Mumbai,2021-04-12,Indian Premier League,4.0,male,T20,T20,20,2021,club,"Wankhede Stadium, Mumbai",134,494,134,field,494,4.0,,win,180.0
+1254062,2021,6,Chennai,2021-04-13,Indian Premier League,5.0,male,T20,T20,20,2021,club,"MA Chidambaram Stadium, Chepauk, Chennai",6,3,6,field,3,10.0,,win,163.0
+1254063,2021,6,Chennai,2021-04-14,Indian Premier League,6.0,male,T20,T20,20,2021,club,"MA Chidambaram Stadium, Chepauk, Chennai",2,1,2,field,1,6.0,,win,71.0
+1254064,2021,6,Mumbai,2021-04-15,Indian Premier League,7.0,male,T20,T20,20,2021,club,"Wankhede Stadium, Mumbai",134,252,134,field,134,,3.0,win,438.0
+1254065,2021,6,Mumbai,2021-04-16,Indian Premier League,8.0,male,T20,T20,20,2021,club,"Wankhede Stadium, Mumbai",129,494,129,field,129,,6.0,win,41.0
+1254066,2021,6,Chennai,2021-04-17,Indian Premier League,9.0,male,T20,T20,20,2021,club,"MA Chidambaram Stadium, Chepauk, Chennai",3,3,2,bat,3,13.0,,win,29.0
+1254067,2021,6,Chennai,2021-04-18,Indian Premier League,10.0,male,T20,T20,20,2021,club,"MA Chidambaram Stadium, Chepauk, Chennai",1,1,6,bat,1,38.0,,win,245.0
+1254068,2021,6,Mumbai,2021-04-18,Indian Premier League,11.0,male,T20,T20,20,2021,club,"Wankhede Stadium, Mumbai",252,494,252,field,252,,6.0,win,13.0
+1254069,2021,6,Mumbai,2021-04-19,Indian Premier League,12.0,male,T20,T20,20,2021,club,"Wankhede Stadium, Mumbai",134,129,134,field,129,45.0,,win,2227.0
+1254070,2021,6,Chennai,2021-04-20,Indian Premier League,13.0,male,T20,T20,20,2021,club,"MA Chidambaram Stadium, Chepauk, Chennai",3,3,252,bat,252,,6.0,win,185.0
+1254071,2021,6,Chennai,2021-04-21,Indian Premier League,14.0,male,T20,T20,20,2021,club,"MA Chidambaram Stadium, Chepauk, Chennai",494,494,2,bat,2,,9.0,win,2719.0
+1254072,2021,6,Mumbai,2021-04-21,Indian Premier League,15.0,male,T20,T20,20,2021,club,"Wankhede Stadium, Mumbai",6,129,6,field,129,18.0,,win,267.0
+1254073,2021,6,Mumbai,2021-04-22,Indian Premier League,16.0,male,T20,T20,20,2021,club,"Wankhede Stadium, Mumbai",1,134,1,field,1,,10.0,win,4071.0
+1254074,2021,6,Chennai,2021-04-23,Indian Premier League,17.0,male,T20,T20,20,2021,club,"MA Chidambaram Stadium, Chepauk, Chennai",494,3,494,field,494,,9.0,win,1409.0
+1254075,2021,6,Mumbai,2021-04-24,Indian Premier League,18.0,male,T20,T20,20,2021,club,"Wankhede Stadium, Mumbai",134,6,134,field,134,,6.0,win,182.0
+1254076,2021,6,Mumbai,2021-04-25,Indian Premier League,19.0,male,T20,T20,20,2021,club,"Wankhede Stadium, Mumbai",129,129,1,bat,129,69.0,,win,348.0
+1254077,2021,6,Chennai,2021-04-25,Indian Premier League,20.0,male,T20,T20,20,2021,club,"MA Chidambaram Stadium, Chepauk, Chennai",252,252,2,bat,2,,,tie,1849.0
+1254078,2021,6,Ahmedabad,2021-04-26,Indian Premier League,21.0,male,T20,T20,20,2021,club,"Narendra Modi Stadium, Ahmedabad",6,494,6,field,6,,5.0,win,400.0
+1254079,2021,6,Ahmedabad,2021-04-27,Indian Premier League,22.0,male,T20,T20,20,2021,club,"Narendra Modi Stadium, Ahmedabad",252,1,252,field,1,1.0,,win,245.0
+1254080,2021,6,Delhi,2021-04-28,Indian Premier League,23.0,male,T20,T20,20,2021,club,"Arun Jaitley Stadium, Delhi",2,2,129,bat,129,,7.0,win,4119.0
+1254081,2021,6,Delhi,2021-04-29,Indian Premier League,24.0,male,T20,T20,20,2021,club,"Arun Jaitley Stadium, Delhi",3,134,3,field,3,,7.0,win,1421.0
+1254082,2021,6,Ahmedabad,2021-04-29,Indian Premier League,25.0,male,T20,T20,20,2021,club,"Narendra Modi Stadium, Ahmedabad",252,6,252,field,252,,7.0,win,1849.0
+1254083,2021,6,Ahmedabad,2021-04-30,Indian Premier League,26.0,male,T20,T20,20,2021,club,"Narendra Modi Stadium, Ahmedabad",1,494,1,field,494,34.0,,win,3495.0
+1254084,2021,6,Delhi,2021-05-01,Indian Premier League,27.0,male,T20,T20,20,2021,club,"Arun Jaitley Stadium, Delhi",3,129,3,field,3,,4.0,win,29.0
+1254085,2021,6,Delhi,2021-05-02,Indian Premier League,28.0,male,T20,T20,20,2021,club,"Arun Jaitley Stadium, Delhi",2,134,2,field,134,55.0,,win,24.0
+1254086,2021,6,Ahmedabad,2021-05-02,Indian Premier League,29.0,male,T20,T20,20,2021,club,"Narendra Modi Stadium, Ahmedabad",252,494,252,field,252,,7.0,win,35.0
+1254087,2021,6,Abu Dhabi,2021-09-20,Indian Premier League,31.0,male,T20,T20,20,2021,club,"Zayed Cricket Stadium, Abu Dhabi",1,1,6,bat,6,,9.0,win,2825.0
+1254088,2021,6,Abu Dhabi,2021-10-08,Indian Premier League,55.0,male,T20,T20,20,2021,club,"Zayed Cricket Stadium, Abu Dhabi",3,3,2,bat,3,42.0,,win,347.0
+1254089,2021,6,Abu Dhabi,2021-10-02,Indian Premier League,47.0,male,T20,T20,20,2021,club,"Zayed Cricket Stadium, Abu Dhabi",134,129,134,field,134,,7.0,win,4119.0
+1254090,2021,6,Sharjah,2021-10-03,Indian Premier League,48.0,male,T20,T20,20,2021,club,Sharjah Cricket Stadium,1,1,494,bat,1,6.0,,win,71.0
+1254091,2021,6,Sharjah,2021-09-30,Indian Premier League,44.0,male,T20,T20,20,2021,club,Sharjah Cricket Stadium,129,2,129,field,129,,6.0,win,4664.0
+1254092,2021,6,Sharjah,2021-09-28,Indian Premier League,41.0,male,T20,T20,20,2021,club,Sharjah Cricket Stadium,6,252,6,field,6,,3.0,win,65.0
+1254093,2021,6,Sharjah,2021-10-05,Indian Premier League,51.0,male,T20,T20,20,2021,club,Sharjah Cricket Stadium,3,134,3,field,3,,8.0,win,471.0
+1254094,2021,6,Dubai,2021-10-07,Indian Premier League,53.0,male,T20,T20,20,2021,club,Dubai International Cricket Stadium,494,129,494,field,494,,6.0,win,1409.0
+1254095,2021,6,Abu Dhabi,2021-10-06,Indian Premier League,52.0,male,T20,T20,20,2021,club,"Zayed Cricket Stadium, Abu Dhabi",1,2,1,field,2,4.0,,win,531.0
+1254096,2021,6,Abu Dhabi,2021-09-23,Indian Premier League,34.0,male,T20,T20,20,2021,club,"Zayed Cricket Stadium, Abu Dhabi",6,3,6,field,6,,7.0,win,65.0
+1254097,2021,6,Abu Dhabi,2021-09-25,Indian Premier League,36.0,male,T20,T20,20,2021,club,"Zayed Cricket Stadium, Abu Dhabi",134,252,134,field,252,33.0,,win,389.0
+1254098,2021,6,Abu Dhabi,2021-09-26,Indian Premier League,38.0,male,T20,T20,20,2021,club,"Zayed Cricket Stadium, Abu Dhabi",6,6,129,bat,129,,2.0,win,348.0
+1254099,2021,6,Abu Dhabi,2021-09-28,Indian Premier League,42.0,male,T20,T20,20,2021,club,"Zayed Cricket Stadium, Abu Dhabi",3,494,3,field,3,,6.0,win,29.0
+1254100,2021,6,Dubai,2021-09-27,Indian Premier League,40.0,male,T20,T20,20,2021,club,Dubai International Cricket Stadium,134,134,2,bat,2,,7.0,win,45.0
+1254101,2021,6,Dubai,2021-10-08,Indian Premier League,56.0,male,T20,T20,20,2021,club,Dubai International Cricket Stadium,1,252,1,field,1,,7.0,win,5976.0
+1254102,2021,6,Dubai,2021-10-01,Indian Premier League,45.0,male,T20,T20,20,2021,club,Dubai International Cricket Stadium,494,6,494,field,494,,5.0,win,1409.0
+1254103,2021,6,Dubai,2021-09-29,Indian Premier League,43.0,male,T20,T20,20,2021,club,Dubai International Cricket Stadium,1,134,1,field,1,,7.0,win,10.0
+1254104,2021,6,Dubai,2021-09-19,Indian Premier League,30.0,male,T20,T20,20,2021,club,Dubai International Cricket Stadium,129,129,3,bat,129,20.0,,win,4119.0
+1254105,2021,6,Dubai,2021-09-22,Indian Premier League,33.0,male,T20,T20,20,2021,club,Dubai International Cricket Stadium,2,2,252,bat,252,,8.0,win,4047.0
+1254106,2021,6,Sharjah,2021-10-07,Indian Premier League,54.0,male,T20,T20,20,2021,club,Sharjah Cricket Stadium,134,6,134,field,6,86.0,,win,1581.0
+1254107,2021,6,Sharjah,2021-09-25,Indian Premier League,37.0,male,T20,T20,20,2021,club,Sharjah Cricket Stadium,2,494,2,field,494,5.0,,win,4098.0
+1254108,2021,6,Dubai,2021-09-26,Indian Premier League,39.0,male,T20,T20,20,2021,club,Dubai International Cricket Stadium,3,1,3,field,1,54.0,,win,71.0
+1254109,2021,6,Dubai,2021-10-03,Indian Premier League,49.0,male,T20,T20,20,2021,club,Dubai International Cricket Stadium,2,2,6,bat,6,,6.0,win,1580.0
+1254110,2021,6,Dubai,2021-10-04,Indian Premier League,50.0,male,T20,T20,20,2021,club,Dubai International Cricket Stadium,252,129,252,field,252,,3.0,win,70.0
+1254111,2021,6,Dubai,2021-09-21,Indian Premier League,32.0,male,T20,T20,20,2021,club,Dubai International Cricket Stadium,494,134,494,field,134,2.0,,win,4212.0
+1254112,2021,6,Sharjah,2021-10-02,Indian Premier League,46.0,male,T20,T20,20,2021,club,Sharjah Cricket Stadium,252,3,252,field,252,,4.0,win,70.0
+1254113,2021,6,Sharjah,2021-09-24,Indian Premier League,35.0,male,T20,T20,20,2021,club,Sharjah Cricket Stadium,129,1,129,field,129,,6.0,win,1393.0
+1254114,2021,6,Dubai,2021-10-10,Indian Premier League,,male,T20,T20,20,2021,club,Dubai International Cricket Stadium,129,252,129,field,129,,4.0,win,4119.0
+1254115,2021,6,Sharjah,2021-10-11,Indian Premier League,,male,T20,T20,20,2021,club,Sharjah Cricket Stadium,1,1,6,bat,6,,4.0,win,65.0
+1254116,2021,6,Sharjah,2021-10-13,Indian Premier League,,male,T20,T20,20,2021,club,Sharjah Cricket Stadium,6,252,6,field,6,,3.0,win,5986.0
+1254117,2021,6,Dubai,2021-10-15,Indian Premier League,,male,T20,T20,20,2021,club,Dubai International Cricket Stadium,6,129,6,field,129,27.0,,win,267.0
+1304047,2022,6,Mumbai,2022-03-26,Indian Premier League,1.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",6,129,6,field,6,,6.0,win,318.0
+1304048,2022,6,Mumbai,2022-03-27,Indian Premier League,2.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",252,3,252,field,252,,4.0,win,64.0
+1304049,2022,6,Mumbai,2022-03-27,Indian Premier League,3.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",494,1,494,field,494,,5.0,win,6717.0
+1304050,2022,6,Mumbai,2022-03-28,Indian Premier League,4.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",615,614,615,field,615,,5.0,win,460.0
+1304051,2022,6,Pune,2022-03-29,Indian Premier League,5.0,male,T20,T20,20,2022,club,"Maharashtra Cricket Association Stadium, Pune",2,134,2,field,134,61.0,,win,180.0
+1304052,2022,6,Mumbai,2022-03-30,Indian Premier League,6.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",1,6,1,field,1,,3.0,win,5980.0
+1304053,2022,6,Mumbai,2022-03-31,Indian Premier League,7.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",614,129,614,field,614,,6.0,win,1377.0
+1304054,2022,6,Mumbai,2022-04-01,Indian Premier League,8.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",6,494,6,field,6,,6.0,win,318.0
+1304055,2022,6,Mumbai,2022-04-02,Indian Premier League,9.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",3,134,3,field,134,23.0,,win,24.0
+1304056,2022,6,Pune,2022-04-02,Indian Premier League,10.0,male,T20,T20,20,2022,club,"Maharashtra Cricket Association Stadium, Pune",252,615,252,field,615,14.0,,win,361.0
+1304057,2022,6,Mumbai,2022-04-03,Indian Premier League,11.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",129,494,129,field,494,54.0,,win,3284.0
+1304058,2022,6,Mumbai,2022-04-04,Indian Premier League,12.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",2,614,2,field,614,12.0,,win,1286.0
+1304059,2022,6,Mumbai,2022-04-05,Indian Premier League,13.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",1,134,1,field,1,,4.0,win,49.0
+1304060,2022,6,Pune,2022-04-06,Indian Premier League,14.0,male,T20,T20,20,2022,club,"Maharashtra Cricket Association Stadium, Pune",6,3,6,field,6,,5.0,win,184.0
+1304061,2022,6,Mumbai,2022-04-07,Indian Premier League,15.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",614,252,614,field,614,,6.0,win,1421.0
+1304062,2022,6,Mumbai,2022-04-08,Indian Premier League,16.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",615,494,615,field,615,,6.0,win,1580.0
+1304063,2022,6,Mumbai,2022-04-09,Indian Premier League,17.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",2,129,2,field,2,,8.0,win,2349.0
+1304064,2022,6,Pune,2022-04-09,Indian Premier League,18.0,male,T20,T20,20,2022,club,"Maharashtra Cricket Association Stadium, Pune",1,3,1,field,1,,7.0,win,5935.0
+1304065,2022,6,Mumbai,2022-04-10,Indian Premier League,19.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",6,252,6,field,252,44.0,,win,64.0
+1304066,2022,6,Mumbai,2022-04-10,Indian Premier League,20.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",614,134,614,field,134,3.0,,win,10.0
+1304067,2022,6,Mumbai,2022-04-11,Indian Premier League,21.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",2,615,2,field,2,,8.0,win,531.0
+1304068,2022,6,Mumbai,2022-04-12,Indian Premier League,22.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",1,129,1,field,129,23.0,,win,2701.0
+1304069,2022,6,Pune,2022-04-13,Indian Premier League,23.0,male,T20,T20,20,2022,club,"Maharashtra Cricket Association Stadium, Pune",3,494,3,field,494,12.0,,win,35.0
+1304070,2022,6,Mumbai,2022-04-14,Indian Premier League,24.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",134,615,134,field,615,37.0,,win,30.0
+1304071,2022,6,Mumbai,2022-04-15,Indian Premier League,25.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",2,6,2,field,2,,7.0,win,268.0
+1304072,2022,6,Mumbai,2022-04-16,Indian Premier League,26.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",3,614,3,field,614,18.0,,win,1409.0
+1304073,2022,6,Mumbai,2022-04-16,Indian Premier League,27.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",252,1,252,field,1,16.0,,win,49.0
+1304074,2022,6,Mumbai,2022-04-17,Indian Premier League,28.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",2,494,2,field,2,,7.0,win,6017.0
+1304075,2022,6,Pune,2022-04-17,Indian Premier League,29.0,male,T20,T20,20,2022,club,"Maharashtra Cricket Association Stadium, Pune",615,129,615,field,615,,3.0,win,72.0
+1304076,2022,6,Mumbai,2022-04-18,Indian Premier League,30.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",6,134,6,field,134,7.0,,win,10.0
+1304077,2022,6,Mumbai,2022-04-19,Indian Premier League,31.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",614,1,614,field,1,18.0,,win,267.0
+1304078,2022,6,Mumbai,2022-04-20,Indian Premier League,32.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",252,494,252,field,252,,9.0,win,64.0
+1304079,2022,6,Navi Mumbai,2022-04-21,Indian Premier League,33.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",129,3,129,field,129,,3.0,win,6798.0
+1304080,2022,6,Mumbai,2022-04-22,Indian Premier League,34.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",252,134,252,field,134,15.0,,win,24.0
+1304081,2022,6,Navi Mumbai,2022-04-23,Indian Premier League,35.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",615,615,6,bat,615,8.0,,win,22.0
+1304082,2022,6,Mumbai,2022-04-23,Indian Premier League,36.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",2,1,2,field,2,,9.0,win,5343.0
+1304083,2022,6,Mumbai,2022-04-24,Indian Premier League,37.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",3,614,3,field,614,36.0,,win,1409.0
+1304084,2022,6,Mumbai,2022-04-25,Indian Premier League,38.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",129,494,129,field,494,11.0,,win,13.0
+1304085,2022,6,Pune,2022-04-26,Indian Premier League,39.0,male,T20,T20,20,2022,club,"Maharashtra Cricket Association Stadium, Pune",1,134,1,field,134,29.0,,win,3230.0
+1304086,2022,6,Mumbai,2022-04-27,Indian Premier League,40.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",615,2,615,field,615,,5.0,win,6017.0
+1304087,2022,6,Mumbai,2022-04-28,Indian Premier League,41.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",252,6,252,field,252,,4.0,win,64.0
+1304088,2022,6,Pune,2022-04-29,Indian Premier League,42.0,male,T20,T20,20,2022,club,"Maharashtra Cricket Association Stadium, Pune",494,614,494,field,614,20.0,,win,28.0
+1304089,2022,6,Mumbai,2022-04-30,Indian Premier League,43.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",1,1,615,bat,615,,6.0,win,1119.0
+1304090,2022,6,Navi Mumbai,2022-04-30,Indian Premier League,44.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",3,134,3,field,3,,5.0,win,61.0
+1304091,2022,6,Mumbai,2022-05-01,Indian Premier League,45.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",614,614,252,bat,614,6.0,,win,6730.0
+1304092,2022,6,Pune,2022-05-01,Indian Premier League,46.0,male,T20,T20,20,2022,club,"Maharashtra Cricket Association Stadium, Pune",2,129,2,field,129,13.0,,win,4119.0
+1304093,2022,6,Mumbai,2022-05-02,Indian Premier League,47.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",6,134,6,field,6,,7.0,win,1436.0
+1304094,2022,6,Navi Mumbai,2022-05-03,Indian Premier League,48.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",615,615,494,bat,494,,8.0,win,590.0
+1304095,2022,6,Pune,2022-05-04,Indian Premier League,49.0,male,T20,T20,20,2022,club,"Maharashtra Cricket Association Stadium, Pune",129,1,129,field,1,13.0,,win,1285.0
+1304096,2022,6,Mumbai,2022-05-05,Indian Premier League,50.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",2,252,2,field,252,21.0,,win,12.0
+1304097,2022,6,Mumbai,2022-05-06,Indian Premier League,51.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",615,3,615,field,3,5.0,,win,6550.0
+1304098,2022,6,Mumbai,2022-05-07,Indian Premier League,52.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",494,494,134,bat,134,,6.0,win,4104.0
+1304099,2022,6,Pune,2022-05-07,Indian Premier League,53.0,male,T20,T20,20,2022,club,"Maharashtra Cricket Association Stadium, Pune",6,614,6,field,614,75.0,,win,1286.0
+1304100,2022,6,Mumbai,2022-05-08,Indian Premier League,54.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",1,1,2,bat,1,67.0,,win,5980.0
+1304101,2022,6,Navi Mumbai,2022-05-08,Indian Premier League,55.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",252,129,252,field,129,91.0,,win,6657.0
+1304102,2022,6,Navi Mumbai,2022-05-09,Indian Premier League,56.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",3,6,3,field,6,52.0,,win,33.0
+1304103,2022,6,Pune,2022-05-10,Indian Premier League,57.0,male,T20,T20,20,2022,club,"Maharashtra Cricket Association Stadium, Pune",615,615,614,bat,615,62.0,,win,1580.0
+1304104,2022,6,Navi Mumbai,2022-05-11,Indian Premier League,58.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",252,134,252,field,252,,8.0,win,4960.0
+1304105,2022,6,Mumbai,2022-05-12,Indian Premier League,59.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",3,129,3,field,3,,5.0,win,4320.0
+1304106,2022,6,Mumbai,2022-05-13,Indian Premier League,60.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",1,494,1,field,494,54.0,,win,2719.0
+1304107,2022,6,Pune,2022-05-14,Indian Premier League,61.0,male,T20,T20,20,2022,club,"Maharashtra Cricket Association Stadium, Pune",6,6,2,bat,6,54.0,,win,1437.0
+1304108,2022,6,Mumbai,2022-05-15,Indian Premier League,62.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",129,129,615,bat,615,,7.0,win,69.0
+1304109,2022,6,Mumbai,2022-05-15,Indian Premier League,63.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",134,134,614,bat,134,24.0,,win,66.0
+1304110,2022,6,Navi Mumbai,2022-05-16,Indian Premier League,64.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",494,252,494,field,252,17.0,,win,360.0
+1304111,2022,6,Mumbai,2022-05-17,Indian Premier League,65.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",3,2,3,field,2,3.0,,win,268.0
+1304112,2022,6,Navi Mumbai,2022-05-18,Indian Premier League,66.0,male,T20,T20,20,2022,club,"Dr DY Patil Sports Academy, Mumbai",614,614,6,bat,614,2.0,,win,1421.0
+1304113,2022,6,Mumbai,2022-05-19,Indian Premier League,67.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",615,615,1,bat,1,,8.0,win,332.0
+1304114,2022,6,Mumbai,2022-05-20,Indian Premier League,68.0,male,T20,T20,20,2022,club,"Brabourne Stadium, Mumbai",129,129,134,bat,134,,5.0,win,1416.0
+1304115,2022,6,Mumbai,2022-05-21,Indian Premier League,69.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",3,252,3,field,3,,5.0,win,33.0
+1304116,2022,6,Mumbai,2022-05-22,Indian Premier League,70.0,male,T20,T20,20,2022,club,"Wankhede Stadium, Mumbai",2,2,494,bat,494,,5.0,win,3495.0
+1312197,2022,6,Kolkata,2022-05-24,Indian Premier League,,male,T20,T20,20,2022,club,"Eden Gardens, Kolkata",615,134,615,field,615,,7.0,win,72.0
+1312198,2022,6,Kolkata,2022-05-25,Indian Premier League,,male,T20,T20,20,2022,club,"Eden Gardens, Kolkata",614,1,614,field,1,14.0,,win,5349.0
+1312199,2022,6,Ahmedabad,2022-05-27,Indian Premier League,,male,T20,T20,20,2022,club,"Narendra Modi Stadium, Ahmedabad",134,1,134,field,134,,7.0,win,24.0
+1312200,2022,6,Ahmedabad,2022-05-29,Indian Premier League,,male,T20,T20,20,2022,club,"Narendra Modi Stadium, Ahmedabad",134,134,615,bat,615,,7.0,win,30.0
+1359475,2023,6,Ahmedabad,2023-03-31,Indian Premier League,1.0,male,T20,T20,20,2023,club,"Narendra Modi Stadium, Ahmedabad",615,129,615,field,615,,5.0,win,22.0
+1359476,2023,6,Chandigarh,2023-04-01,Indian Premier League,2.0,male,T20,T20,20,2023,club,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",6,494,6,field,494,7.0,,win,3388.0
+1359477,2023,6,Lucknow,2023-04-01,Indian Premier League,3.0,male,T20,T20,20,2023,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",252,614,252,field,614,50.0,,win,1396.0
+1359478,2023,6,Hyderabad,2023-04-02,Indian Premier League,4.0,male,T20,T20,20,2023,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,134,2,field,134,72.0,,win,24.0
+1359479,2023,6,Bengaluru,2023-04-02,Indian Premier League,5.0,male,T20,T20,20,2023,club,"M Chinnaswamy Stadium, Bengaluru",1,3,1,field,1,,8.0,win,267.0
+1359480,2023,6,Chennai,2023-04-03,Indian Premier League,6.0,male,T20,T20,20,2023,club,"MA Chidambaram Stadium, Chepauk, Chennai",614,129,614,field,129,12.0,,win,2227.0
+1359481,2023,6,Delhi,2023-04-04,Indian Premier League,7.0,male,T20,T20,20,2023,club,"Arun Jaitley Stadium, Delhi",615,252,615,field,615,,6.0,win,6999.0
+1359482,2023,6,Guwahati,2023-04-05,Indian Premier League,8.0,male,T20,T20,20,2023,club,"Barsapara Cricket Stadium, Guwahati",134,494,134,field,494,5.0,,win,6245.0
+1359483,2023,6,Kolkata,2023-04-06,Indian Premier League,9.0,male,T20,T20,20,2023,club,"Eden Gardens, Kolkata",1,6,1,field,6,81.0,,win,360.0
+1359484,2023,6,Lucknow,2023-04-07,Indian Premier League,10.0,male,T20,T20,20,2023,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2,2,614,bat,614,,5.0,win,28.0
+1359485,2023,6,Guwahati,2023-04-08,Indian Premier League,11.0,male,T20,T20,20,2023,club,"Barsapara Cricket Stadium, Guwahati",252,134,252,field,134,57.0,,win,4104.0
+1359486,2023,6,Mumbai,2023-04-08,Indian Premier League,12.0,male,T20,T20,20,2023,club,"Wankhede Stadium, Mumbai",129,3,129,field,129,,7.0,win,348.0
+1359487,2023,6,Ahmedabad,2023-04-09,Indian Premier League,13.0,male,T20,T20,20,2023,club,"Narendra Modi Stadium, Ahmedabad",615,615,6,bat,6,,3.0,win,1436.0
+1359488,2023,6,Hyderabad,2023-04-09,Indian Premier League,14.0,male,T20,T20,20,2023,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,494,2,field,2,,8.0,win,13.0
+1359489,2023,6,Bengaluru,2023-04-10,Indian Premier League,15.0,male,T20,T20,20,2023,club,"M Chinnaswamy Stadium, Bengaluru",614,1,614,field,614,,1.0,win,2766.0
+1359490,2023,6,Delhi,2023-04-11,Indian Premier League,16.0,male,T20,T20,20,2023,club,"Arun Jaitley Stadium, Delhi",3,252,3,field,3,,6.0,win,25.0
+1359491,2023,6,Chennai,2023-04-12,Indian Premier League,17.0,male,T20,T20,20,2023,club,"MA Chidambaram Stadium, Chepauk, Chennai",129,134,129,field,134,3.0,,win,1416.0
+1359492,2023,6,Chandigarh,2023-04-13,Indian Premier League,18.0,male,T20,T20,20,2023,club,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",615,494,615,field,615,,6.0,win,75.0
+1359493,2023,6,Kolkata,2023-04-14,Indian Premier League,19.0,male,T20,T20,20,2023,club,"Eden Gardens, Kolkata",6,2,6,field,2,23.0,,win,8372.0
+1359494,2023,6,Bengaluru,2023-04-15,Indian Premier League,20.0,male,T20,T20,20,2023,club,"M Chinnaswamy Stadium, Bengaluru",252,1,252,field,1,23.0,,win,332.0
+1359495,2023,6,Lucknow,2023-04-15,Indian Premier League,21.0,male,T20,T20,20,2023,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",494,614,494,field,494,,2.0,win,8312.0
+1359496,2023,6,Mumbai,2023-04-16,Indian Premier League,22.0,male,T20,T20,20,2023,club,"Wankhede Stadium, Mumbai",3,6,3,field,3,,5.0,win,5986.0
+1359497,2023,6,Ahmedabad,2023-04-16,Indian Premier League,23.0,male,T20,T20,20,2023,club,"Narendra Modi Stadium, Ahmedabad",134,615,134,field,134,,3.0,win,2700.0
+1359498,2023,6,Bengaluru,2023-04-17,Indian Premier League,24.0,male,T20,T20,20,2023,club,"M Chinnaswamy Stadium, Bengaluru",1,129,1,field,129,8.0,,win,6657.0
+1359499,2023,6,Hyderabad,2023-04-18,Indian Premier League,25.0,male,T20,T20,20,2023,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,3,2,field,3,14.0,,win,8383.0
+1359500,2023,6,Jaipur,2023-04-19,Indian Premier League,26.0,male,T20,T20,20,2023,club,"Sawai Mansingh Stadium, Jaipur",134,614,134,field,614,10.0,,win,73.0
+1359501,2023,6,Chandigarh,2023-04-20,Indian Premier League,27.0,male,T20,T20,20,2023,club,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",494,1,494,field,1,24.0,,win,538.0
+1359502,2023,6,Delhi,2023-04-20,Indian Premier League,28.0,male,T20,T20,20,2023,club,"Arun Jaitley Stadium, Delhi",252,6,252,field,252,,4.0,win,308.0
+1359503,2023,6,Chennai,2023-04-21,Indian Premier League,29.0,male,T20,T20,20,2023,club,"MA Chidambaram Stadium, Chepauk, Chennai",129,2,129,field,129,,7.0,win,348.0
+1359504,2023,6,Lucknow,2023-04-22,Indian Premier League,30.0,male,T20,T20,20,2023,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",615,615,614,bat,615,7.0,,win,75.0
+1359505,2023,6,Mumbai,2023-04-22,Indian Premier League,31.0,male,T20,T20,20,2023,club,"Wankhede Stadium, Mumbai",3,494,3,field,494,13.0,,win,2768.0
+1359506,2023,6,Bengaluru,2023-04-23,Indian Premier League,32.0,male,T20,T20,20,2023,club,"M Chinnaswamy Stadium, Bengaluru",134,1,134,field,1,7.0,,win,71.0
+1359507,2023,6,Kolkata,2023-04-23,Indian Premier League,33.0,male,T20,T20,20,2023,club,"Eden Gardens, Kolkata",6,129,6,field,129,49.0,,win,34.0
+1359508,2023,6,Hyderabad,2023-04-24,Indian Premier League,34.0,male,T20,T20,20,2023,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",252,252,2,bat,252,7.0,,win,70.0
+1359509,2023,6,Ahmedabad,2023-04-25,Indian Premier League,35.0,male,T20,T20,20,2023,club,"Narendra Modi Stadium, Ahmedabad",3,615,3,field,615,55.0,,win,6739.0
+1359510,2023,6,Bengaluru,2023-04-26,Indian Premier League,36.0,male,T20,T20,20,2023,club,"M Chinnaswamy Stadium, Bengaluru",1,6,1,field,6,21.0,,win,2825.0
+1359511,2023,6,Jaipur,2023-04-27,Indian Premier League,37.0,male,T20,T20,20,2023,club,"Sawai Mansingh Stadium, Jaipur",134,134,129,bat,134,32.0,,win,4104.0
+1359512,2023,6,Chandigarh,2023-04-28,Indian Premier League,38.0,male,T20,T20,20,2023,club,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",494,614,494,field,614,56.0,,win,73.0
+1359513,2023,6,Kolkata,2023-04-29,Indian Premier League,39.0,male,T20,T20,20,2023,club,"Eden Gardens, Kolkata",615,6,615,field,615,,7.0,win,8305.0
+1359514,2023,6,Delhi,2023-04-29,Indian Premier League,40.0,male,T20,T20,20,2023,club,"Arun Jaitley Stadium, Delhi",2,2,252,bat,2,9.0,,win,4960.0
+1359515,2023,6,Chennai,2023-04-30,Indian Premier League,41.0,male,T20,T20,20,2023,club,"MA Chidambaram Stadium, Chepauk, Chennai",129,129,494,bat,494,,4.0,win,6657.0
+1359516,2023,6,Mumbai,2023-04-30,Indian Premier League,42.0,male,T20,T20,20,2023,club,"Wankhede Stadium, Mumbai",134,134,3,bat,3,,6.0,win,4104.0
+1359517,2023,6,Lucknow,2023-05-01,Indian Premier League,43.0,male,T20,T20,20,2023,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,1,614,bat,1,18.0,,win,267.0
+1359518,2023,6,Ahmedabad,2023-05-02,Indian Premier League,44.0,male,T20,T20,20,2023,club,"Narendra Modi Stadium, Ahmedabad",252,252,615,bat,252,5.0,,win,460.0
+1359519,2023,6,Lucknow,2023-05-03,Indian Premier League,45.0,male,T20,T20,20,2023,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",129,614,129,field,129,,,no result,
+1359520,2023,6,Chandigarh,2023-05-03,Indian Premier League,46.0,male,T20,T20,20,2023,club,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",3,494,3,field,3,,6.0,win,347.0
+1359521,2023,6,Hyderabad,2023-05-04,Indian Premier League,47.0,male,T20,T20,20,2023,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",6,6,2,bat,6,5.0,,win,2825.0
+1359522,2023,6,Jaipur,2023-05-05,Indian Premier League,48.0,male,T20,T20,20,2023,club,"Sawai Mansingh Stadium, Jaipur",134,134,615,bat,615,,9.0,win,22.0
+1359523,2023,6,Chennai,2023-05-06,Indian Premier League,49.0,male,T20,T20,20,2023,club,"MA Chidambaram Stadium, Chepauk, Chennai",129,3,129,field,129,,6.0,win,8007.0
+1359524,2023,6,Delhi,2023-05-06,Indian Premier League,50.0,male,T20,T20,20,2023,club,"Arun Jaitley Stadium, Delhi",1,1,252,bat,252,,7.0,win,8945.0
+1359525,2023,6,Ahmedabad,2023-05-07,Indian Premier League,51.0,male,T20,T20,20,2023,club,"Narendra Modi Stadium, Ahmedabad",614,615,614,field,615,56.0,,win,1580.0
+1359526,2023,6,Jaipur,2023-05-07,Indian Premier League,52.0,male,T20,T20,20,2023,club,"Sawai Mansingh Stadium, Jaipur",134,134,2,bat,2,,4.0,win,6033.0
+1359527,2023,6,Kolkata,2023-05-08,Indian Premier League,53.0,male,T20,T20,20,2023,club,"Eden Gardens, Kolkata",494,494,6,bat,6,,5.0,win,1437.0
+1359528,2023,6,Mumbai,2023-05-09,Indian Premier League,54.0,male,T20,T20,20,2023,club,"Wankhede Stadium, Mumbai",3,1,3,field,3,,6.0,win,61.0
+1359529,2023,6,Chennai,2023-05-10,Indian Premier League,55.0,male,T20,T20,20,2023,club,"MA Chidambaram Stadium, Chepauk, Chennai",129,129,252,bat,129,27.0,,win,348.0
+1359530,2023,6,Kolkata,2023-05-11,Indian Premier League,56.0,male,T20,T20,20,2023,club,"Eden Gardens, Kolkata",134,6,134,field,134,,9.0,win,4104.0
+1359531,2023,6,Mumbai,2023-05-12,Indian Premier League,57.0,male,T20,T20,20,2023,club,"Wankhede Stadium, Mumbai",615,3,615,field,3,27.0,,win,61.0
+1359532,2023,6,Hyderabad,2023-05-13,Indian Premier League,58.0,male,T20,T20,20,2023,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2,614,bat,614,,7.0,win,8191.0
+1359533,2023,6,Delhi,2023-05-13,Indian Premier League,59.0,male,T20,T20,20,2023,club,"Arun Jaitley Stadium, Delhi",252,494,252,field,494,31.0,,win,3747.0
+1359534,2023,6,Jaipur,2023-05-14,Indian Premier League,60.0,male,T20,T20,20,2023,club,"Sawai Mansingh Stadium, Jaipur",1,1,134,bat,1,112.0,,win,8626.0
+1359535,2023,6,Chennai,2023-05-14,Indian Premier League,61.0,male,T20,T20,20,2023,club,"MA Chidambaram Stadium, Chepauk, Chennai",129,129,6,bat,6,,6.0,win,1436.0
+1359536,2023,6,Ahmedabad,2023-05-15,Indian Premier League,62.0,male,T20,T20,20,2023,club,"Narendra Modi Stadium, Ahmedabad",2,615,2,field,615,34.0,,win,1580.0
+1359537,2023,6,Lucknow,2023-05-16,Indian Premier League,63.0,male,T20,T20,20,2023,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,614,3,field,614,5.0,,win,73.0
+1359538,2023,6,Dharamsala,2023-05-17,Indian Premier League,64.0,male,T20,T20,20,2023,club,"Himachal Pradesh Cricket Association Stadium, Dharamsala",494,252,494,field,252,15.0,,win,8349.0
+1359539,2023,6,Hyderabad,2023-05-18,Indian Premier League,65.0,male,T20,T20,20,2023,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,2,1,field,1,,8.0,win,332.0
+1359540,2023,6,Dharamsala,2023-05-19,Indian Premier League,66.0,male,T20,T20,20,2023,club,"Himachal Pradesh Cricket Association Stadium, Dharamsala",134,494,134,field,134,,4.0,win,4071.0
+1359541,2023,6,Delhi,2023-05-20,Indian Premier League,67.0,male,T20,T20,20,2023,club,"Arun Jaitley Stadium, Delhi",129,129,252,bat,129,77.0,,win,4119.0
+1359542,2023,6,Kolkata,2023-05-20,Indian Premier League,68.0,male,T20,T20,20,2023,club,"Eden Gardens, Kolkata",6,614,6,field,614,1.0,,win,2766.0
+1359543,2023,6,Mumbai,2023-05-21,Indian Premier League,69.0,male,T20,T20,20,2023,club,"Wankhede Stadium, Mumbai",3,2,3,field,3,,8.0,win,8383.0
+1359544,2023,6,Bengaluru,2023-05-21,Indian Premier League,70.0,male,T20,T20,20,2023,club,"M Chinnaswamy Stadium, Bengaluru",615,1,615,field,615,,6.0,win,1580.0
+1370350,2023,6,Chennai,2023-05-23,Indian Premier League,,male,T20,T20,20,2023,club,"MA Chidambaram Stadium, Chepauk, Chennai",615,129,615,field,129,15.0,,win,4119.0
+1370351,2023,6,Chennai,2023-05-24,Indian Premier League,,male,T20,T20,20,2023,club,"MA Chidambaram Stadium, Chepauk, Chennai",3,3,614,bat,3,81.0,,win,9371.0
+1370352,2023,6,Ahmedabad,2023-05-26,Indian Premier League,,male,T20,T20,20,2023,club,"Narendra Modi Stadium, Ahmedabad",3,615,3,field,615,62.0,,win,1580.0
+1370353,2023,6,Ahmedabad,2023-05-29,Indian Premier League,,male,T20,T20,20,2023,club,"Narendra Modi Stadium, Ahmedabad",129,615,129,field,129,,5.0,win,6657.0
+1422119,2024,6,Chennai,2024-03-22,Indian Premier League,1.0,male,T20,T20,20,2024,club,"MA Chidambaram Stadium, Chepauk, Chennai",1,1,129,bat,129,,6.0,win,297.0
+1422120,2024,6,Mohali,2024-03-23,Indian Premier League,2.0,male,T20,T20,20,2024,club,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",494,252,494,field,494,,4.0,win,2768.0
+1422121,2024,6,Kolkata,2024-03-23,Indian Premier League,3.0,male,T20,T20,20,2024,club,"Eden Gardens, Kolkata",2,6,2,field,6,4.0,,win,1437.0
+1422122,2024,6,Jaipur,2024-03-24,Indian Premier League,4.0,male,T20,T20,20,2024,club,"Sawai Mansingh Stadium, Jaipur",134,134,614,bat,134,20.0,,win,180.0
+1422123,2024,6,Ahmedabad,2024-03-24,Indian Premier League,5.0,male,T20,T20,20,2024,club,"Narendra Modi Stadium, Ahmedabad",3,615,3,field,615,6.0,,win,6999.0
+1422124,2024,6,Bengaluru,2024-03-25,Indian Premier League,6.0,male,T20,T20,20,2024,club,"M Chinnaswamy Stadium, Bengaluru",1,494,1,field,1,,4.0,win,332.0
+1422125,2024,6,Chennai,2024-03-26,Indian Premier League,7.0,male,T20,T20,20,2024,club,"MA Chidambaram Stadium, Chepauk, Chennai",615,129,615,field,129,63.0,,win,2701.0
+1422126,2024,6,Hyderabad,2024-03-27,Indian Premier League,8.0,male,T20,T20,20,2024,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",3,2,3,field,2,31.0,,win,2349.0
+1422127,2024,6,Jaipur,2024-03-28,Indian Premier League,9.0,male,T20,T20,20,2024,club,"Sawai Mansingh Stadium, Jaipur",252,134,252,field,134,12.0,,win,3230.0
+1422128,2024,6,Bengaluru,2024-03-29,Indian Premier League,10.0,male,T20,T20,20,2024,club,"M Chinnaswamy Stadium, Bengaluru",6,1,6,field,6,,7.0,win,65.0
+1422129,2024,6,Lucknow,2024-03-30,Indian Premier League,11.0,male,T20,T20,20,2024,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",614,614,494,bat,614,21.0,,win,10302.0
+1422130,2024,6,Ahmedabad,2024-03-31,Indian Premier League,12.0,male,T20,T20,20,2024,club,"Narendra Modi Stadium, Ahmedabad",2,2,615,bat,615,,7.0,win,75.0
+1422131,2024,6,Visakhapatnam,2024-03-31,Indian Premier League,13.0,male,T20,T20,20,2024,club,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",252,252,129,bat,252,20.0,,win,2662.0
+1422132,2024,6,Mumbai,2024-04-01,Indian Premier League,14.0,male,T20,T20,20,2024,club,"Wankhede Stadium, Mumbai",134,3,134,field,134,,6.0,win,66.0
+1422133,2024,6,Bengaluru,2024-04-02,Indian Premier League,15.0,male,T20,T20,20,2024,club,"M Chinnaswamy Stadium, Bengaluru",1,614,1,field,614,28.0,,win,10302.0
+1422134,2024,6,Visakhapatnam,2024-04-03,Indian Premier League,16.0,male,T20,T20,20,2024,club,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",6,6,252,bat,6,106.0,,win,65.0
+1422135,2024,6,Ahmedabad,2024-04-04,Indian Premier League,17.0,male,T20,T20,20,2024,club,"Narendra Modi Stadium, Ahmedabad",494,615,494,field,494,,3.0,win,7024.0
+1422136,2024,6,Hyderabad,2024-04-05,Indian Premier League,18.0,male,T20,T20,20,2024,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,129,2,field,2,,6.0,win,2349.0
+1422137,2024,6,Jaipur,2024-04-06,Indian Premier League,19.0,male,T20,T20,20,2024,club,"Sawai Mansingh Stadium, Jaipur",134,1,134,field,134,,6.0,win,24.0
+1422138,2024,6,Mumbai,2024-04-07,Indian Premier League,20.0,male,T20,T20,20,2024,club,"Wankhede Stadium, Mumbai",252,3,252,field,3,29.0,,win,6761.0
+1422139,2024,6,Lucknow,2024-04-07,Indian Premier League,21.0,male,T20,T20,20,2024,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",614,614,615,bat,614,33.0,,win,8425.0
+1426260,2024,6,Chennai,2024-04-08,Indian Premier League,22.0,male,T20,T20,20,2024,club,"MA Chidambaram Stadium, Chepauk, Chennai",129,6,129,field,129,,7.0,win,348.0
+1426261,2024,6,Mohali,2024-04-09,Indian Premier League,23.0,male,T20,T20,20,2024,club,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",494,2,494,field,2,2.0,,win,9824.0
+1426262,2024,6,Jaipur,2024-04-10,Indian Premier League,24.0,male,T20,T20,20,2024,club,"Sawai Mansingh Stadium, Jaipur",615,134,615,field,615,,3.0,win,22.0
+1426263,2024,6,Mumbai,2024-04-11,Indian Premier League,25.0,male,T20,T20,20,2024,club,"Wankhede Stadium, Mumbai",3,1,3,field,3,,7.0,win,33.0
+1426264,2024,6,Lucknow,2024-04-12,Indian Premier League,26.0,male,T20,T20,20,2024,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",614,614,252,bat,252,,6.0,win,64.0
+1426265,2024,6,Mohali,2024-04-13,Indian Premier League,27.0,male,T20,T20,20,2024,club,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",134,494,134,field,134,,3.0,win,2700.0
+1426266,2024,6,Kolkata,2024-04-14,Indian Premier League,28.0,male,T20,T20,20,2024,club,"Eden Gardens, Kolkata",6,614,6,field,6,,8.0,win,8945.0
+1426267,2024,6,Mumbai,2024-04-14,Indian Premier League,29.0,male,T20,T20,20,2024,club,"Wankhede Stadium, Mumbai",3,129,3,field,129,20.0,,win,8007.0
+1426268,2024,6,Bengaluru,2024-04-15,Indian Premier League,30.0,male,T20,T20,20,2024,club,"M Chinnaswamy Stadium, Bengaluru",1,2,1,field,2,25.0,,win,3.0
+1426269,2024,6,Kolkata,2024-04-16,Indian Premier League,31.0,male,T20,T20,20,2024,club,"Eden Gardens, Kolkata",134,6,134,field,134,,2.0,win,24.0
+1426270,2024,6,Ahmedabad,2024-04-17,Indian Premier League,32.0,male,T20,T20,20,2024,club,"Narendra Modi Stadium, Ahmedabad",252,615,252,field,252,,6.0,win,181.0
+1426271,2024,6,Mohali,2024-04-18,Indian Premier League,33.0,male,T20,T20,20,2024,club,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",494,3,494,field,3,9.0,,win,33.0
+1426272,2024,6,Lucknow,2024-04-19,Indian Premier League,34.0,male,T20,T20,20,2024,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",614,129,614,field,614,,8.0,win,1409.0
+1426273,2024,6,Delhi,2024-04-20,Indian Premier League,35.0,male,T20,T20,20,2024,club,"Arun Jaitley Stadium, Delhi",252,2,252,field,2,67.0,,win,3.0
+1426274,2024,6,Kolkata,2024-04-21,Indian Premier League,36.0,male,T20,T20,20,2024,club,"Eden Gardens, Kolkata",1,6,1,field,6,1.0,,win,1437.0
+1426275,2024,6,Mohali,2024-04-21,Indian Premier League,37.0,male,T20,T20,20,2024,club,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",494,494,615,bat,615,,3.0,win,7895.0
+1426276,2024,6,Jaipur,2024-04-22,Indian Premier League,38.0,male,T20,T20,20,2024,club,"Sawai Mansingh Stadium, Jaipur",3,3,134,bat,134,,9.0,win,76.0
+1426277,2024,6,Chennai,2024-04-23,Indian Premier League,39.0,male,T20,T20,20,2024,club,"MA Chidambaram Stadium, Chepauk, Chennai",614,129,614,field,614,,6.0,win,73.0
+1426278,2024,6,Delhi,2024-04-24,Indian Premier League,40.0,male,T20,T20,20,2024,club,"Arun Jaitley Stadium, Delhi",615,252,615,field,252,4.0,,win,181.0
+1426279,2024,6,Hyderabad,2024-04-25,Indian Premier League,41.0,male,T20,T20,20,2024,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1,2,bat,1,35.0,,win,5349.0
+1426280,2024,6,Kolkata,2024-04-26,Indian Premier League,42.0,male,T20,T20,20,2024,club,"Eden Gardens, Kolkata",494,6,494,field,494,,8.0,win,2719.0
+1426281,2024,6,Delhi,2024-04-27,Indian Premier League,43.0,male,T20,T20,20,2024,club,"Arun Jaitley Stadium, Delhi",3,252,3,field,252,10.0,,win,10667.0
+1426282,2024,6,Lucknow,2024-04-27,Indian Premier League,44.0,male,T20,T20,20,2024,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",134,614,134,field,134,,7.0,win,180.0
+1426283,2024,6,Ahmedabad,2024-04-28,Indian Premier League,45.0,male,T20,T20,20,2024,club,"Narendra Modi Stadium, Ahmedabad",1,615,1,field,1,,9.0,win,10630.0
+1426284,2024,6,Chennai,2024-04-28,Indian Premier League,46.0,male,T20,T20,20,2024,club,"MA Chidambaram Stadium, Chepauk, Chennai",2,129,2,field,129,78.0,,win,4119.0
+1426285,2024,6,Kolkata,2024-04-29,Indian Premier League,47.0,male,T20,T20,20,2024,club,"Eden Gardens, Kolkata",252,252,6,bat,6,,7.0,win,2825.0
+1426286,2024,6,Lucknow,2024-04-30,Indian Premier League,48.0,male,T20,T20,20,2024,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",614,3,614,field,614,,4.0,win,73.0
+1426287,2024,6,Chennai,2024-05-01,Indian Premier League,49.0,male,T20,T20,20,2024,club,"MA Chidambaram Stadium, Chepauk, Chennai",494,129,494,field,494,,7.0,win,3495.0
+1426288,2024,6,Hyderabad,2024-05-02,Indian Premier League,50.0,male,T20,T20,20,2024,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,2,134,bat,2,1.0,,win,20.0
+1426289,2024,6,Mumbai,2024-05-03,Indian Premier League,51.0,male,T20,T20,20,2024,club,"Wankhede Stadium, Mumbai",3,6,3,field,6,24.0,,win,5986.0
+1426290,2024,6,Bengaluru,2024-05-04,Indian Premier League,52.0,male,T20,T20,20,2024,club,"M Chinnaswamy Stadium, Bengaluru",1,615,1,field,1,,4.0,win,538.0
+1426291,2024,6,Dharamsala,2024-05-05,Indian Premier League,53.0,male,T20,T20,20,2024,club,"Himachal Pradesh Cricket Association Stadium, Dharamsala",494,129,494,field,129,28.0,,win,348.0
+1426292,2024,6,Lucknow,2024-05-05,Indian Premier League,54.0,male,T20,T20,20,2024,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",614,6,614,field,6,98.0,,win,65.0
+1426293,2024,6,Mumbai,2024-05-06,Indian Premier League,55.0,male,T20,T20,20,2024,club,"Wankhede Stadium, Mumbai",3,2,3,field,3,,7.0,win,61.0
+1426294,2024,6,Delhi,2024-05-07,Indian Premier League,56.0,male,T20,T20,20,2024,club,"Arun Jaitley Stadium, Delhi",134,252,134,field,252,20.0,,win,64.0
+1426295,2024,6,Hyderabad,2024-05-08,Indian Premier League,57.0,male,T20,T20,20,2024,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",614,614,2,bat,2,,10.0,win,3.0
+1426296,2024,6,Dharamsala,2024-05-09,Indian Premier League,58.0,male,T20,T20,20,2024,club,"Himachal Pradesh Cricket Association Stadium, Dharamsala",494,1,494,field,1,60.0,,win,332.0
+1426297,2024,6,Ahmedabad,2024-05-10,Indian Premier League,59.0,male,T20,T20,20,2024,club,"Narendra Modi Stadium, Ahmedabad",129,615,129,field,615,35.0,,win,1580.0
+1426298,2024,6,Kolkata,2024-05-11,Indian Premier League,60.0,male,T20,T20,20,2024,club,"Eden Gardens, Kolkata",3,6,3,field,6,18.0,,win,2825.0
+1426299,2024,6,Chennai,2024-05-12,Indian Premier League,61.0,male,T20,T20,20,2024,club,"MA Chidambaram Stadium, Chepauk, Chennai",134,134,129,bat,129,,5.0,win,7652.0
+1426300,2024,6,Bengaluru,2024-05-12,Indian Premier League,62.0,male,T20,T20,20,2024,club,"M Chinnaswamy Stadium, Bengaluru",252,1,252,field,1,47.0,,win,8383.0
+1426302,2024,6,Delhi,2024-05-14,Indian Premier League,64.0,male,T20,T20,20,2024,club,"Arun Jaitley Stadium, Delhi",614,252,614,field,252,19.0,,win,308.0
+1426303,2024,6,Guwahati,2024-05-15,Indian Premier League,65.0,male,T20,T20,20,2024,club,"Barsapara Cricket Stadium, Guwahati",134,134,494,bat,494,,5.0,win,2768.0
+1426305,2024,6,Mumbai,2024-05-17,Indian Premier League,67.0,male,T20,T20,20,2024,club,"Wankhede Stadium, Mumbai",3,614,3,field,614,18.0,,win,2766.0
+1426306,2024,6,Bengaluru,2024-05-18,Indian Premier League,68.0,male,T20,T20,20,2024,club,"M Chinnaswamy Stadium, Bengaluru",129,1,129,field,1,27.0,,win,267.0
+1426307,2024,6,Hyderabad,2024-05-19,Indian Premier League,69.0,male,T20,T20,20,2024,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",494,494,2,bat,2,,4.0,win,2349.0
+1426309,2024,6,Ahmedabad,2024-05-21,Indian Premier League,,male,T20,T20,20,2024,club,"Narendra Modi Stadium, Ahmedabad",2,2,6,bat,6,,8.0,win,10109.0
+1426310,2024,6,Ahmedabad,2024-05-22,Indian Premier League,,male,T20,T20,20,2024,club,"Narendra Modi Stadium, Ahmedabad",134,1,134,field,134,,4.0,win,1416.0
+1426311,2024,6,Chennai,2024-05-24,Indian Premier League,,male,T20,T20,20,2024,club,"MA Chidambaram Stadium, Chepauk, Chennai",134,2,134,field,2,36.0,,win,4310.0
+1426312,2024,6,Chennai,2024-05-26,Indian Premier League,,male,T20,T20,20,2024,club,"MA Chidambaram Stadium, Chepauk, Chennai",2,2,6,bat,6,,8.0,win,10109.0
+1473438,2025,6,Kolkata,2025-03-22,Indian Premier League,1.0,male,T20,T20,20,2025,club,"Eden Gardens, Kolkata",1,6,1,field,1,,7.0,win,28.0
+1473439,2025,6,Hyderabad,2025-03-23,Indian Premier League,2.0,male,T20,T20,20,2025,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",134,2,134,field,2,44.0,,win,347.0
+1473440,2025,6,Chennai,2025-03-23,Indian Premier League,3.0,male,T20,T20,20,2025,club,"MA Chidambaram Stadium, Chepauk, Chennai",129,3,129,field,129,,4.0,win,8809.0
+1473441,2025,6,Visakhapatnam,2025-03-24,Indian Premier League,4.0,male,T20,T20,20,2025,club,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",252,614,252,field,252,,1.0,win,10456.0
+1473442,2025,6,Ahmedabad,2025-03-25,Indian Premier League,5.0,male,T20,T20,20,2025,club,"Narendra Modi Stadium, Ahmedabad",615,494,615,field,494,11.0,,win,389.0
+1473443,2025,6,Guwahati,2025-03-26,Indian Premier League,6.0,male,T20,T20,20,2025,club,"Barsapara Cricket Stadium, Guwahati",6,134,6,field,6,,8.0,win,1421.0
+1473444,2025,6,Hyderabad,2025-03-27,Indian Premier League,7.0,male,T20,T20,20,2025,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",614,2,614,field,614,,5.0,win,360.0
+1473445,2025,6,Chennai,2025-03-28,Indian Premier League,8.0,male,T20,T20,20,2025,club,"MA Chidambaram Stadium, Chepauk, Chennai",129,1,129,field,1,50.0,,win,5349.0
+335983,2008,6,Chandigarh,2008-04-19,Indian Premier League,2.0,male,T20,T20,20,2008,club,"Punjab Cricket Association Stadium, Mohali",129,494,129,bat,129,33.0,,win,11943.0
+335984,2008,6,Delhi,2008-04-19,Indian Premier League,3.0,male,T20,T20,20,2008,club,Feroz Shah Kotla,134,252,134,bat,252,,9.0,win,11982.0
+335985,2008,6,Mumbai,2008-04-20,Indian Premier League,5.0,male,T20,T20,20,2008,club,Wankhede Stadium,3,3,1,bat,1,,5.0,win,11935.0
+335986,2008,6,Kolkata,2008-04-20,Indian Premier League,4.0,male,T20,T20,20,2008,club,Eden Gardens,2,6,2,bat,6,,5.0,win,11922.0
+335987,2008,6,Jaipur,2008-04-21,Indian Premier League,6.0,male,T20,T20,20,2008,club,Sawai Mansingh Stadium,494,134,494,bat,134,,6.0,win,5.0
+335988,2008,6,Hyderabad,2008-04-22,Indian Premier League,7.0,male,T20,T20,20,2008,club,"Rajiv Gandhi International Stadium, Uppal",2,2,252,bat,252,,9.0,win,11975.0
+335989,2008,6,Chennai,2008-04-23,Indian Premier League,8.0,male,T20,T20,20,2008,club,"MA Chidambaram Stadium, Chepauk",3,129,3,field,129,6.0,,win,11942.0
+335990,2008,6,Hyderabad,2008-04-24,Indian Premier League,9.0,male,T20,T20,20,2008,club,"Rajiv Gandhi International Stadium, Uppal",134,2,134,field,134,,3.0,win,60.0
+335991,2008,6,Chandigarh,2008-04-25,Indian Premier League,10.0,male,T20,T20,20,2008,club,"Punjab Cricket Association Stadium, Mohali",3,494,3,field,494,66.0,,win,11954.0
+335992,2008,6,Bangalore,2008-04-26,Indian Premier League,12.0,male,T20,T20,20,2008,club,M Chinnaswamy Stadium,134,1,134,field,134,,7.0,win,5.0
+335993,2008,6,Chennai,2008-04-26,Indian Premier League,11.0,male,T20,T20,20,2008,club,"MA Chidambaram Stadium, Chepauk",6,129,6,bat,129,,9.0,win,11946.0
+335994,2008,6,Mumbai,2008-04-27,Indian Premier League,14.0,male,T20,T20,20,2008,club,Dr DY Patil Sports Academy,2,3,2,field,2,,10.0,win,12007.0
+335995,2008,6,Chandigarh,2008-04-27,Indian Premier League,13.0,male,T20,T20,20,2008,club,"Punjab Cricket Association Stadium, Mohali",252,494,252,bat,494,,4.0,win,11956.0
+335996,2008,6,Bangalore,2008-04-28,Indian Premier League,15.0,male,T20,T20,20,2008,club,M Chinnaswamy Stadium,129,1,129,bat,129,13.0,,win,38.0
+335997,2008,6,Kolkata,2008-04-29,Indian Premier League,16.0,male,T20,T20,20,2008,club,Eden Gardens,6,6,3,bat,3,,7.0,win,11986.0
+335998,2008,6,Delhi,2008-04-30,Indian Premier League,17.0,male,T20,T20,20,2008,club,Feroz Shah Kotla,1,252,1,field,252,10.0,,win,11984.0
+335999,2008,6,Hyderabad,2008-05-01,Indian Premier League,19.0,male,T20,T20,20,2008,club,"Rajiv Gandhi International Stadium, Uppal",494,2,494,field,494,,7.0,win,541.0
+336000,2008,6,Jaipur,2008-05-01,Indian Premier League,18.0,male,T20,T20,20,2008,club,Sawai Mansingh Stadium,134,134,6,bat,134,45.0,,win,12327.0
+336001,2008,6,Chennai,2008-05-02,Indian Premier League,20.0,male,T20,T20,20,2008,club,"MA Chidambaram Stadium, Chepauk",129,129,252,bat,252,,8.0,win,11975.0
+336002,2008,6,Hyderabad,2008-05-25,Indian Premier League,51.0,male,T20,T20,20,2008,club,"Rajiv Gandhi International Stadium, Uppal",2,2,1,bat,1,,5.0,win,1242.0
+336003,2008,6,Chandigarh,2008-05-03,Indian Premier League,22.0,male,T20,T20,20,2008,club,"Punjab Cricket Association Stadium, Mohali",494,494,6,bat,494,9.0,,win,811.0
+336004,2008,6,Mumbai,2008-05-04,Indian Premier League,23.0,male,T20,T20,20,2008,club,Dr DY Patil Sports Academy,252,3,252,field,3,29.0,,win,11991.0
+336005,2008,6,Jaipur,2008-05-04,Indian Premier League,24.0,male,T20,T20,20,2008,club,Sawai Mansingh Stadium,129,134,129,bat,134,,8.0,win,12147.0
+336006,2008,6,Bangalore,2008-05-05,Indian Premier League,25.0,male,T20,T20,20,2008,club,M Chinnaswamy Stadium,494,1,494,field,494,,6.0,win,11962.0
+336007,2008,6,Chennai,2008-05-06,Indian Premier League,26.0,male,T20,T20,20,2008,club,"MA Chidambaram Stadium, Chepauk",2,129,2,field,2,,7.0,win,12007.0
+336008,2008,6,Mumbai,2008-05-07,Indian Premier League,27.0,male,T20,T20,20,2008,club,Dr DY Patil Sports Academy,3,3,134,field,3,,7.0,win,21.0
+336009,2008,6,Delhi,2008-05-08,Indian Premier League,28.0,male,T20,T20,20,2008,club,Feroz Shah Kotla,129,252,129,field,129,,4.0,win,38.0
+336010,2008,6,Kolkata,2008-05-08,Indian Premier League,29.0,male,T20,T20,20,2008,club,Eden Gardens,6,6,1,bat,6,5.0,,win,11919.0
+336011,2008,6,Jaipur,2008-05-09,Indian Premier League,30.0,male,T20,T20,20,2008,club,Sawai Mansingh Stadium,134,134,2,field,134,,8.0,win,60.0
+336012,2008,6,Bangalore,2008-05-28,Indian Premier League,55.0,male,T20,T20,20,2008,club,M Chinnaswamy Stadium,3,1,3,field,3,,9.0,win,12269.0
+336013,2008,6,Chennai,2008-05-10,Indian Premier League,31.0,male,T20,T20,20,2008,club,"MA Chidambaram Stadium, Chepauk",494,129,494,field,129,18.0,,win,12523.0
+336014,2008,6,Hyderabad,2008-05-11,Indian Premier League,32.0,male,T20,T20,20,2008,club,"Rajiv Gandhi International Stadium, Uppal",6,2,6,bat,6,23.0,,win,11919.0
+336015,2008,6,Jaipur,2008-05-11,Indian Premier League,33.0,male,T20,T20,20,2008,club,Sawai Mansingh Stadium,134,134,252,field,134,,3.0,win,5.0
+336016,2008,6,Chandigarh,2008-05-12,Indian Premier League,34.0,male,T20,T20,20,2008,club,"Punjab Cricket Association Stadium, Mohali",1,494,1,bat,494,,9.0,win,541.0
+336017,2008,6,Kolkata,2008-05-13,Indian Premier League,35.0,male,T20,T20,20,2008,club,Eden Gardens,6,6,252,bat,6,23.0,,win,12710.0
+336018,2008,6,Mumbai,2008-05-14,Indian Premier League,36.0,male,T20,T20,20,2008,club,Wankhede Stadium,3,3,129,field,3,,9.0,win,11986.0
+336019,2008,6,Chandigarh,2008-05-28,Indian Premier League,56.0,male,T20,T20,20,2008,club,"Punjab Cricket Association Stadium, Mohali",134,494,134,field,494,41.0,,win,541.0
+336020,2008,6,Delhi,2008-05-15,Indian Premier League,37.0,male,T20,T20,20,2008,club,Feroz Shah Kotla,2,252,2,field,252,12.0,,win,185.0
+336021,2008,6,Mumbai,2008-05-16,Indian Premier League,38.0,male,T20,T20,20,2008,club,Wankhede Stadium,3,3,6,field,3,,8.0,win,11991.0
+336022,2008,6,Delhi,2008-05-17,Indian Premier League,40.0,male,T20,T20,20,2008,club,Feroz Shah Kotla,252,252,494,bat,494,6.0,,win,12032.0
+336023,2008,6,Jaipur,2008-05-17,Indian Premier League,39.0,male,T20,T20,20,2008,club,Sawai Mansingh Stadium,1,134,1,field,134,65.0,,win,12107.0
+336024,2008,6,Hyderabad,2008-05-18,Indian Premier League,42.0,male,T20,T20,20,2008,club,"Rajiv Gandhi International Stadium, Uppal",2,2,3,field,3,25.0,,win,1393.0
+336025,2008,6,Kolkata,2008-05-18,Indian Premier League,41.0,male,T20,T20,20,2008,club,Eden Gardens,6,6,129,bat,129,3.0,,win,12345.0
+336026,2008,6,Bangalore,2008-05-19,Indian Premier League,43.0,male,T20,T20,20,2008,club,M Chinnaswamy Stadium,252,1,252,field,252,,5.0,win,2295.0
+336027,2008,6,Kolkata,2008-05-20,Indian Premier League,44.0,male,T20,T20,20,2008,club,Eden Gardens,134,6,134,field,134,,6.0,win,60.0
+336028,2008,6,Mumbai,2008-05-21,Indian Premier League,45.0,male,T20,T20,20,2008,club,Wankhede Stadium,3,3,494,field,494,1.0,,win,541.0
+336029,2008,6,Chennai,2008-05-21,Indian Premier League,46.0,male,T20,T20,20,2008,club,"MA Chidambaram Stadium, Chepauk",1,129,1,bat,1,14.0,,win,12160.0
+336031,2008,6,Chandigarh,2008-05-23,Indian Premier League,48.0,male,T20,T20,20,2008,club,"Punjab Cricket Association Stadium, Mohali",494,494,2,field,494,,6.0,win,541.0
+336032,2008,6,Delhi,2008-05-24,Indian Premier League,50.0,male,T20,T20,20,2008,club,Feroz Shah Kotla,252,252,3,field,252,,5.0,win,49.0
+336033,2008,6,Chennai,2008-05-24,Indian Premier League,49.0,male,T20,T20,20,2008,club,"MA Chidambaram Stadium, Chepauk",134,129,134,bat,134,10.0,,win,12234.0
+336034,2008,6,Bangalore,2008-05-03,Indian Premier League,21.0,male,T20,T20,20,2008,club,M Chinnaswamy Stadium,2,1,2,field,1,3.0,,win,52.0
+336035,2008,6,Kolkata,2008-05-25,Indian Premier League,52.0,male,T20,T20,20,2008,club,Eden Gardens,494,6,494,bat,6,,3.0,win,12323.0
+336036,2008,6,Jaipur,2008-05-26,Indian Premier League,53.0,male,T20,T20,20,2008,club,Sawai Mansingh Stadium,134,134,3,field,134,,5.0,win,12147.0
+336037,2008,6,Hyderabad,2008-05-27,Indian Premier League,54.0,male,T20,T20,20,2008,club,"Rajiv Gandhi International Stadium, Uppal",2,2,129,bat,129,,7.0,win,47.0
+336038,2008,6,Mumbai,2008-05-30,Indian Premier League,,male,T20,T20,20,2008,club,Wankhede Stadium,252,252,134,field,134,105.0,,win,5.0
+336039,2008,6,Mumbai,2008-05-31,Indian Premier League,,male,T20,T20,20,2008,club,Wankhede Stadium,494,129,494,bat,129,,9.0,win,12345.0
+336040,2008,6,Mumbai,2008-06-01,Indian Premier League,,male,T20,T20,20,2008,club,Dr DY Patil Sports Academy,134,129,134,field,134,,3.0,win,60.0
+392181,2009,6,Cape Town,2009-04-18,Indian Premier League,1.0,male,T20,T20,20,2009,club,Newlands,129,129,3,field,3,19.0,,win,12580.0
+392182,2009,6,Cape Town,2009-04-18,Indian Premier League,2.0,male,T20,T20,20,2009,club,Newlands,1,1,134,bat,1,75.0,,win,11930.0
+392183,2009,6,Cape Town,2009-04-19,Indian Premier League,3.0,male,T20,T20,20,2009,club,Newlands,252,252,494,field,252,,10.0,win,11981.0
+392184,2009,6,Cape Town,2009-04-19,Indian Premier League,4.0,male,T20,T20,20,2009,club,Newlands,6,2,6,bat,2,,8.0,win,12016.0
+392185,2009,6,Port Elizabeth,2009-04-20,Indian Premier League,5.0,male,T20,T20,20,2009,club,St George's Park,129,1,129,bat,129,92.0,,win,11951.0
+392186,2009,6,Durban,2009-04-21,Indian Premier League,6.0,male,T20,T20,20,2009,club,Kingsmead,6,494,6,field,6,11.0,,win,1.0
+392188,2009,6,Cape Town,2009-04-22,Indian Premier League,8.0,male,T20,T20,20,2009,club,Newlands,2,1,2,bat,2,24.0,,win,12007.0
+392189,2009,6,Durban,2009-04-23,Indian Premier League,9.0,male,T20,T20,20,2009,club,Kingsmead,252,129,252,bat,252,9.0,,win,245.0
+392190,2009,6,Cape Town,2009-04-23,Indian Premier League,10.0,male,T20,T20,20,2009,club,Newlands,6,6,134,field,134,,,tie,60.0
+392191,2009,6,Durban,2009-04-24,Indian Premier League,11.0,male,T20,T20,20,2009,club,Kingsmead,1,1,494,bat,494,,7.0,win,13250.0
+392192,2009,6,Durban,2009-04-25,Indian Premier League,12.0,male,T20,T20,20,2009,club,Kingsmead,2,2,3,bat,2,12.0,,win,12017.0
+392194,2009,6,Port Elizabeth,2009-04-26,Indian Premier League,14.0,male,T20,T20,20,2009,club,St George's Park,1,1,252,bat,252,,6.0,win,12650.0
+392195,2009,6,Cape Town,2009-04-26,Indian Premier League,15.0,male,T20,T20,20,2009,club,Newlands,494,494,134,bat,494,27.0,,win,11954.0
+392196,2009,6,Durban,2009-04-27,Indian Premier League,16.0,male,T20,T20,20,2009,club,Kingsmead,2,129,2,field,2,,6.0,win,12295.0
+392197,2009,6,Port Elizabeth,2009-04-27,Indian Premier League,17.0,male,T20,T20,20,2009,club,St George's Park,3,6,3,bat,3,92.0,,win,12580.0
+392198,2009,6,Centurion,2009-04-28,Indian Premier League,18.0,male,T20,T20,20,2009,club,SuperSport Park,252,252,134,bat,134,,5.0,win,60.0
+392199,2009,6,Durban,2009-04-29,Indian Premier League,19.0,male,T20,T20,20,2009,club,Kingsmead,6,1,6,bat,1,,5.0,win,11935.0
+392200,2009,6,Durban,2009-04-29,Indian Premier League,20.0,male,T20,T20,20,2009,club,Kingsmead,494,494,3,bat,494,3.0,,win,11954.0
+392201,2009,6,Centurion,2009-04-30,Indian Premier League,21.0,male,T20,T20,20,2009,club,SuperSport Park,252,2,252,field,252,,6.0,win,13245.0
+392202,2009,6,Centurion,2009-04-30,Indian Premier League,22.0,male,T20,T20,20,2009,club,SuperSport Park,134,129,134,field,129,38.0,,win,47.0
+392203,2009,6,East London,2009-05-01,Indian Premier League,23.0,male,T20,T20,20,2009,club,Buffalo Park,3,6,3,bat,3,9.0,,win,1964.0
+392204,2009,6,Durban,2009-05-01,Indian Premier League,24.0,male,T20,T20,20,2009,club,Kingsmead,1,1,494,bat,1,8.0,,win,15.0
+392205,2009,6,Port Elizabeth,2009-05-02,Indian Premier League,25.0,male,T20,T20,20,2009,club,St George's Park,2,2,134,bat,134,,3.0,win,60.0
+392206,2009,6,Johannesburg,2009-05-02,Indian Premier League,26.0,male,T20,T20,20,2009,club,New Wanderers Stadium,252,129,252,field,129,18.0,,win,53.0
+392207,2009,6,Port Elizabeth,2009-05-03,Indian Premier League,27.0,male,T20,T20,20,2009,club,St George's Park,6,494,6,bat,494,,6.0,win,12032.0
+392208,2009,6,Johannesburg,2009-05-03,Indian Premier League,28.0,male,T20,T20,20,2009,club,New Wanderers Stadium,3,1,3,bat,1,,9.0,win,11933.0
+392209,2009,6,East London,2009-05-04,Indian Premier League,29.0,male,T20,T20,20,2009,club,Buffalo Park,129,129,2,bat,129,78.0,,win,38.0
+392210,2009,6,Durban,2009-05-05,Indian Premier League,30.0,male,T20,T20,20,2009,club,Kingsmead,494,494,134,field,134,78.0,,win,12107.0
+392211,2009,6,Durban,2009-05-05,Indian Premier League,31.0,male,T20,T20,20,2009,club,Kingsmead,6,252,6,bat,252,,9.0,win,56.0
+392212,2009,6,Centurion,2009-05-06,Indian Premier League,32.0,male,T20,T20,20,2009,club,SuperSport Park,2,2,3,bat,2,19.0,,win,25.0
+392213,2009,6,Centurion,2009-05-07,Indian Premier League,33.0,male,T20,T20,20,2009,club,SuperSport Park,134,1,134,field,134,,7.0,win,13810.0
+392214,2009,6,Centurion,2009-05-07,Indian Premier League,34.0,male,T20,T20,20,2009,club,SuperSport Park,129,129,494,bat,129,12.0,,win,11942.0
+392215,2009,6,East London,2009-05-08,Indian Premier League,35.0,male,T20,T20,20,2009,club,Buffalo Park,3,252,3,bat,252,,7.0,win,21.0
+392216,2009,6,Kimberley,2009-05-09,Indian Premier League,36.0,male,T20,T20,20,2009,club,De Beers Diamond Oval,494,2,494,field,494,,3.0,win,12032.0
+392217,2009,6,Kimberley,2009-05-09,Indian Premier League,37.0,male,T20,T20,20,2009,club,De Beers Diamond Oval,134,129,134,bat,129,,7.0,win,11947.0
+392218,2009,6,Port Elizabeth,2009-05-10,Indian Premier League,38.0,male,T20,T20,20,2009,club,St George's Park,3,1,3,bat,3,16.0,,win,1964.0
+392219,2009,6,Johannesburg,2009-05-10,Indian Premier League,39.0,male,T20,T20,20,2009,club,New Wanderers Stadium,252,252,6,field,252,,7.0,win,185.0
+392220,2009,6,Kimberley,2009-05-11,Indian Premier League,40.0,male,T20,T20,20,2009,club,De Beers Diamond Oval,2,2,134,bat,2,53.0,,win,50.0
+392221,2009,6,Centurion,2009-05-12,Indian Premier League,41.0,male,T20,T20,20,2009,club,SuperSport Park,1,1,6,field,1,,6.0,win,11998.0
+392222,2009,6,Centurion,2009-05-12,Indian Premier League,42.0,male,T20,T20,20,2009,club,SuperSport Park,494,494,3,bat,3,,8.0,win,228.0
+392223,2009,6,Durban,2009-05-13,Indian Premier League,43.0,male,T20,T20,20,2009,club,Kingsmead,2,2,252,field,252,12.0,,win,40.0
+392224,2009,6,Durban,2009-05-14,Indian Premier League,44.0,male,T20,T20,20,2009,club,Kingsmead,129,1,129,bat,1,,2.0,win,11998.0
+392225,2009,6,Durban,2009-05-14,Indian Premier League,45.0,male,T20,T20,20,2009,club,Kingsmead,134,3,134,bat,134,2.0,,win,11971.0
+392226,2009,6,Bloemfontein,2009-05-15,Indian Premier League,46.0,male,T20,T20,20,2009,club,OUTsurance Oval,494,252,494,field,494,,6.0,win,11959.0
+392227,2009,6,Port Elizabeth,2009-05-16,Indian Premier League,47.0,male,T20,T20,20,2009,club,St George's Park,3,129,3,bat,129,,7.0,win,11942.0
+392228,2009,6,Johannesburg,2009-05-16,Indian Premier League,48.0,male,T20,T20,20,2009,club,New Wanderers Stadium,2,2,6,field,2,,6.0,win,25.0
+392229,2009,6,Johannesburg,2009-05-17,Indian Premier League,49.0,male,T20,T20,20,2009,club,New Wanderers Stadium,2,2,494,field,494,1.0,,win,15.0
+392230,2009,6,Bloemfontein,2009-05-17,Indian Premier League,50.0,male,T20,T20,20,2009,club,OUTsurance Oval,252,252,134,bat,252,14.0,,win,245.0
+392231,2009,6,Centurion,2009-05-18,Indian Premier League,51.0,male,T20,T20,20,2009,club,SuperSport Park,129,129,6,bat,6,,7.0,win,12318.0
+392232,2009,6,Johannesburg,2009-05-19,Indian Premier League,52.0,male,T20,T20,20,2009,club,New Wanderers Stadium,252,1,252,bat,1,,7.0,win,11933.0
+392233,2009,6,Durban,2009-05-20,Indian Premier League,53.0,male,T20,T20,20,2009,club,Kingsmead,6,6,134,field,6,,4.0,win,11924.0
+392234,2009,6,Durban,2009-05-20,Indian Premier League,54.0,male,T20,T20,20,2009,club,Kingsmead,129,129,494,bat,129,24.0,,win,11951.0
+392235,2009,6,Centurion,2009-05-21,Indian Premier League,55.0,male,T20,T20,20,2009,club,SuperSport Park,252,252,3,field,252,,4.0,win,11975.0
+392236,2009,6,Centurion,2009-05-21,Indian Premier League,56.0,male,T20,T20,20,2009,club,SuperSport Park,1,1,2,bat,1,12.0,,win,59.0
+392237,2009,6,Centurion,2009-05-22,Indian Premier League,,male,T20,T20,20,2009,club,SuperSport Park,2,252,2,field,2,,6.0,win,12007.0
+392238,2009,6,Johannesburg,2009-05-23,Indian Premier League,,male,T20,T20,20,2009,club,New Wanderers Stadium,1,1,129,field,1,,6.0,win,59.0
+392239,2009,6,Johannesburg,2009-05-24,Indian Premier League,,male,T20,T20,20,2009,club,New Wanderers Stadium,1,1,2,field,2,6.0,,win,12160.0
+419106,2010,6,Mumbai,2010-03-12,Indian Premier League,1.0,male,T20,T20,20,2010,club,Dr DY Patil Sports Academy,2,2,6,field,6,11.0,,win,457.0
+419107,2010,6,Mumbai,2010-03-13,Indian Premier League,2.0,male,T20,T20,20,2010,club,Brabourne Stadium,3,3,134,bat,3,4.0,,win,60.0
+419108,2010,6,Chandigarh,2010-03-13,Indian Premier League,3.0,male,T20,T20,20,2010,club,"Punjab Cricket Association Stadium, Mohali",252,494,252,field,252,,5.0,win,56.0
+419109,2010,6,Kolkata,2010-03-14,Indian Premier League,4.0,male,T20,T20,20,2010,club,Eden Gardens,6,6,1,field,6,,7.0,win,39.0
+419110,2010,6,Chennai,2010-03-14,Indian Premier League,5.0,male,T20,T20,20,2010,club,"MA Chidambaram Stadium, Chepauk",2,129,2,bat,2,31.0,,win,12015.0
+419111,2010,6,Ahmedabad,2010-03-15,Indian Premier League,6.0,male,T20,T20,20,2010,club,"Sardar Patel Stadium, Motera",252,134,252,field,252,,6.0,win,11975.0
+419112,2010,6,Bangalore,2010-03-16,Indian Premier League,7.0,male,T20,T20,20,2010,club,M Chinnaswamy Stadium,494,1,494,bat,1,,8.0,win,11933.0
+419113,2010,6,Kolkata,2010-03-16,Indian Premier League,8.0,male,T20,T20,20,2010,club,Eden Gardens,129,6,129,bat,129,55.0,,win,38.0
+419114,2010,6,Delhi,2010-03-17,Indian Premier League,9.0,male,T20,T20,20,2010,club,Feroz Shah Kotla,252,252,3,field,3,98.0,,win,12580.0
+419115,2010,6,Bangalore,2010-03-18,Indian Premier League,10.0,male,T20,T20,20,2010,club,M Chinnaswamy Stadium,1,1,134,field,1,,10.0,win,11933.0
+419116,2010,6,Delhi,2010-03-19,Indian Premier League,11.0,male,T20,T20,20,2010,club,Feroz Shah Kotla,252,252,129,bat,129,,5.0,win,11942.0
+419117,2010,6,Cuttack,2010-03-19,Indian Premier League,12.0,male,T20,T20,20,2010,club,Barabati Stadium,494,2,494,field,2,6.0,,win,12010.0
+419118,2010,6,Ahmedabad,2010-03-20,Indian Premier League,13.0,male,T20,T20,20,2010,club,"Sardar Patel Stadium, Motera",134,134,6,bat,134,34.0,,win,14485.0
+419119,2010,6,Mumbai,2010-03-20,Indian Premier League,14.0,male,T20,T20,20,2010,club,Brabourne Stadium,3,3,1,bat,1,,7.0,win,11933.0
+419120,2010,6,Cuttack,2010-03-21,Indian Premier League,15.0,male,T20,T20,20,2010,club,Barabati Stadium,2,2,252,bat,2,10.0,,win,12010.0
+419121,2010,6,Chennai,2010-03-21,Indian Premier League,16.0,male,T20,T20,20,2010,club,"MA Chidambaram Stadium, Chepauk",129,129,494,field,494,,,tie,14798.0
+419122,2010,6,Mumbai,2010-03-22,Indian Premier League,17.0,male,T20,T20,20,2010,club,Brabourne Stadium,6,3,6,bat,3,,7.0,win,12580.0
+419123,2010,6,Bangalore,2010-03-23,Indian Premier League,18.0,male,T20,T20,20,2010,club,M Chinnaswamy Stadium,129,1,129,field,1,36.0,,win,58.0
+419124,2010,6,Chandigarh,2010-03-24,Indian Premier League,19.0,male,T20,T20,20,2010,club,"Punjab Cricket Association Stadium, Mohali",494,494,134,field,134,31.0,,win,14729.0
+419125,2010,6,Mumbai,2010-03-25,Indian Premier League,21.0,male,T20,T20,20,2010,club,"Brabourne Stadium, Mumbai",3,129,3,field,3,,5.0,win,12580.0
+419126,2010,6,Ahmedabad,2010-03-26,Indian Premier League,22.0,male,T20,T20,20,2010,club,"Sardar Patel Stadium, Motera",2,134,2,bat,134,,8.0,win,60.0
+419127,2010,6,Chandigarh,2010-03-27,Indian Premier League,23.0,male,T20,T20,20,2010,club,"Punjab Cricket Association Stadium, Mohali",6,494,6,bat,6,39.0,,win,39.0
+419128,2010,6,Bangalore,2010-03-25,Indian Premier League,20.0,male,T20,T20,20,2010,club,M Chinnaswamy Stadium,1,1,252,field,252,17.0,,win,4.0
+419129,2010,6,Ahmedabad,2010-03-28,Indian Premier League,24.0,male,T20,T20,20,2010,club,"Sardar Patel Stadium, Motera",134,134,129,bat,134,17.0,,win,18.0
+419130,2010,6,Mumbai,2010-03-28,Indian Premier League,25.0,male,T20,T20,20,2010,club,Dr DY Patil Sports Academy,2,2,3,field,3,41.0,,win,228.0
+419131,2010,6,Delhi,2010-03-29,Indian Premier League,26.0,male,T20,T20,20,2010,club,Feroz Shah Kotla,252,252,6,bat,252,40.0,,win,12.0
+419132,2010,6,Mumbai,2010-03-30,Indian Premier League,27.0,male,T20,T20,20,2010,club,Brabourne Stadium,3,3,494,field,3,,4.0,win,230.0
+419133,2010,6,Chennai,2010-03-31,Indian Premier League,28.0,male,T20,T20,20,2010,club,"MA Chidambaram Stadium, Chepauk",1,129,1,bat,129,,5.0,win,1630.0
+419134,2010,6,Delhi,2010-03-31,Indian Premier League,29.0,male,T20,T20,20,2010,club,Feroz Shah Kotla,252,252,134,bat,252,67.0,,win,49.0
+419135,2010,6,Kolkata,2010-04-01,Indian Premier League,30.0,male,T20,T20,20,2010,club,Eden Gardens,6,6,2,bat,6,24.0,,win,11919.0
+419136,2010,6,Chandigarh,2010-04-02,Indian Premier League,31.0,male,T20,T20,20,2010,club,"Punjab Cricket Association Stadium, Mohali",494,494,1,bat,1,,6.0,win,13231.0
+419137,2010,6,Chennai,2010-04-03,Indian Premier League,32.0,male,T20,T20,20,2010,club,"MA Chidambaram Stadium, Chepauk",129,129,134,bat,129,23.0,,win,1630.0
+419138,2010,6,Mumbai,2010-04-03,Indian Premier League,33.0,male,T20,T20,20,2010,club,Brabourne Stadium,3,3,2,bat,3,63.0,,win,27.0
+419139,2010,6,Kolkata,2010-04-04,Indian Premier League,34.0,male,T20,T20,20,2010,club,Eden Gardens,6,6,494,bat,494,,8.0,win,12032.0
+419140,2010,6,Delhi,2010-04-04,Indian Premier League,35.0,male,T20,T20,20,2010,club,Feroz Shah Kotla,252,252,1,bat,252,37.0,,win,15003.0
+419141,2010,6,Nagpur,2010-04-05,Indian Premier League,36.0,male,T20,T20,20,2010,club,"Vidarbha Cricket Association Stadium, Jamtha",134,2,134,bat,134,2.0,,win,11971.0
+419142,2010,6,Chennai,2010-04-06,Indian Premier League,37.0,male,T20,T20,20,2010,club,"MA Chidambaram Stadium, Chepauk",129,129,3,bat,129,24.0,,win,47.0
+419143,2010,6,Jaipur,2010-04-07,Indian Premier League,38.0,male,T20,T20,20,2010,club,Sawai Mansingh Stadium,494,134,494,bat,134,,9.0,win,14648.0
+419144,2010,6,Kolkata,2010-04-07,Indian Premier League,39.0,male,T20,T20,20,2010,club,Eden Gardens,6,6,252,bat,6,14.0,,win,11919.0
+419145,2010,6,Bangalore,2010-04-08,Indian Premier League,40.0,male,T20,T20,20,2010,club,M Chinnaswamy Stadium,2,1,2,field,2,,7.0,win,13595.0
+419146,2010,6,Chandigarh,2010-04-09,Indian Premier League,41.0,male,T20,T20,20,2010,club,"Punjab Cricket Association Stadium, Mohali",3,494,3,bat,494,,6.0,win,11954.0
+419147,2010,6,Nagpur,2010-04-10,Indian Premier League,42.0,male,T20,T20,20,2010,club,"Vidarbha Cricket Association Stadium, Jamtha",129,2,129,bat,2,,6.0,win,13785.0
+419148,2010,6,Bangalore,2010-04-10,Indian Premier League,43.0,male,T20,T20,20,2010,club,M Chinnaswamy Stadium,1,1,6,field,1,,7.0,win,1242.0
+419149,2010,6,Delhi,2010-04-11,Indian Premier League,44.0,male,T20,T20,20,2010,club,Feroz Shah Kotla,252,252,494,bat,494,,7.0,win,63.0
+419150,2010,6,Jaipur,2010-04-11,Indian Premier League,45.0,male,T20,T20,20,2010,club,Sawai Mansingh Stadium,134,134,3,field,3,37.0,,win,12580.0
+419151,2010,6,Nagpur,2010-04-12,Indian Premier League,46.0,male,T20,T20,20,2010,club,"Vidarbha Cricket Association Stadium, Jamtha",1,2,1,field,2,13.0,,win,13267.0
+419152,2010,6,Mumbai,2010-04-13,Indian Premier League,47.0,male,T20,T20,20,2010,club,Brabourne Stadium,3,3,252,bat,3,39.0,,win,29.0
+419153,2010,6,Chennai,2010-04-13,Indian Premier League,48.0,male,T20,T20,20,2010,club,"MA Chidambaram Stadium, Chepauk",6,129,6,bat,129,,9.0,win,1416.0
+419154,2010,6,Jaipur,2010-04-14,Indian Premier League,49.0,male,T20,T20,20,2010,club,Sawai Mansingh Stadium,134,134,1,bat,1,,5.0,win,13231.0
+419155,2010,6,Chennai,2010-04-15,Indian Premier League,50.0,male,T20,T20,20,2010,club,"MA Chidambaram Stadium, Chepauk",129,129,252,bat,252,,6.0,win,56.0
+419156,2010,6,Dharamsala,2010-04-16,Indian Premier League,51.0,male,T20,T20,20,2010,club,Himachal Pradesh Cricket Association Stadium,2,494,2,field,2,,5.0,win,25.0
+419157,2010,6,Bangalore,2010-04-17,Indian Premier League,52.0,male,T20,T20,20,2010,club,M Chinnaswamy Stadium,1,1,3,field,3,57.0,,win,14478.0
+419158,2010,6,Kolkata,2010-04-17,Indian Premier League,53.0,male,T20,T20,20,2010,club,Eden Gardens,134,6,134,bat,6,,8.0,win,438.0
+419159,2010,6,Dharamsala,2010-04-18,Indian Premier League,54.0,male,T20,T20,20,2010,club,Himachal Pradesh Cricket Association Stadium,129,494,129,field,129,,6.0,win,38.0
+419160,2010,6,Delhi,2010-04-18,Indian Premier League,55.0,male,T20,T20,20,2010,club,Feroz Shah Kotla,2,252,2,bat,2,11.0,,win,12010.0
+419161,2010,6,Kolkata,2010-04-19,Indian Premier League,56.0,male,T20,T20,20,2010,club,Eden Gardens,3,6,3,bat,6,,9.0,win,11928.0
+419162,2010,6,Mumbai,2010-04-21,Indian Premier League,,male,T20,T20,20,2010,club,Dr DY Patil Sports Academy,3,1,3,bat,3,35.0,,win,29.0
+419163,2010,6,Mumbai,2010-04-22,Indian Premier League,,male,T20,T20,20,2010,club,Dr DY Patil Sports Academy,129,129,2,bat,129,38.0,,win,15140.0
+419164,2010,6,Mumbai,2010-04-24,Indian Premier League,,male,T20,T20,20,2010,club,Dr DY Patil Sports Academy,2,1,2,bat,1,,9.0,win,12160.0
+419165,2010,6,Mumbai,2010-04-25,Indian Premier League,,male,T20,T20,20,2010,club,Dr DY Patil Sports Academy,129,129,3,bat,129,22.0,,win,47.0
+501198,2011,6,Chennai,2011-04-08,Indian Premier League,1.0,male,T20,T20,20,2011,club,"MA Chidambaram Stadium, Chepauk",129,129,6,bat,129,2.0,,win,12471.0
+501199,2011,6,Hyderabad,2011-04-09,Indian Premier League,2.0,male,T20,T20,20,2011,club,"Rajiv Gandhi International Stadium, Uppal",134,2,134,field,134,,8.0,win,11972.0
+501200,2011,6,Kochi,2011-04-09,Indian Premier League,3.0,male,T20,T20,20,2011,club,Nehru Stadium,1414,1414,1,bat,1,,6.0,win,245.0
+501201,2011,6,Delhi,2011-04-10,Indian Premier League,4.0,male,T20,T20,20,2011,club,Feroz Shah Kotla,252,252,3,bat,3,,8.0,win,230.0
+501202,2011,6,Mumbai,2011-04-10,Indian Premier League,5.0,male,T20,T20,20,2011,club,Dr DY Patil Sports Academy,494,1419,494,bat,1419,,7.0,win,15150.0
+501203,2011,6,Kolkata,2011-04-11,Indian Premier League,6.0,male,T20,T20,20,2011,club,Eden Gardens,6,6,2,bat,6,9.0,,win,11933.0
+501204,2011,6,Jaipur,2011-04-12,Indian Premier League,7.0,male,T20,T20,20,2011,club,Sawai Mansingh Stadium,252,134,252,bat,134,,6.0,win,11971.0
+501205,2011,6,Bangalore,2011-04-12,Indian Premier League,8.0,male,T20,T20,20,2011,club,M Chinnaswamy Stadium,3,1,3,field,3,,9.0,win,12580.0
+501206,2011,6,Chandigarh,2011-04-13,Indian Premier League,9.0,male,T20,T20,20,2011,club,"Punjab Cricket Association Stadium, Mohali",494,494,129,field,494,,6.0,win,13383.0
+501207,2011,6,Mumbai,2011-04-13,Indian Premier League,10.0,male,T20,T20,20,2011,club,Dr DY Patil Sports Academy,1414,1419,1414,bat,1419,,4.0,win,14757.0
+501208,2011,6,Hyderabad,2011-04-14,Indian Premier League,11.0,male,T20,T20,20,2011,club,"Rajiv Gandhi International Stadium, Uppal",1,2,1,field,2,33.0,,win,3451.0
+501209,2011,6,Jaipur,2011-04-15,Indian Premier League,12.0,male,T20,T20,20,2011,club,Sawai Mansingh Stadium,6,134,6,field,6,,9.0,win,56.0
+501210,2011,6,Mumbai,2011-04-15,Indian Premier League,13.0,male,T20,T20,20,2011,club,Wankhede Stadium,1414,3,1414,field,1414,,8.0,win,46.0
+501211,2011,6,Chennai,2011-04-16,Indian Premier League,14.0,male,T20,T20,20,2011,club,"MA Chidambaram Stadium, Chepauk",129,129,1,bat,129,21.0,,win,11943.0
+501212,2011,6,Hyderabad,2011-04-16,Indian Premier League,15.0,male,T20,T20,20,2011,club,"Rajiv Gandhi International Stadium, Uppal",494,2,494,field,494,,8.0,win,13383.0
+501213,2011,6,Mumbai,2011-04-17,Indian Premier League,16.0,male,T20,T20,20,2011,club,Dr DY Patil Sports Academy,252,1419,252,field,252,,3.0,win,15.0
+501214,2011,6,Kolkata,2011-04-17,Indian Premier League,17.0,male,T20,T20,20,2011,club,Eden Gardens,6,6,134,field,6,,8.0,win,12523.0
+501215,2011,6,Kochi,2011-04-18,Indian Premier League,18.0,male,T20,T20,20,2011,club,Nehru Stadium,1414,1414,129,field,1414,,7.0,win,46.0
+501216,2011,6,Delhi,2011-04-19,Indian Premier League,19.0,male,T20,T20,20,2011,club,Feroz Shah Kotla,2,252,2,bat,2,16.0,,win,12035.0
+501218,2011,6,Mumbai,2011-04-20,Indian Premier League,21.0,male,T20,T20,20,2011,club,Wankhede Stadium,1419,3,1419,bat,3,,7.0,win,418.0
+501219,2011,6,Kolkata,2011-04-20,Indian Premier League,22.0,male,T20,T20,20,2011,club,Eden Gardens,6,6,1414,field,1414,6.0,,win,12032.0
+501220,2011,6,Chandigarh,2011-04-21,Indian Premier League,23.0,male,T20,T20,20,2011,club,"Punjab Cricket Association Stadium, Mohali",134,494,134,field,494,48.0,,win,541.0
+501221,2011,6,Mumbai,2011-04-22,Indian Premier League,25.0,male,T20,T20,20,2011,club,Wankhede Stadium,129,3,129,field,3,8.0,,win,228.0
+501222,2011,6,Kolkata,2011-04-22,Indian Premier League,24.0,male,T20,T20,20,2011,club,Eden Gardens,1,6,1,field,1,,9.0,win,1.0
+501223,2011,6,Delhi,2011-04-23,Indian Premier League,26.0,male,T20,T20,20,2011,club,Feroz Shah Kotla,494,252,494,field,252,29.0,,win,12.0
+501224,2011,6,Hyderabad,2011-04-24,Indian Premier League,27.0,male,T20,T20,20,2011,club,"Rajiv Gandhi International Stadium, Uppal",2,2,3,field,3,37.0,,win,230.0
+501225,2011,6,Jaipur,2011-04-24,Indian Premier League,28.0,male,T20,T20,20,2011,club,Sawai Mansingh Stadium,134,134,1414,field,134,,8.0,win,11971.0
+501226,2011,6,Chennai,2011-04-25,Indian Premier League,29.0,male,T20,T20,20,2011,club,"MA Chidambaram Stadium, Chepauk",1419,129,1419,field,129,25.0,,win,11943.0
+501227,2011,6,Delhi,2011-04-26,Indian Premier League,30.0,male,T20,T20,20,2011,club,Feroz Shah Kotla,1,252,1,field,1,,3.0,win,332.0
+501228,2011,6,Mumbai,2011-04-27,Indian Premier League,31.0,male,T20,T20,20,2011,club,Dr DY Patil Sports Academy,1419,1419,129,bat,129,,8.0,win,15140.0
+501229,2011,6,Kochi,2011-04-27,Indian Premier League,32.0,male,T20,T20,20,2011,club,Nehru Stadium,1414,1414,2,field,2,55.0,,win,308.0
+501230,2011,6,Delhi,2011-04-28,Indian Premier League,33.0,male,T20,T20,20,2011,club,Feroz Shah Kotla,252,252,6,field,6,17.0,,win,39.0
+501231,2011,6,Jaipur,2011-04-29,Indian Premier League,34.0,male,T20,T20,20,2011,club,Sawai Mansingh Stadium,134,134,3,field,134,,7.0,win,14136.0
+501232,2011,6,Bangalore,2011-04-29,Indian Premier League,35.0,male,T20,T20,20,2011,club,M Chinnaswamy Stadium,1419,1,1419,field,1,26.0,,win,332.0
+501233,2011,6,Kochi,2011-04-30,Indian Premier League,36.0,male,T20,T20,20,2011,club,Nehru Stadium,252,1414,252,bat,252,38.0,,win,11975.0
+501234,2011,6,Kolkata,2011-04-30,Indian Premier League,37.0,male,T20,T20,20,2011,club,Eden Gardens,6,6,494,field,6,,8.0,win,173.0
+501235,2011,6,Jaipur,2011-05-01,Indian Premier League,38.0,male,T20,T20,20,2011,club,Sawai Mansingh Stadium,134,134,1419,field,134,,6.0,win,11998.0
+501236,2011,6,Chennai,2011-05-01,Indian Premier League,39.0,male,T20,T20,20,2011,club,"MA Chidambaram Stadium, Chepauk",129,129,2,bat,129,19.0,,win,12234.0
+501237,2011,6,Mumbai,2011-05-02,Indian Premier League,40.0,male,T20,T20,20,2011,club,Wankhede Stadium,494,3,494,field,3,23.0,,win,29.0
+501238,2011,6,Delhi,2011-05-02,Indian Premier League,41.0,male,T20,T20,20,2011,club,Feroz Shah Kotla,1414,252,1414,field,1414,,7.0,win,16648.0
+501239,2011,6,Hyderabad,2011-05-03,Indian Premier League,42.0,male,T20,T20,20,2011,club,"Rajiv Gandhi International Stadium, Uppal",2,2,6,field,6,20.0,,win,60.0
+501240,2011,6,Chennai,2011-05-04,Indian Premier League,43.0,male,T20,T20,20,2011,club,"MA Chidambaram Stadium, Chepauk",134,129,134,bat,129,,8.0,win,11943.0
+501241,2011,6,Mumbai,2011-05-04,Indian Premier League,44.0,male,T20,T20,20,2011,club,Dr DY Patil Sports Academy,1419,1419,3,field,3,21.0,,win,14765.0
+501242,2011,6,Kochi,2011-05-05,Indian Premier League,45.0,male,T20,T20,20,2011,club,Nehru Stadium,6,1414,6,field,1414,17.0,,win,12318.0
+501243,2011,6,Hyderabad,2011-05-05,Indian Premier League,46.0,male,T20,T20,20,2011,club,"Rajiv Gandhi International Stadium, Uppal",252,2,252,field,252,,4.0,win,11975.0
+501244,2011,6,Bangalore,2011-05-06,Indian Premier League,47.0,male,T20,T20,20,2011,club,M Chinnaswamy Stadium,494,1,494,field,1,85.0,,win,1.0
+501245,2011,6,Kolkata,2011-05-07,Indian Premier League,48.0,male,T20,T20,20,2011,club,Eden Gardens,129,6,129,bat,6,10.0,,win,173.0
+501246,2011,6,Mumbai,2011-05-07,Indian Premier League,49.0,male,T20,T20,20,2011,club,Wankhede Stadium,252,3,252,field,3,32.0,,win,27.0
+501247,2011,6,Bangalore,2011-05-08,Indian Premier League,50.0,male,T20,T20,20,2011,club,M Chinnaswamy Stadium,1414,1,1414,bat,1,,9.0,win,1.0
+501248,2011,6,Chandigarh,2011-05-08,Indian Premier League,51.0,male,T20,T20,20,2011,club,"Punjab Cricket Association Stadium, Mohali",494,494,1419,bat,1419,,5.0,win,14765.0
+501249,2011,6,Jaipur,2011-05-09,Indian Premier League,52.0,male,T20,T20,20,2011,club,Sawai Mansingh Stadium,134,134,129,field,129,63.0,,win,1630.0
+501250,2011,6,Hyderabad,2011-05-10,Indian Premier League,53.0,male,T20,T20,20,2011,club,"Rajiv Gandhi International Stadium, Uppal",2,2,1419,bat,1419,,6.0,win,4960.0
+501251,2011,6,Chandigarh,2011-05-10,Indian Premier League,54.0,male,T20,T20,20,2011,club,"Punjab Cricket Association Stadium, Mohali",3,494,3,field,494,76.0,,win,15867.0
+501252,2011,6,Jaipur,2011-05-11,Indian Premier League,55.0,male,T20,T20,20,2011,club,Sawai Mansingh Stadium,1,134,1,field,1,,9.0,win,8.0
+501253,2011,6,Chennai,2011-05-12,Indian Premier League,56.0,male,T20,T20,20,2011,club,"MA Chidambaram Stadium, Chepauk",129,129,252,bat,129,18.0,,win,38.0
+501254,2011,6,Indore,2011-05-13,Indian Premier League,57.0,male,T20,T20,20,2011,club,Holkar Cricket Stadium,494,1414,494,field,494,,6.0,win,49.0
+501255,2011,6,Bangalore,2011-05-14,Indian Premier League,58.0,male,T20,T20,20,2011,club,M Chinnaswamy Stadium,1,1,6,field,1,,4.0,win,1.0
+501256,2011,6,Mumbai,2011-05-14,Indian Premier League,59.0,male,T20,T20,20,2011,club,Wankhede Stadium,2,3,2,bat,2,10.0,,win,185.0
+501257,2011,6,Dharamsala,2011-05-15,Indian Premier League,60.0,male,T20,T20,20,2011,club,Himachal Pradesh Cricket Association Stadium,252,494,252,field,494,29.0,,win,63.0
+501258,2011,6,Indore,2011-05-15,Indian Premier League,61.0,male,T20,T20,20,2011,club,Holkar Cricket Stadium,1414,1414,134,field,1414,,8.0,win,12318.0
+501259,2011,6,Mumbai,2011-05-16,Indian Premier League,62.0,male,T20,T20,20,2011,club,Dr DY Patil Sports Academy,2,1419,2,field,2,,6.0,win,185.0
+501260,2011,6,Dharamsala,2011-05-17,Indian Premier League,63.0,male,T20,T20,20,2011,club,Himachal Pradesh Cricket Association Stadium,494,494,1,bat,494,111.0,,win,12007.0
+501261,2011,6,Chennai,2011-05-18,Indian Premier League,64.0,male,T20,T20,20,2011,club,"MA Chidambaram Stadium, Chepauk",129,129,1414,bat,129,11.0,,win,69.0
+501262,2011,6,Mumbai,2011-05-19,Indian Premier League,65.0,male,T20,T20,20,2011,club,Dr DY Patil Sports Academy,6,1419,6,field,6,,7.0,win,60.0
+501263,2011,6,Mumbai,2011-05-20,Indian Premier League,66.0,male,T20,T20,20,2011,club,Wankhede Stadium,3,3,134,bat,134,,10.0,win,5.0
+501264,2011,6,Dharamsala,2011-05-21,Indian Premier League,67.0,male,T20,T20,20,2011,club,Himachal Pradesh Cricket Association Stadium,494,494,2,field,2,82.0,,win,13.0
+501265,2011,6,Delhi,2011-05-21,Indian Premier League,68.0,male,T20,T20,20,2011,club,Feroz Shah Kotla,252,252,1419,bat,1419,,,no result,
+501266,2011,6,Bangalore,2011-05-22,Indian Premier League,69.0,male,T20,T20,20,2011,club,M Chinnaswamy Stadium,1,1,129,field,1,,8.0,win,1.0
+501267,2011,6,Kolkata,2011-05-22,Indian Premier League,70.0,male,T20,T20,20,2011,club,Eden Gardens,3,6,3,field,3,,5.0,win,15851.0
+501268,2011,6,Mumbai,2011-05-24,Indian Premier League,,male,T20,T20,20,2011,club,Wankhede Stadium,129,1,129,field,129,,6.0,win,47.0
+501269,2011,6,Mumbai,2011-05-25,Indian Premier League,,male,T20,T20,20,2011,club,Wankhede Stadium,3,3,6,field,3,,4.0,win,418.0
+501270,2011,6,Chennai,2011-05-27,Indian Premier League,,male,T20,T20,20,2011,club,"MA Chidambaram Stadium, Chepauk",3,1,3,field,1,43.0,,win,1.0
+501271,2011,6,Chennai,2011-05-28,Indian Premier League,,male,T20,T20,20,2011,club,"MA Chidambaram Stadium, Chepauk",129,129,1,bat,129,58.0,,win,1630.0
+548306,2012,6,Chennai,2012-04-04,Indian Premier League,1.0,male,T20,T20,20,2012,club,"MA Chidambaram Stadium, Chepauk",3,129,3,field,3,,8.0,win,34272.0
+548307,2012,6,Kolkata,2012-04-05,Indian Premier League,2.0,male,T20,T20,20,2012,club,Eden Gardens,252,6,252,field,252,,8.0,win,811.0
+548308,2012,6,Mumbai,2012-04-06,Indian Premier League,3.0,male,T20,T20,20,2012,club,Wankhede Stadium,3,3,1419,field,1419,28.0,,win,36.0
+548309,2012,6,Jaipur,2012-04-06,Indian Premier League,4.0,male,T20,T20,20,2012,club,Sawai Mansingh Stadium,494,134,494,field,134,31.0,,win,34.0
+548310,2012,6,Bangalore,2012-04-07,Indian Premier League,5.0,male,T20,T20,20,2012,club,M Chinnaswamy Stadium,252,1,252,field,1,20.0,,win,245.0
+548311,2012,6,Visakhapatnam,2012-04-07,Indian Premier League,6.0,male,T20,T20,20,2012,club,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2,2,129,field,129,74.0,,win,348.0
+548312,2012,6,Jaipur,2012-04-08,Indian Premier League,7.0,male,T20,T20,20,2012,club,Sawai Mansingh Stadium,6,134,6,field,134,22.0,,win,12318.0
+548313,2012,6,Pune,2012-04-08,Indian Premier League,8.0,male,T20,T20,20,2012,club,Subrata Roy Sahara Stadium,1419,1419,494,bat,1419,22.0,,win,963.0
+548314,2012,6,Visakhapatnam,2012-04-09,Indian Premier League,9.0,male,T20,T20,20,2012,club,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2,2,3,bat,3,,5.0,win,25.0
+548315,2012,6,Bangalore,2012-04-10,Indian Premier League,10.0,male,T20,T20,20,2012,club,M Chinnaswamy Stadium,1,1,6,field,6,42.0,,win,12523.0
+548316,2012,6,Delhi,2012-04-10,Indian Premier League,11.0,male,T20,T20,20,2012,club,Feroz Shah Kotla,252,252,129,field,252,,8.0,win,13863.0
+548317,2012,6,Mumbai,2012-04-11,Indian Premier League,12.0,male,T20,T20,20,2012,club,Wankhede Stadium,134,3,134,field,3,27.0,,win,29.0
+548318,2012,6,Chennai,2012-04-12,Indian Premier League,13.0,male,T20,T20,20,2012,club,"MA Chidambaram Stadium, Chepauk",1,129,1,bat,129,,5.0,win,267.0
+548319,2012,6,Chandigarh,2012-04-12,Indian Premier League,14.0,male,T20,T20,20,2012,club,"Punjab Cricket Association Stadium, Mohali",494,494,1419,field,494,,7.0,win,12661.0
+548320,2012,6,Kolkata,2012-04-13,Indian Premier League,15.0,male,T20,T20,20,2012,club,Eden Gardens,134,6,134,bat,6,,5.0,win,579.0
+548321,2012,6,Delhi,2012-04-19,Indian Premier League,23.0,male,T20,T20,20,2012,club,Feroz Shah Kotla,2,252,2,bat,252,,5.0,win,13231.0
+548322,2012,6,Pune,2012-04-14,Indian Premier League,16.0,male,T20,T20,20,2012,club,Subrata Roy Sahara Stadium,129,1419,129,bat,1419,,7.0,win,13228.0
+548323,2012,6,Kolkata,2012-04-15,Indian Premier League,17.0,male,T20,T20,20,2012,club,Eden Gardens,6,6,494,field,494,2.0,,win,65.0
+548324,2012,6,Bangalore,2012-04-15,Indian Premier League,18.0,male,T20,T20,20,2012,club,M Chinnaswamy Stadium,134,1,134,bat,134,59.0,,win,34.0
+548325,2012,6,Mumbai,2012-04-16,Indian Premier League,19.0,male,T20,T20,20,2012,club,Wankhede Stadium,252,3,252,field,252,,7.0,win,186.0
+548326,2012,6,Jaipur,2012-04-17,Indian Premier League,20.0,male,T20,T20,20,2012,club,Sawai Mansingh Stadium,2,134,2,bat,134,,5.0,win,12318.0
+548327,2012,6,Bangalore,2012-04-17,Indian Premier League,21.0,male,T20,T20,20,2012,club,M Chinnaswamy Stadium,1419,1,1419,bat,1,,6.0,win,1.0
+548328,2012,6,Chandigarh,2012-04-18,Indian Premier League,22.0,male,T20,T20,20,2012,club,"Punjab Cricket Association Stadium, Mohali",494,494,6,bat,6,,8.0,win,56.0
+548329,2012,6,Hyderabad,2012-05-10,Indian Premier League,55.0,male,T20,T20,20,2012,club,"Rajiv Gandhi International Stadium, Uppal",2,2,252,bat,252,,9.0,win,12.0
+548330,2012,6,Chennai,2012-04-19,Indian Premier League,24.0,male,T20,T20,20,2012,club,"MA Chidambaram Stadium, Chepauk",1419,129,1419,field,129,13.0,,win,16414.0
+548331,2012,6,Chandigarh,2012-04-20,Indian Premier League,25.0,male,T20,T20,20,2012,club,"Punjab Cricket Association Stadium, Mohali",1,494,1,field,1,,5.0,win,1.0
+548332,2012,6,Chennai,2012-04-21,Indian Premier League,26.0,male,T20,T20,20,2012,club,"MA Chidambaram Stadium, Chepauk",134,129,134,bat,129,,7.0,win,267.0
+548333,2012,6,Delhi,2012-04-21,Indian Premier League,27.0,male,T20,T20,20,2012,club,Feroz Shah Kotla,252,252,1419,field,1419,20.0,,win,11919.0
+548334,2012,6,Mumbai,2012-04-22,Indian Premier League,28.0,male,T20,T20,20,2012,club,Wankhede Stadium,3,3,494,bat,494,,6.0,win,541.0
+548335,2012,6,Cuttack,2012-04-22,Indian Premier League,29.0,male,T20,T20,20,2012,club,Barabati Stadium,6,2,6,field,6,,5.0,win,11959.0
+548336,2012,6,Jaipur,2012-04-23,Indian Premier League,30.0,male,T20,T20,20,2012,club,Sawai Mansingh Stadium,134,134,1,field,1,46.0,,win,245.0
+548337,2012,6,Pune,2012-04-24,Indian Premier League,31.0,male,T20,T20,20,2012,club,Subrata Roy Sahara Stadium,1419,1419,252,bat,252,,8.0,win,11975.0
+548339,2012,6,Chandigarh,2012-04-25,Indian Premier League,33.0,male,T20,T20,20,2012,club,"Punjab Cricket Association Stadium, Mohali",494,494,3,bat,3,,4.0,win,27.0
+548341,2012,6,Pune,2012-04-26,Indian Premier League,35.0,male,T20,T20,20,2012,club,Subrata Roy Sahara Stadium,2,1419,2,bat,2,18.0,,win,11934.0
+548342,2012,6,Delhi,2012-04-27,Indian Premier League,36.0,male,T20,T20,20,2012,club,Feroz Shah Kotla,3,252,3,field,252,37.0,,win,11975.0
+548343,2012,6,Chennai,2012-04-28,Indian Premier League,37.0,male,T20,T20,20,2012,club,"MA Chidambaram Stadium, Chepauk",494,129,494,bat,494,7.0,,win,2.0
+548344,2012,6,Kolkata,2012-04-28,Indian Premier League,38.0,male,T20,T20,20,2012,club,Eden Gardens,6,6,1,bat,6,47.0,,win,56.0
+548345,2012,6,Delhi,2012-04-29,Indian Premier League,39.0,male,T20,T20,20,2012,club,Feroz Shah Kotla,252,252,134,bat,252,1.0,,win,11975.0
+548346,2012,6,Mumbai,2012-04-29,Indian Premier League,40.0,male,T20,T20,20,2012,club,Wankhede Stadium,3,3,2,field,3,,5.0,win,3451.0
+548347,2012,6,Chennai,2012-04-30,Indian Premier League,41.0,male,T20,T20,20,2012,club,"MA Chidambaram Stadium, Chepauk",129,129,6,bat,6,,5.0,win,56.0
+548348,2012,6,Cuttack,2012-05-01,Indian Premier League,42.0,male,T20,T20,20,2012,club,Barabati Stadium,2,2,1419,bat,2,13.0,,win,11954.0
+548349,2012,6,Jaipur,2012-05-01,Indian Premier League,43.0,male,T20,T20,20,2012,club,Sawai Mansingh Stadium,134,134,252,bat,252,,6.0,win,172.0
+548350,2012,6,Bangalore,2012-05-02,Indian Premier League,44.0,male,T20,T20,20,2012,club,M Chinnaswamy Stadium,494,1,494,field,494,,4.0,win,34817.0
+548351,2012,6,Pune,2012-05-03,Indian Premier League,45.0,male,T20,T20,20,2012,club,Subrata Roy Sahara Stadium,3,1419,3,bat,3,1.0,,win,230.0
+548352,2012,6,Chennai,2012-05-04,Indian Premier League,46.0,male,T20,T20,20,2012,club,"MA Chidambaram Stadium, Chepauk",129,129,2,bat,129,10.0,,win,47.0
+548353,2012,6,Kolkata,2012-05-05,Indian Premier League,47.0,male,T20,T20,20,2012,club,Eden Gardens,6,6,1419,bat,6,7.0,,win,65.0
+548354,2012,6,Chandigarh,2012-05-05,Indian Premier League,48.0,male,T20,T20,20,2012,club,"Punjab Cricket Association Stadium, Mohali",134,494,134,bat,134,43.0,,win,5.0
+548355,2012,6,Mumbai,2012-05-06,Indian Premier League,49.0,male,T20,T20,20,2012,club,Wankhede Stadium,3,3,129,field,3,,2.0,win,50.0
+548356,2012,6,Bangalore,2012-05-06,Indian Premier League,50.0,male,T20,T20,20,2012,club,M Chinnaswamy Stadium,1,1,2,field,1,,5.0,win,245.0
+548357,2012,6,Delhi,2012-05-07,Indian Premier League,51.0,male,T20,T20,20,2012,club,Feroz Shah Kotla,252,252,6,bat,6,,6.0,win,11933.0
+548358,2012,6,Pune,2012-05-08,Indian Premier League,52.0,male,T20,T20,20,2012,club,Subrata Roy Sahara Stadium,1419,1419,134,bat,134,,7.0,win,5.0
+548359,2012,6,Hyderabad,2012-05-08,Indian Premier League,53.0,male,T20,T20,20,2012,club,"Rajiv Gandhi International Stadium, Uppal",2,2,494,field,494,25.0,,win,2.0
+548360,2012,6,Mumbai,2012-05-09,Indian Premier League,54.0,male,T20,T20,20,2012,club,Wankhede Stadium,1,3,1,field,1,,9.0,win,1.0
+548361,2012,6,Jaipur,2012-05-10,Indian Premier League,56.0,male,T20,T20,20,2012,club,Sawai Mansingh Stadium,129,134,129,field,129,,4.0,win,35239.0
+548362,2012,6,Pune,2012-05-11,Indian Premier League,57.0,male,T20,T20,20,2012,club,Subrata Roy Sahara Stadium,1419,1419,1,field,1,35.0,,win,1.0
+548363,2012,6,Kolkata,2012-05-12,Indian Premier League,58.0,male,T20,T20,20,2012,club,Eden Gardens,3,6,3,bat,3,27.0,,win,25.0
+548364,2012,6,Chennai,2012-05-12,Indian Premier League,59.0,male,T20,T20,20,2012,club,"MA Chidambaram Stadium, Chepauk",129,129,252,field,129,,9.0,win,35239.0
+548365,2012,6,Jaipur,2012-05-13,Indian Premier League,60.0,male,T20,T20,20,2012,club,Sawai Mansingh Stadium,134,134,1419,bat,134,45.0,,win,34931.0
+548366,2012,6,Chandigarh,2012-05-13,Indian Premier League,61.0,male,T20,T20,20,2012,club,"Punjab Cricket Association Stadium, Mohali",2,494,2,bat,494,,4.0,win,11922.0
+548367,2012,6,Bangalore,2012-05-14,Indian Premier League,62.0,male,T20,T20,20,2012,club,M Chinnaswamy Stadium,3,1,3,field,3,,5.0,win,27.0
+548368,2012,6,Kolkata,2012-05-14,Indian Premier League,63.0,male,T20,T20,20,2012,club,Eden Gardens,129,6,129,field,129,,5.0,win,11943.0
+548369,2012,6,Delhi,2012-05-15,Indian Premier League,64.0,male,T20,T20,20,2012,club,Feroz Shah Kotla,494,252,494,bat,252,,5.0,win,318.0
+548370,2012,6,Mumbai,2012-05-16,Indian Premier League,65.0,male,T20,T20,20,2012,club,Wankhede Stadium,3,3,6,field,6,32.0,,win,65.0
+548371,2012,6,Dharamsala,2012-05-17,Indian Premier League,66.0,male,T20,T20,20,2012,club,Himachal Pradesh Cricket Association Stadium,494,494,129,field,494,,6.0,win,12007.0
+548372,2012,6,Delhi,2012-05-17,Indian Premier League,67.0,male,T20,T20,20,2012,club,Feroz Shah Kotla,252,252,1,field,1,21.0,,win,1.0
+548373,2012,6,Hyderabad,2012-05-18,Indian Premier League,68.0,male,T20,T20,20,2012,club,"Rajiv Gandhi International Stadium, Uppal",134,2,134,bat,2,,5.0,win,3451.0
+548374,2012,6,Dharamsala,2012-05-19,Indian Premier League,69.0,male,T20,T20,20,2012,club,Himachal Pradesh Cricket Association Stadium,252,494,252,field,252,,6.0,win,318.0
+548375,2012,6,Pune,2012-05-19,Indian Premier League,70.0,male,T20,T20,20,2012,club,Subrata Roy Sahara Stadium,6,1419,6,bat,6,34.0,,win,579.0
+548376,2012,6,Hyderabad,2012-05-20,Indian Premier League,71.0,male,T20,T20,20,2012,club,"Rajiv Gandhi International Stadium, Uppal",1,2,1,field,2,9.0,,win,3451.0
+548377,2012,6,Jaipur,2012-05-20,Indian Premier League,72.0,male,T20,T20,20,2012,club,Sawai Mansingh Stadium,134,134,3,bat,3,,10.0,win,50.0
+548378,2012,6,Pune,2012-05-22,Indian Premier League,,male,T20,T20,20,2012,club,Subrata Roy Sahara Stadium,6,252,6,bat,6,18.0,,win,60.0
+548379,2012,6,Bangalore,2012-05-23,Indian Premier League,,male,T20,T20,20,2012,club,M Chinnaswamy Stadium,3,129,3,field,129,38.0,,win,38.0
+548380,2012,6,Chennai,2012-05-25,Indian Premier League,,male,T20,T20,20,2012,club,"MA Chidambaram Stadium, Chepauk",252,252,129,field,129,86.0,,win,1630.0
+548381,2012,6,Chennai,2012-05-27,Indian Premier League,,male,T20,T20,20,2012,club,"MA Chidambaram Stadium, Chepauk",129,6,129,bat,6,,5.0,win,14505.0
+597998,2013,6,Kolkata,2013-04-03,Indian Premier League,1.0,male,T20,T20,20,2013,club,Eden Gardens,6,6,252,field,6,,6.0,win,65.0
+597999,2013,6,Bangalore,2013-04-04,Indian Premier League,2.0,male,T20,T20,20,2013,club,M Chinnaswamy Stadium,3,1,3,field,1,2.0,,win,1.0
+598000,2013,6,Hyderabad,2013-04-05,Indian Premier League,3.0,male,T20,T20,20,2013,club,"Rajiv Gandhi International Stadium, Uppal",1419,2,1419,field,2,22.0,,win,185.0
+598001,2013,6,Delhi,2013-04-06,Indian Premier League,4.0,male,T20,T20,20,2013,club,Feroz Shah Kotla,134,252,134,bat,134,5.0,,win,11930.0
+598002,2013,6,Chennai,2013-04-06,Indian Premier League,5.0,male,T20,T20,20,2013,club,"MA Chidambaram Stadium, Chepauk",3,129,3,bat,3,9.0,,win,29.0
+598003,2013,6,Pune,2013-04-07,Indian Premier League,6.0,male,T20,T20,20,2013,club,Subrata Roy Sahara Stadium,1419,1419,494,bat,494,,8.0,win,68.0
+598004,2013,6,Hyderabad,2013-04-07,Indian Premier League,7.0,male,T20,T20,20,2013,club,"Rajiv Gandhi International Stadium, Uppal",1,2,1,bat,1,,,tie,2910.0
+598005,2013,6,Jaipur,2013-04-08,Indian Premier League,8.0,male,T20,T20,20,2013,club,Sawai Mansingh Stadium,6,134,6,field,134,19.0,,win,11972.0
+598006,2013,6,Mumbai,2013-04-09,Indian Premier League,10.0,male,T20,T20,20,2013,club,Wankhede Stadium,3,3,252,bat,3,44.0,,win,49.0
+598007,2013,6,Chandigarh,2013-04-10,Indian Premier League,11.0,male,T20,T20,20,2013,club,"Punjab Cricket Association Stadium, Mohali",129,494,129,field,129,,10.0,win,11943.0
+598008,2013,6,Bangalore,2013-04-11,Indian Premier League,12.0,male,T20,T20,20,2013,club,M Chinnaswamy Stadium,1,1,6,field,1,,8.0,win,1.0
+598009,2013,6,Pune,2013-04-11,Indian Premier League,13.0,male,T20,T20,20,2013,club,Subrata Roy Sahara Stadium,134,1419,134,bat,1419,,7.0,win,48.0
+598010,2013,6,Delhi,2013-04-12,Indian Premier League,14.0,male,T20,T20,20,2013,club,Feroz Shah Kotla,252,252,2,bat,2,,3.0,win,185.0
+598011,2013,6,Mumbai,2013-04-13,Indian Premier League,15.0,male,T20,T20,20,2013,club,Wankhede Stadium,3,3,1419,bat,3,41.0,,win,25.0
+598012,2013,6,Chennai,2013-04-13,Indian Premier League,16.0,male,T20,T20,20,2013,club,"MA Chidambaram Stadium, Chepauk",129,129,1,field,129,,4.0,win,348.0
+598013,2013,6,Kolkata,2013-04-14,Indian Premier League,17.0,male,T20,T20,20,2013,club,Eden Gardens,6,6,2,bat,6,48.0,,win,56.0
+598014,2013,6,Jaipur,2013-04-14,Indian Premier League,18.0,male,T20,T20,20,2013,club,Sawai Mansingh Stadium,134,134,494,field,134,,6.0,win,569.0
+598015,2013,6,Chennai,2013-04-15,Indian Premier League,19.0,male,T20,T20,20,2013,club,"MA Chidambaram Stadium, Chepauk",1419,129,1419,bat,1419,24.0,,win,36.0
+598016,2013,6,Chandigarh,2013-04-16,Indian Premier League,20.0,male,T20,T20,20,2013,club,"Punjab Cricket Association Stadium, Mohali",6,494,6,field,494,4.0,,win,51.0
+598017,2013,6,Bangalore,2013-04-16,Indian Premier League,21.0,male,T20,T20,20,2013,club,M Chinnaswamy Stadium,1,1,252,field,252,,,tie,332.0
+598018,2013,6,Pune,2013-04-17,Indian Premier League,22.0,male,T20,T20,20,2013,club,Maharashtra Cricket Association Stadium,1419,1419,2,field,2,11.0,,win,185.0
+598019,2013,6,Jaipur,2013-04-17,Indian Premier League,23.0,male,T20,T20,20,2013,club,Sawai Mansingh Stadium,134,134,3,bat,134,87.0,,win,34.0
+598020,2013,6,Delhi,2013-04-18,Indian Premier League,24.0,male,T20,T20,20,2013,club,Feroz Shah Kotla,129,252,129,bat,129,86.0,,win,11943.0
+598021,2013,6,Hyderabad,2013-04-19,Indian Premier League,25.0,male,T20,T20,20,2013,club,"Rajiv Gandhi International Stadium, Uppal",494,2,494,bat,2,,5.0,win,2910.0
+598022,2013,6,Kolkata,2013-04-20,Indian Premier League,26.0,male,T20,T20,20,2013,club,Eden Gardens,6,6,129,bat,129,,4.0,win,348.0
+598023,2013,6,Bangalore,2013-04-20,Indian Premier League,27.0,male,T20,T20,20,2013,club,M Chinnaswamy Stadium,1,1,134,field,1,,7.0,win,1242.0
+598024,2013,6,Delhi,2013-04-21,Indian Premier League,28.0,male,T20,T20,20,2013,club,Feroz Shah Kotla,3,252,3,bat,252,,9.0,win,11975.0
+598025,2013,6,Chandigarh,2013-04-21,Indian Premier League,29.0,male,T20,T20,20,2013,club,"Punjab Cricket Association Stadium, Mohali",494,494,1419,field,494,,7.0,win,72.0
+598026,2013,6,Chennai,2013-04-22,Indian Premier League,30.0,male,T20,T20,20,2013,club,"MA Chidambaram Stadium, Chepauk",134,129,134,bat,129,,5.0,win,11943.0
+598027,2013,6,Bangalore,2013-04-23,Indian Premier League,31.0,male,T20,T20,20,2013,club,M Chinnaswamy Stadium,1419,1,1419,field,1,130.0,,win,1.0
+598028,2013,6,Dharamsala,2013-05-16,Indian Premier League,67.0,male,T20,T20,20,2013,club,Himachal Pradesh Cricket Association Stadium,252,494,252,field,494,7.0,,win,72.0
+598029,2013,6,Kolkata,2013-04-24,Indian Premier League,33.0,male,T20,T20,20,2013,club,Eden Gardens,6,6,3,bat,3,,5.0,win,50.0
+598030,2013,6,Chennai,2013-04-25,Indian Premier League,34.0,male,T20,T20,20,2013,club,"MA Chidambaram Stadium, Chepauk",2,129,2,bat,129,,5.0,win,38.0
+598031,2013,6,Kolkata,2013-04-26,Indian Premier League,35.0,male,T20,T20,20,2013,club,Eden Gardens,494,6,494,bat,6,,6.0,win,11933.0
+598032,2013,6,Jaipur,2013-04-27,Indian Premier League,36.0,male,T20,T20,20,2013,club,Sawai Mansingh Stadium,2,134,2,bat,134,,8.0,win,569.0
+598033,2013,6,Mumbai,2013-04-27,Indian Premier League,37.0,male,T20,T20,20,2013,club,Wankhede Stadium,3,3,1,bat,3,58.0,,win,50.0
+598034,2013,6,Chennai,2013-04-28,Indian Premier League,38.0,male,T20,T20,20,2013,club,"MA Chidambaram Stadium, Chepauk",6,129,6,field,129,14.0,,win,11943.0
+598035,2013,6,Raipur,2013-04-28,Indian Premier League,39.0,male,T20,T20,20,2013,club,Shaheed Veer Narayan Singh International Stadium,1419,252,1419,field,252,15.0,,win,12.0
+598036,2013,6,Jaipur,2013-04-29,Indian Premier League,40.0,male,T20,T20,20,2013,club,Sawai Mansingh Stadium,134,134,1,field,134,,4.0,win,180.0
+598037,2013,6,Mumbai,2013-04-29,Indian Premier League,41.0,male,T20,T20,20,2013,club,Wankhede Stadium,3,3,494,bat,3,4.0,,win,25.0
+598038,2013,6,Pune,2013-04-30,Indian Premier League,42.0,male,T20,T20,20,2013,club,Subrata Roy Sahara Stadium,129,1419,129,bat,129,37.0,,win,38.0
+598039,2013,6,Hyderabad,2013-05-01,Indian Premier League,43.0,male,T20,T20,20,2013,club,"Rajiv Gandhi International Stadium, Uppal",3,2,3,bat,2,,7.0,win,308.0
+598040,2013,6,Raipur,2013-05-01,Indian Premier League,44.0,male,T20,T20,20,2013,club,Shaheed Veer Narayan Singh International Stadium,6,252,6,bat,252,,7.0,win,12.0
+598041,2013,6,Chennai,2013-05-02,Indian Premier League,45.0,male,T20,T20,20,2013,club,"MA Chidambaram Stadium, Chepauk",129,129,494,bat,129,15.0,,win,47.0
+598042,2013,6,Pune,2013-05-02,Indian Premier League,46.0,male,T20,T20,20,2013,club,Subrata Roy Sahara Stadium,1,1419,1,bat,1,17.0,,win,245.0
+598043,2013,6,Kolkata,2013-05-03,Indian Premier League,47.0,male,T20,T20,20,2013,club,Eden Gardens,134,6,134,bat,6,,8.0,win,60.0
+598044,2013,6,Hyderabad,2013-05-04,Indian Premier League,48.0,male,T20,T20,20,2013,club,"Rajiv Gandhi International Stadium, Uppal",252,2,252,bat,2,,6.0,win,36610.0
+598045,2013,6,Bangalore,2013-05-14,Indian Premier League,63.0,male,T20,T20,20,2013,club,M Chinnaswamy Stadium,494,1,494,field,494,,7.0,win,12007.0
+598046,2013,6,Mumbai,2013-05-05,Indian Premier League,49.0,male,T20,T20,20,2013,club,Wankhede Stadium,3,3,129,bat,3,60.0,,win,604.0
+598047,2013,6,Jaipur,2013-05-05,Indian Premier League,50.0,male,T20,T20,20,2013,club,Sawai Mansingh Stadium,1419,134,1419,bat,134,,5.0,win,34.0
+598048,2013,6,Bangalore,2013-04-09,Indian Premier League,9.0,male,T20,T20,20,2013,club,M Chinnaswamy Stadium,2,1,2,bat,1,,7.0,win,332.0
+598049,2013,6,Jaipur,2013-05-07,Indian Premier League,52.0,male,T20,T20,20,2013,club,Sawai Mansingh Stadium,252,134,252,bat,134,,9.0,win,34.0
+598050,2013,6,Mumbai,2013-05-07,Indian Premier League,53.0,male,T20,T20,20,2013,club,Wankhede Stadium,3,3,6,bat,3,65.0,,win,12580.0
+598051,2013,6,Hyderabad,2013-05-08,Indian Premier League,54.0,male,T20,T20,20,2013,club,"Rajiv Gandhi International Stadium, Uppal",2,2,129,field,129,77.0,,win,47.0
+598052,2013,6,Chandigarh,2013-05-09,Indian Premier League,55.0,male,T20,T20,20,2013,club,"Punjab Cricket Association Stadium, Mohali",134,494,134,field,134,,8.0,win,34343.0
+598053,2013,6,Pune,2013-05-09,Indian Premier League,56.0,male,T20,T20,20,2013,club,Subrata Roy Sahara Stadium,6,1419,6,bat,6,46.0,,win,56.0
+598054,2013,6,Delhi,2013-05-10,Indian Premier League,57.0,male,T20,T20,20,2013,club,Feroz Shah Kotla,252,252,1,field,1,4.0,,win,438.0
+598055,2013,6,Pune,2013-05-11,Indian Premier League,58.0,male,T20,T20,20,2013,club,Subrata Roy Sahara Stadium,1419,1419,3,bat,3,,5.0,win,604.0
+598056,2013,6,Chandigarh,2013-05-11,Indian Premier League,59.0,male,T20,T20,20,2013,club,"Punjab Cricket Association Stadium, Mohali",494,494,2,field,2,30.0,,win,23.0
+598057,2013,6,Ranchi,2013-05-12,Indian Premier League,60.0,male,T20,T20,20,2013,club,JSCA International Stadium Complex,6,6,1,field,6,,5.0,win,11933.0
+598058,2013,6,Jaipur,2013-05-12,Indian Premier League,61.0,male,T20,T20,20,2013,club,Sawai Mansingh Stadium,134,134,129,field,134,,5.0,win,5.0
+598059,2013,6,Delhi,2013-04-23,Indian Premier League,32.0,male,T20,T20,20,2013,club,Feroz Shah Kotla,494,252,494,field,494,,5.0,win,13267.0
+598060,2013,6,Mumbai,2013-05-13,Indian Premier League,62.0,male,T20,T20,20,2013,club,Wankhede Stadium,2,3,2,bat,3,,7.0,win,29.0
+598061,2013,6,Ranchi,2013-05-15,Indian Premier League,65.0,male,T20,T20,20,2013,club,JSCA International Stadium Complex,6,6,1419,field,1419,7.0,,win,59.0
+598062,2013,6,Chennai,2013-05-14,Indian Premier League,64.0,male,T20,T20,20,2013,club,"MA Chidambaram Stadium, Chepauk",129,129,252,bat,129,33.0,,win,38.0
+598063,2013,6,Mumbai,2013-05-15,Indian Premier League,66.0,male,T20,T20,20,2013,club,Wankhede Stadium,134,3,134,field,3,14.0,,win,177.0
+598064,2013,6,Chandigarh,2013-05-06,Indian Premier League,51.0,male,T20,T20,20,2013,club,"Punjab Cricket Association Stadium, Mohali",494,494,1,field,494,,6.0,win,72.0
+598065,2013,6,Hyderabad,2013-05-17,Indian Premier League,68.0,male,T20,T20,20,2013,club,"Rajiv Gandhi International Stadium, Uppal",2,2,134,bat,2,23.0,,win,185.0
+598066,2013,6,Dharamsala,2013-05-18,Indian Premier League,69.0,male,T20,T20,20,2013,club,Himachal Pradesh Cricket Association Stadium,3,494,3,field,494,50.0,,win,34817.0
+598067,2013,6,Pune,2013-05-19,Indian Premier League,71.0,male,T20,T20,20,2013,club,Subrata Roy Sahara Stadium,1419,1419,252,bat,1419,38.0,,win,34959.0
+598068,2013,6,Bangalore,2013-05-18,Indian Premier League,70.0,male,T20,T20,20,2013,club,M Chinnaswamy Stadium,129,1,129,field,1,24.0,,win,332.0
+598069,2013,6,Hyderabad,2013-05-19,Indian Premier League,72.0,male,T20,T20,20,2013,club,"Rajiv Gandhi International Stadium, Uppal",6,2,6,bat,2,,5.0,win,23.0
+598070,2013,6,Delhi,2013-05-21,Indian Premier League,,male,T20,T20,20,2013,club,Feroz Shah Kotla,129,129,3,bat,129,48.0,,win,11943.0
+598071,2013,6,Delhi,2013-05-22,Indian Premier League,,male,T20,T20,20,2013,club,Feroz Shah Kotla,2,134,2,bat,134,,4.0,win,12318.0
+598072,2013,6,Kolkata,2013-05-24,Indian Premier League,,male,T20,T20,20,2013,club,Eden Gardens,134,3,134,bat,3,,4.0,win,228.0
+598073,2013,6,Kolkata,2013-05-26,Indian Premier League,,male,T20,T20,20,2013,club,Eden Gardens,3,129,3,bat,3,23.0,,win,29.0
+729279,2014,6,Abu Dhabi,2014-04-16,Indian Premier League,1.0,male,T20,T20,20,2014,club,Sheikh Zayed Stadium,6,3,6,bat,6,41.0,,win,11933.0
+729281,2014,6,,2014-04-17,Indian Premier League,2.0,male,T20,T20,20,2014,club,Sharjah Cricket Stadium,1,252,1,field,1,,8.0,win,10.0
+729283,2014,6,Abu Dhabi,2014-04-18,Indian Premier League,3.0,male,T20,T20,20,2014,club,Sheikh Zayed Stadium,129,129,494,bat,494,,6.0,win,71.0
+729285,2014,6,Abu Dhabi,2014-04-18,Indian Premier League,4.0,male,T20,T20,20,2014,club,Sheikh Zayed Stadium,134,2,134,field,134,,4.0,win,34.0
+729287,2014,6,,2014-04-19,Indian Premier League,5.0,male,T20,T20,20,2014,club,Dubai International Cricket Stadium,1,1,3,field,1,,7.0,win,23.0
+729289,2014,6,,2014-04-19,Indian Premier League,6.0,male,T20,T20,20,2014,club,Dubai International Cricket Stadium,6,6,252,bat,252,,4.0,win,1964.0
+729291,2014,6,,2014-04-20,Indian Premier League,7.0,male,T20,T20,20,2014,club,Sharjah Cricket Stadium,494,134,494,field,494,,7.0,win,71.0
+729293,2014,6,Abu Dhabi,2014-04-21,Indian Premier League,8.0,male,T20,T20,20,2014,club,Sheikh Zayed Stadium,129,129,252,bat,129,93.0,,win,47.0
+729295,2014,6,,2014-04-22,Indian Premier League,9.0,male,T20,T20,20,2014,club,Sharjah Cricket Stadium,2,494,2,field,494,72.0,,win,71.0
+729297,2014,6,,2014-04-23,Indian Premier League,10.0,male,T20,T20,20,2014,club,Dubai International Cricket Stadium,134,134,129,field,129,7.0,,win,348.0
+729299,2014,6,,2014-04-24,Indian Premier League,11.0,male,T20,T20,20,2014,club,Sharjah Cricket Stadium,1,1,6,field,6,2.0,,win,57.0
+729301,2014,6,,2014-04-25,Indian Premier League,12.0,male,T20,T20,20,2014,club,Dubai International Cricket Stadium,2,2,252,bat,2,4.0,,win,48.0
+729303,2014,6,,2014-04-25,Indian Premier League,13.0,male,T20,T20,20,2014,club,Dubai International Cricket Stadium,3,129,3,bat,129,,7.0,win,75.0
+729305,2014,6,Abu Dhabi,2014-04-26,Indian Premier League,14.0,male,T20,T20,20,2014,club,Sheikh Zayed Stadium,134,134,1,field,134,,6.0,win,37031.0
+729307,2014,6,Abu Dhabi,2014-04-26,Indian Premier League,15.0,male,T20,T20,20,2014,club,Sheikh Zayed Stadium,6,6,494,field,494,23.0,,win,76.0
+729309,2014,6,,2014-04-27,Indian Premier League,16.0,male,T20,T20,20,2014,club,Sharjah Cricket Stadium,3,252,3,bat,252,,6.0,win,1630.0
+729311,2014,6,,2014-04-27,Indian Premier League,17.0,male,T20,T20,20,2014,club,Sharjah Cricket Stadium,2,2,129,bat,129,,5.0,win,50.0
+729313,2014,6,,2014-04-28,Indian Premier League,18.0,male,T20,T20,20,2014,club,Dubai International Cricket Stadium,494,494,1,field,494,,5.0,win,76.0
+729315,2014,6,Abu Dhabi,2014-04-29,Indian Premier League,19.0,male,T20,T20,20,2014,club,Sheikh Zayed Stadium,134,6,134,bat,134,,,tie,569.0
+729317,2014,6,,2014-04-30,Indian Premier League,20.0,male,T20,T20,20,2014,club,Dubai International Cricket Stadium,3,3,2,field,2,15.0,,win,20.0
+733971,2014,6,Ranchi,2014-05-02,Indian Premier League,21.0,male,T20,T20,20,2014,club,JSCA International Stadium Complex,129,129,6,bat,129,34.0,,win,348.0
+733973,2014,6,Mumbai,2014-05-03,Indian Premier League,22.0,male,T20,T20,20,2014,club,Wankhede Stadium,494,3,494,bat,3,,5.0,win,258.0
+733975,2014,6,Delhi,2014-05-03,Indian Premier League,23.0,male,T20,T20,20,2014,club,Feroz Shah Kotla,134,252,134,field,134,,7.0,win,179.0
+733977,2014,6,Bangalore,2014-05-04,Indian Premier League,24.0,male,T20,T20,20,2014,club,M Chinnaswamy Stadium,1,1,2,field,1,,4.0,win,245.0
+733979,2014,6,Ahmedabad,2014-05-05,Indian Premier League,25.0,male,T20,T20,20,2014,club,"Sardar Patel Stadium, Motera",6,134,6,field,134,10.0,,win,37031.0
+733981,2014,6,Delhi,2014-05-05,Indian Premier League,26.0,male,T20,T20,20,2014,club,Feroz Shah Kotla,129,252,129,field,129,,8.0,win,50.0
+733983,2014,6,Mumbai,2014-05-06,Indian Premier League,27.0,male,T20,T20,20,2014,club,Wankhede Stadium,1,3,1,field,3,19.0,,win,25.0
+733985,2014,6,Delhi,2014-05-07,Indian Premier League,28.0,male,T20,T20,20,2014,club,Feroz Shah Kotla,252,252,6,bat,6,,8.0,win,56.0
+733987,2014,6,Cuttack,2014-05-07,Indian Premier League,29.0,male,T20,T20,20,2014,club,Barabati Stadium,129,494,129,field,494,44.0,,win,71.0
+733989,2014,6,Ahmedabad,2014-05-08,Indian Premier League,30.0,male,T20,T20,20,2014,club,"Sardar Patel Stadium, Motera",134,134,2,field,2,32.0,,win,20.0
+733991,2014,6,Bangalore,2014-05-09,Indian Premier League,31.0,male,T20,T20,20,2014,club,M Chinnaswamy Stadium,1,1,494,field,494,32.0,,win,76.0
+733993,2014,6,Delhi,2014-05-10,Indian Premier League,32.0,male,T20,T20,20,2014,club,Feroz Shah Kotla,2,252,2,field,2,,8.0,win,3451.0
+733995,2014,6,Mumbai,2014-05-10,Indian Premier League,33.0,male,T20,T20,20,2014,club,Wankhede Stadium,129,3,129,field,129,,4.0,win,50.0
+733997,2014,6,Cuttack,2014-05-11,Indian Premier League,34.0,male,T20,T20,20,2014,club,Barabati Stadium,6,494,6,field,6,,9.0,win,56.0
+733999,2014,6,Bangalore,2014-05-11,Indian Premier League,35.0,male,T20,T20,20,2014,club,M Chinnaswamy Stadium,1,1,134,bat,134,,5.0,win,569.0
+734001,2014,6,Hyderabad,2014-05-12,Indian Premier League,36.0,male,T20,T20,20,2014,club,"Rajiv Gandhi International Stadium, Uppal",2,2,3,bat,3,,7.0,win,27.0
+734003,2014,6,Ranchi,2014-05-13,Indian Premier League,37.0,male,T20,T20,20,2014,club,JSCA International Stadium Complex,134,129,134,bat,129,,5.0,win,348.0
+734005,2014,6,Bangalore,2014-05-13,Indian Premier League,38.0,male,T20,T20,20,2014,club,M Chinnaswamy Stadium,252,1,252,field,1,16.0,,win,15.0
+734007,2014,6,Hyderabad,2014-05-14,Indian Premier League,39.0,male,T20,T20,20,2014,club,"Rajiv Gandhi International Stadium, Uppal",494,2,494,field,494,,6.0,win,69.0
+734009,2014,6,Cuttack,2014-05-14,Indian Premier League,40.0,male,T20,T20,20,2014,club,Barabati Stadium,6,6,3,field,6,,6.0,win,58.0
+734011,2014,6,Ahmedabad,2014-05-15,Indian Premier League,41.0,male,T20,T20,20,2014,club,"Sardar Patel Stadium, Motera",252,134,252,field,134,62.0,,win,34.0
+734013,2014,6,Ranchi,2014-05-18,Indian Premier League,42.0,male,T20,T20,20,2014,club,JSCA International Stadium Complex,129,129,1,bat,1,,5.0,win,245.0
+734015,2014,6,Hyderabad,2014-05-18,Indian Premier League,43.0,male,T20,T20,20,2014,club,"Rajiv Gandhi International Stadium, Uppal",2,2,6,bat,6,,7.0,win,318.0
+734017,2014,6,Ahmedabad,2014-05-19,Indian Premier League,44.0,male,T20,T20,20,2014,club,"Sardar Patel Stadium, Motera",3,134,3,bat,3,25.0,,win,11943.0
+734019,2014,6,Delhi,2014-05-19,Indian Premier League,45.0,male,T20,T20,20,2014,club,Feroz Shah Kotla,494,252,494,field,494,,4.0,win,70.0
+734021,2014,6,Hyderabad,2014-05-20,Indian Premier League,46.0,male,T20,T20,20,2014,club,"Rajiv Gandhi International Stadium, Uppal",1,2,1,bat,2,,7.0,win,12.0
+734023,2014,6,Kolkata,2014-05-20,Indian Premier League,47.0,male,T20,T20,20,2014,club,Eden Gardens,6,6,129,field,6,,8.0,win,58.0
+734025,2014,6,Chandigarh,2014-05-21,Indian Premier League,48.0,male,T20,T20,20,2014,club,"Punjab Cricket Association Stadium, Mohali",3,494,3,field,3,,7.0,win,1035.0
+734027,2014,6,Kolkata,2014-05-22,Indian Premier League,49.0,male,T20,T20,20,2014,club,Eden Gardens,1,6,1,field,6,30.0,,win,58.0
+734029,2014,6,Ranchi,2014-05-22,Indian Premier League,50.0,male,T20,T20,20,2014,club,JSCA International Stadium Complex,2,129,2,field,2,,6.0,win,12.0
+734031,2014,6,Mumbai,2014-05-23,Indian Premier League,51.0,male,T20,T20,20,2014,club,Wankhede Stadium,252,3,252,field,3,15.0,,win,11943.0
+734033,2014,6,Chandigarh,2014-05-23,Indian Premier League,52.0,male,T20,T20,20,2014,club,"Punjab Cricket Association Stadium, Mohali",134,494,134,field,494,16.0,,win,541.0
+734035,2014,6,Bangalore,2014-05-24,Indian Premier League,53.0,male,T20,T20,20,2014,club,M Chinnaswamy Stadium,129,1,129,field,129,,8.0,win,38.0
+734037,2014,6,Kolkata,2014-05-24,Indian Premier League,54.0,male,T20,T20,20,2014,club,Eden Gardens,6,6,2,field,6,,4.0,win,60.0
+734039,2014,6,Chandigarh,2014-05-25,Indian Premier League,55.0,male,T20,T20,20,2014,club,"Punjab Cricket Association Stadium, Mohali",494,494,252,field,494,,7.0,win,68.0
+734041,2014,6,Mumbai,2014-05-25,Indian Premier League,56.0,male,T20,T20,20,2014,club,Wankhede Stadium,3,3,134,field,3,,5.0,win,258.0
+734043,2014,6,Kolkata,2014-05-27,Indian Premier League,,male,T20,T20,20,2014,club,Eden Gardens,494,494,6,field,6,28.0,,win,318.0
+734045,2014,6,Mumbai,2014-05-28,Indian Premier League,,male,T20,T20,20,2014,club,Brabourne Stadium,129,129,3,field,129,,7.0,win,47.0
+734047,2014,6,Mumbai,2014-05-30,Indian Premier League,,male,T20,T20,20,2014,club,Wankhede Stadium,129,129,494,field,494,24.0,,win,11975.0
+734049,2014,6,Bangalore,2014-06-01,Indian Premier League,,male,T20,T20,20,2014,club,M Chinnaswamy Stadium,6,6,494,field,6,,3.0,win,59.0
+829705,2015,6,Kolkata,2015-04-08,Indian Premier League,1.0,male,T20,T20,20,2015,club,Eden Gardens,6,6,3,field,6,,7.0,win,13863.0
+829707,2015,6,Chennai,2015-04-09,Indian Premier League,2.0,male,T20,T20,20,2015,club,"MA Chidambaram Stadium, Chepauk",252,129,252,field,129,1.0,,win,21.0
+829709,2015,6,Pune,2015-04-10,Indian Premier League,3.0,male,T20,T20,20,2015,club,Maharashtra Cricket Association Stadium,494,494,134,field,134,26.0,,win,569.0
+829711,2015,6,Chennai,2015-04-11,Indian Premier League,4.0,male,T20,T20,20,2015,club,"MA Chidambaram Stadium, Chepauk",129,129,2,bat,129,45.0,,win,46.0
+829713,2015,6,Kolkata,2015-04-11,Indian Premier League,5.0,male,T20,T20,20,2015,club,Eden Gardens,1,6,1,field,1,,3.0,win,1.0
+829715,2015,6,Delhi,2015-04-12,Indian Premier League,6.0,male,T20,T20,20,2015,club,Feroz Shah Kotla,134,252,134,field,134,,3.0,win,16.0
+829717,2015,6,Mumbai,2015-04-12,Indian Premier League,7.0,male,T20,T20,20,2015,club,Wankhede Stadium,3,3,494,field,494,18.0,,win,13882.0
+829719,2015,6,Bangalore,2015-04-13,Indian Premier League,8.0,male,T20,T20,20,2015,club,M Chinnaswamy Stadium,2,1,2,field,2,,8.0,win,12.0
+829721,2015,6,Ahmedabad,2015-04-14,Indian Premier League,9.0,male,T20,T20,20,2015,club,"Sardar Patel Stadium, Motera",3,134,3,bat,134,,7.0,win,36.0
+829723,2015,6,Kolkata,2015-04-30,Indian Premier League,30.0,male,T20,T20,20,2015,club,Eden Gardens,6,6,129,field,6,,7.0,win,1437.0
+829725,2015,6,Pune,2015-04-15,Indian Premier League,10.0,male,T20,T20,20,2015,club,Maharashtra Cricket Association Stadium,494,494,252,bat,252,,5.0,win,35.0
+829727,2015,6,Visakhapatnam,2015-04-16,Indian Premier League,11.0,male,T20,T20,20,2015,club,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,134,2,134,field,134,,6.0,win,34.0
+829729,2015,6,Mumbai,2015-04-17,Indian Premier League,12.0,male,T20,T20,20,2015,club,Wankhede Stadium,3,3,129,bat,129,,6.0,win,21.0
+829731,2015,6,Visakhapatnam,2015-04-18,Indian Premier League,13.0,male,T20,T20,20,2015,club,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,252,2,252,bat,252,4.0,,win,1964.0
+829733,2015,6,Pune,2015-04-18,Indian Premier League,14.0,male,T20,T20,20,2015,club,Maharashtra Cricket Association Stadium,6,494,6,field,6,,4.0,win,1437.0
+829735,2015,6,Ahmedabad,2015-04-19,Indian Premier League,15.0,male,T20,T20,20,2015,club,"Sardar Patel Stadium, Motera",129,134,129,bat,134,,8.0,win,34.0
+829737,2015,6,Bangalore,2015-04-19,Indian Premier League,16.0,male,T20,T20,20,2015,club,M Chinnaswamy Stadium,1,1,3,field,3,18.0,,win,228.0
+829739,2015,6,Delhi,2015-04-20,Indian Premier League,17.0,male,T20,T20,20,2015,club,Feroz Shah Kotla,6,252,6,field,6,,6.0,win,318.0
+829741,2015,6,Ahmedabad,2015-04-21,Indian Premier League,18.0,male,T20,T20,20,2015,club,"Sardar Patel Stadium, Motera",494,134,494,field,494,,,tie,541.0
+829743,2015,6,Visakhapatnam,2015-04-22,Indian Premier League,19.0,male,T20,T20,20,2015,club,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,6,2,6,field,2,16.0,,win,12.0
+829745,2015,6,Bangalore,2015-04-22,Indian Premier League,20.0,male,T20,T20,20,2015,club,M Chinnaswamy Stadium,1,1,129,field,129,27.0,,win,47.0
+829747,2015,6,Delhi,2015-04-23,Indian Premier League,21.0,male,T20,T20,20,2015,club,Feroz Shah Kotla,3,252,3,field,252,37.0,,win,389.0
+829749,2015,6,Ahmedabad,2015-04-24,Indian Premier League,22.0,male,T20,T20,20,2015,club,"Sardar Patel Stadium, Motera",1,134,1,field,1,,9.0,win,10109.0
+829751,2015,6,Mumbai,2015-04-25,Indian Premier League,23.0,male,T20,T20,20,2015,club,Wankhede Stadium,3,3,2,bat,3,20.0,,win,230.0
+829753,2015,6,Chennai,2015-04-25,Indian Premier League,24.0,male,T20,T20,20,2015,club,"MA Chidambaram Stadium, Chepauk",129,129,494,bat,129,97.0,,win,46.0
+829757,2015,6,Delhi,2015-04-26,Indian Premier League,26.0,male,T20,T20,20,2015,club,Feroz Shah Kotla,1,252,1,field,1,,10.0,win,241.0
+829759,2015,6,Chandigarh,2015-04-27,Indian Premier League,27.0,male,T20,T20,20,2015,club,"Punjab Cricket Association Stadium, Mohali",494,494,2,field,2,20.0,,win,66.0
+829761,2015,6,Kolkata,2015-05-07,Indian Premier League,42.0,male,T20,T20,20,2015,club,Eden Gardens,6,6,252,bat,6,13.0,,win,63.0
+829763,2015,6,Bangalore,2015-04-29,Indian Premier League,29.0,male,T20,T20,20,2015,club,M Chinnaswamy Stadium,134,1,134,field,134,,,no result,
+829765,2015,6,Chennai,2015-04-28,Indian Premier League,28.0,male,T20,T20,20,2015,club,"MA Chidambaram Stadium, Chepauk",6,129,6,field,129,2.0,,win,1393.0
+829767,2015,6,Delhi,2015-05-01,Indian Premier League,31.0,male,T20,T20,20,2015,club,Feroz Shah Kotla,252,252,494,field,252,,9.0,win,471.0
+829769,2015,6,Mumbai,2015-05-01,Indian Premier League,32.0,male,T20,T20,20,2015,club,Wankhede Stadium,134,3,134,field,3,8.0,,win,27.0
+829771,2015,6,Bangalore,2015-05-02,Indian Premier League,33.0,male,T20,T20,20,2015,club,M Chinnaswamy Stadium,1,1,6,field,1,,7.0,win,2.0
+829773,2015,6,Hyderabad,2015-05-02,Indian Premier League,34.0,male,T20,T20,20,2015,club,"Rajiv Gandhi International Stadium, Uppal",129,2,129,field,2,22.0,,win,12.0
+829775,2015,6,Chandigarh,2015-05-03,Indian Premier League,35.0,male,T20,T20,20,2015,club,"Punjab Cricket Association Stadium, Mohali",3,494,3,bat,3,23.0,,win,1035.0
+829777,2015,6,Mumbai,2015-05-03,Indian Premier League,36.0,male,T20,T20,20,2015,club,Brabourne Stadium,252,134,252,field,134,14.0,,win,34.0
+829779,2015,6,Chennai,2015-05-04,Indian Premier League,37.0,male,T20,T20,20,2015,club,"MA Chidambaram Stadium, Chepauk",129,129,1,bat,129,24.0,,win,47.0
+829781,2015,6,Kolkata,2015-05-04,Indian Premier League,38.0,male,T20,T20,20,2015,club,Eden Gardens,2,6,2,field,6,35.0,,win,318.0
+829783,2015,6,Mumbai,2015-05-05,Indian Premier League,39.0,male,T20,T20,20,2015,club,Wankhede Stadium,252,3,252,bat,3,,5.0,win,228.0
+829785,2015,6,Bangalore,2015-05-06,Indian Premier League,40.0,male,T20,T20,20,2015,club,M Chinnaswamy Stadium,494,1,494,field,1,138.0,,win,1.0
+829787,2015,6,Mumbai,2015-05-07,Indian Premier League,41.0,male,T20,T20,20,2015,club,Brabourne Stadium,134,134,2,field,2,7.0,,win,400.0
+829789,2015,6,Chennai,2015-05-08,Indian Premier League,43.0,male,T20,T20,20,2015,club,"MA Chidambaram Stadium, Chepauk",129,129,3,bat,3,,6.0,win,30.0
+829791,2015,6,Kolkata,2015-05-09,Indian Premier League,44.0,male,T20,T20,20,2015,club,Eden Gardens,494,6,494,bat,6,,1.0,win,1437.0
+829793,2015,6,Raipur,2015-05-09,Indian Premier League,45.0,male,T20,T20,20,2015,club,Shaheed Veer Narayan Singh International Stadium,2,252,2,bat,2,6.0,,win,14.0
+829795,2015,6,Mumbai,2015-05-10,Indian Premier League,46.0,male,T20,T20,20,2015,club,Wankhede Stadium,1,3,1,bat,1,39.0,,win,245.0
+829797,2015,6,Chennai,2015-05-10,Indian Premier League,47.0,male,T20,T20,20,2015,club,"MA Chidambaram Stadium, Chepauk",129,129,134,bat,129,12.0,,win,348.0
+829799,2015,6,Hyderabad,2015-05-11,Indian Premier League,48.0,male,T20,T20,20,2015,club,"Rajiv Gandhi International Stadium, Uppal",2,2,494,bat,2,5.0,,win,12.0
+829801,2015,6,Raipur,2015-05-12,Indian Premier League,49.0,male,T20,T20,20,2015,club,Shaheed Veer Narayan Singh International Stadium,129,252,129,bat,252,,6.0,win,187.0
+829803,2015,6,Chandigarh,2015-05-13,Indian Premier League,50.0,male,T20,T20,20,2015,club,"Punjab Cricket Association Stadium, Mohali",1,494,1,field,494,22.0,,win,70.0
+829805,2015,6,Mumbai,2015-05-14,Indian Premier League,51.0,male,T20,T20,20,2015,club,Wankhede Stadium,6,3,6,field,3,5.0,,win,30.0
+829807,2015,6,Hyderabad,2015-05-15,Indian Premier League,52.0,male,T20,T20,20,2015,club,"Rajiv Gandhi International Stadium, Uppal",2,2,1,bat,1,,6.0,win,332.0
+829809,2015,6,Chandigarh,2015-05-16,Indian Premier League,53.0,male,T20,T20,20,2015,club,"Punjab Cricket Association Stadium, Mohali",494,494,129,bat,129,,7.0,win,172.0
+829811,2015,6,Mumbai,2015-05-16,Indian Premier League,54.0,male,T20,T20,20,2015,club,Brabourne Stadium,134,134,6,bat,134,9.0,,win,5.0
+829813,2015,6,Bangalore,2015-05-17,Indian Premier League,55.0,male,T20,T20,20,2015,club,M Chinnaswamy Stadium,1,1,252,field,252,,,no result,
+829815,2015,6,Hyderabad,2015-05-17,Indian Premier League,56.0,male,T20,T20,20,2015,club,"Rajiv Gandhi International Stadium, Uppal",2,2,3,bat,3,,9.0,win,32.0
+829817,2015,6,Mumbai,2015-05-19,Indian Premier League,,male,T20,T20,20,2015,club,Wankhede Stadium,3,129,3,bat,3,25.0,,win,29.0
+829819,2015,6,Pune,2015-05-20,Indian Premier League,,male,T20,T20,20,2015,club,Maharashtra Cricket Association Stadium,1,1,134,bat,1,71.0,,win,245.0
+829821,2015,6,Ranchi,2015-05-22,Indian Premier League,,male,T20,T20,20,2015,club,JSCA International Stadium Complex,129,129,1,field,129,,3.0,win,21.0
+829823,2015,6,Kolkata,2015-05-24,Indian Premier League,,male,T20,T20,20,2015,club,Eden Gardens,129,3,129,field,3,41.0,,win,25.0
+980901,2016,6,Mumbai,2016-04-09,Indian Premier League,1.0,male,T20,T20,20,2016,club,Wankhede Stadium,3,3,4,bat,4,,9.0,win,34.0
+980903,2016,6,Kolkata,2016-04-10,Indian Premier League,2.0,male,T20,T20,20,2016,club,Eden Gardens,6,6,252,field,6,,9.0,win,1437.0
+980905,2016,6,Chandigarh,2016-04-11,Indian Premier League,3.0,male,T20,T20,20,2016,club,"Punjab Cricket Association IS Bindra Stadium, Mohali",5,494,5,field,5,,5.0,win,48.0
+980907,2016,6,Bangalore,2016-04-12,Indian Premier League,4.0,male,T20,T20,20,2016,club,M Chinnaswamy Stadium,2,1,2,field,1,45.0,,win,245.0
+980909,2016,6,Kolkata,2016-04-13,Indian Premier League,5.0,male,T20,T20,20,2016,club,Eden Gardens,3,6,3,field,3,,6.0,win,25.0
+980911,2016,6,Rajkot,2016-04-14,Indian Premier League,6.0,male,T20,T20,20,2016,club,Saurashtra Cricket Association Stadium,4,5,4,bat,5,,7.0,win,48.0
+980913,2016,6,Delhi,2016-04-15,Indian Premier League,7.0,male,T20,T20,20,2016,club,Feroz Shah Kotla,252,252,494,field,252,,8.0,win,185.0
+980915,2016,6,Hyderabad,2016-04-16,Indian Premier League,8.0,male,T20,T20,20,2016,club,"Rajiv Gandhi International Stadium, Uppal",2,2,6,bat,6,,8.0,win,56.0
+980917,2016,6,Mumbai,2016-04-16,Indian Premier League,9.0,male,T20,T20,20,2016,club,Wankhede Stadium,5,3,5,field,5,,3.0,win,48.0
+980919,2016,6,Chandigarh,2016-04-17,Indian Premier League,10.0,male,T20,T20,20,2016,club,"Punjab Cricket Association IS Bindra Stadium, Mohali",4,494,4,bat,494,,6.0,win,68.0
+980921,2016,6,Bangalore,2016-04-17,Indian Premier League,11.0,male,T20,T20,20,2016,club,M Chinnaswamy Stadium,252,1,252,field,252,,7.0,win,1421.0
+980923,2016,6,Hyderabad,2016-04-18,Indian Premier League,12.0,male,T20,T20,20,2016,club,"Rajiv Gandhi International Stadium, Uppal",2,2,3,field,2,,7.0,win,12.0
+980925,2016,6,Chandigarh,2016-04-19,Indian Premier League,13.0,male,T20,T20,20,2016,club,"Punjab Cricket Association IS Bindra Stadium, Mohali",6,494,6,field,6,,6.0,win,58.0
+980927,2016,6,Mumbai,2016-04-20,Indian Premier League,14.0,male,T20,T20,20,2016,club,Wankhede Stadium,3,3,1,field,3,,6.0,win,25.0
+980929,2016,6,Rajkot,2016-04-21,Indian Premier League,15.0,male,T20,T20,20,2016,club,Saurashtra Cricket Association Stadium,2,5,2,field,2,,10.0,win,20.0
+980931,2016,6,Pune,2016-04-22,Indian Premier League,16.0,male,T20,T20,20,2016,club,Maharashtra Cricket Association Stadium,4,4,1,field,1,13.0,,win,245.0
+980933,2016,6,Delhi,2016-04-23,Indian Premier League,17.0,male,T20,T20,20,2016,club,Feroz Shah Kotla,3,252,3,field,252,10.0,,win,180.0
+980935,2016,6,Hyderabad,2016-04-23,Indian Premier League,18.0,male,T20,T20,20,2016,club,"Rajiv Gandhi International Stadium, Uppal",2,2,494,field,2,,5.0,win,297.0
+980937,2016,6,Rajkot,2016-04-24,Indian Premier League,19.0,male,T20,T20,20,2016,club,Saurashtra Cricket Association Stadium,1,5,1,bat,5,,6.0,win,332.0
+980939,2016,6,Pune,2016-04-24,Indian Premier League,20.0,male,T20,T20,20,2016,club,Maharashtra Cricket Association Stadium,6,4,6,field,6,,2.0,win,61.0
+980941,2016,6,Chandigarh,2016-04-25,Indian Premier League,21.0,male,T20,T20,20,2016,club,"Punjab Cricket Association IS Bindra Stadium, Mohali",494,494,3,field,3,25.0,,win,23.0
+980943,2016,6,Hyderabad,2016-04-26,Indian Premier League,22.0,male,T20,T20,20,2016,club,"Rajiv Gandhi International Stadium, Uppal",4,2,4,field,4,34.0,,win,43.0
+980945,2016,6,Delhi,2016-04-27,Indian Premier League,23.0,male,T20,T20,20,2016,club,Feroz Shah Kotla,252,252,5,field,5,1.0,,win,182.0
+980947,2016,6,Mumbai,2016-04-28,Indian Premier League,24.0,male,T20,T20,20,2016,club,Wankhede Stadium,3,3,6,field,3,,6.0,win,25.0
+980949,2016,6,Pune,2016-04-29,Indian Premier League,25.0,male,T20,T20,20,2016,club,Maharashtra Cricket Association Stadium,5,4,5,field,5,,3.0,win,50.0
+980951,2016,6,Delhi,2016-04-30,Indian Premier League,26.0,male,T20,T20,20,2016,club,Feroz Shah Kotla,6,252,6,field,252,27.0,,win,183.0
+980953,2016,6,Hyderabad,2016-04-30,Indian Premier League,27.0,male,T20,T20,20,2016,club,"Rajiv Gandhi International Stadium, Uppal",1,2,1,field,2,15.0,,win,12.0
+980955,2016,6,Rajkot,2016-05-01,Indian Premier League,28.0,male,T20,T20,20,2016,club,Saurashtra Cricket Association Stadium,5,5,494,field,494,23.0,,win,70.0
+980957,2016,6,Pune,2016-05-01,Indian Premier League,29.0,male,T20,T20,20,2016,club,Maharashtra Cricket Association Stadium,3,4,3,field,3,,8.0,win,25.0
+980959,2016,6,Bangalore,2016-05-02,Indian Premier League,30.0,male,T20,T20,20,2016,club,M Chinnaswamy Stadium,6,1,6,field,6,,5.0,win,1437.0
+980961,2016,6,Rajkot,2016-05-03,Indian Premier League,31.0,male,T20,T20,20,2016,club,Saurashtra Cricket Association Stadium,252,5,252,field,252,,8.0,win,181.0
+980963,2016,6,Kolkata,2016-05-04,Indian Premier League,32.0,male,T20,T20,20,2016,club,Eden Gardens,494,6,494,field,6,7.0,,win,1437.0
+980965,2016,6,Delhi,2016-05-05,Indian Premier League,33.0,male,T20,T20,20,2016,club,Feroz Shah Kotla,4,252,4,field,4,,7.0,win,34.0
+980967,2016,6,Hyderabad,2016-05-06,Indian Premier League,34.0,male,T20,T20,20,2016,club,"Rajiv Gandhi International Stadium, Uppal",2,2,5,field,2,,5.0,win,20.0
+980969,2016,6,Bangalore,2016-05-07,Indian Premier League,35.0,male,T20,T20,20,2016,club,M Chinnaswamy Stadium,1,1,4,field,1,,7.0,win,332.0
+980971,2016,6,Chandigarh,2016-05-07,Indian Premier League,36.0,male,T20,T20,20,2016,club,"Punjab Cricket Association IS Bindra Stadium, Mohali",252,494,252,field,494,9.0,,win,73.0
+980973,2016,6,Visakhapatnam,2016-05-08,Indian Premier League,37.0,male,T20,T20,20,2016,club,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,3,3,2,field,2,85.0,,win,21.0
+980975,2016,6,Kolkata,2016-05-08,Indian Premier League,38.0,male,T20,T20,20,2016,club,Eden Gardens,5,6,5,field,5,,5.0,win,52.0
+980977,2016,6,Chandigarh,2016-05-09,Indian Premier League,39.0,male,T20,T20,20,2016,club,"Punjab Cricket Association IS Bindra Stadium, Mohali",494,494,1,field,1,1.0,,win,5.0
+1473446,2025,6,Ahmedabad,2025-03-29,Indian Premier League,9.0,male,T20,T20,20,2025,club,"Narendra Modi Stadium, Ahmedabad",3,615,3,field,615,36.0,,win,2188.0
+980979,2016,6,Visakhapatnam,2016-05-10,Indian Premier League,40.0,male,T20,T20,20,2016,club,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2,4,2,bat,2,4.0,,win,42.0
+980981,2016,6,Bangalore,2016-05-11,Indian Premier League,41.0,male,T20,T20,20,2016,club,M Chinnaswamy Stadium,3,1,3,field,3,,6.0,win,28.0
+980983,2016,6,Hyderabad,2016-05-12,Indian Premier League,42.0,male,T20,T20,20,2016,club,"Rajiv Gandhi International Stadium, Uppal",252,2,252,field,252,,7.0,win,182.0
+980985,2016,6,Visakhapatnam,2016-05-13,Indian Premier League,43.0,male,T20,T20,20,2016,club,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,3,3,494,bat,494,,7.0,win,73.0
+980987,2016,6,Bangalore,2016-05-14,Indian Premier League,44.0,male,T20,T20,20,2016,club,M Chinnaswamy Stadium,5,1,5,field,1,144.0,,win,245.0
+980989,2016,6,Kolkata,2016-05-14,Indian Premier League,45.0,male,T20,T20,20,2016,club,Eden Gardens,4,6,4,bat,6,,8.0,win,60.0
+980991,2016,6,Chandigarh,2016-05-15,Indian Premier League,46.0,male,T20,T20,20,2016,club,"Punjab Cricket Association IS Bindra Stadium, Mohali",494,494,2,bat,2,,7.0,win,67.0
+980993,2016,6,Visakhapatnam,2016-05-15,Indian Premier League,47.0,male,T20,T20,20,2016,club,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,252,3,252,field,3,80.0,,win,28.0
+980995,2016,6,Kolkata,2016-05-16,Indian Premier League,48.0,male,T20,T20,20,2016,club,Eden Gardens,1,6,1,field,1,,9.0,win,332.0
+980997,2016,6,Visakhapatnam,2016-05-17,Indian Premier League,49.0,male,T20,T20,20,2016,club,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,4,4,252,field,4,19.0,,win,43.0
+980999,2016,6,Bangalore,2016-05-18,Indian Premier League,50.0,male,T20,T20,20,2016,club,M Chinnaswamy Stadium,494,1,494,field,1,82.0,,win,332.0
+981001,2016,6,Kanpur,2016-05-19,Indian Premier League,51.0,male,T20,T20,20,2016,club,Green Park,5,5,6,field,5,,6.0,win,50.0
+981003,2016,6,Raipur,2016-05-20,Indian Premier League,52.0,male,T20,T20,20,2016,club,Shaheed Veer Narayan Singh International Stadium,252,252,2,field,252,,6.0,win,179.0
+981005,2016,6,Visakhapatnam,2016-05-21,Indian Premier League,53.0,male,T20,T20,20,2016,club,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,494,4,494,bat,4,,4.0,win,38.0
+981007,2016,6,Kanpur,2016-05-21,Indian Premier League,54.0,male,T20,T20,20,2016,club,Green Park,5,5,3,field,5,,6.0,win,47.0
+981009,2016,6,Kolkata,2016-05-22,Indian Premier League,55.0,male,T20,T20,20,2016,club,Eden Gardens,2,6,2,field,6,22.0,,win,60.0
+981011,2016,6,Raipur,2016-05-22,Indian Premier League,56.0,male,T20,T20,20,2016,club,Shaheed Veer Narayan Singh International Stadium,1,252,1,field,1,,6.0,win,332.0
+981013,2016,6,Bangalore,2016-05-24,Indian Premier League,,male,T20,T20,20,2016,club,M Chinnaswamy Stadium,1,5,1,field,1,,4.0,win,245.0
+981015,2016,6,Delhi,2016-05-25,Indian Premier League,,male,T20,T20,20,2016,club,Feroz Shah Kotla,6,2,6,field,2,22.0,,win,14.0
+981017,2016,6,Delhi,2016-05-27,Indian Premier League,,male,T20,T20,20,2016,club,Feroz Shah Kotla,2,5,2,field,2,,4.0,win,12.0
+981019,2016,6,Bangalore,2016-05-29,Indian Premier League,,male,T20,T20,20,2016,club,M Chinnaswamy Stadium,2,1,2,bat,2,8.0,,win,17.0
+1473447,2025,6,Visakhapatnam,2025-03-30,Indian Premier League,10.0,male,T20,T20,20,2025,club,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",2,2,252,bat,252,,7.0,win,10109.0
+1473448,2025,6,Guwahati,2025-03-30,Indian Premier League,11.0,male,T20,T20,20,2025,club,"Barsapara Cricket Stadium, Guwahati",129,134,129,field,134,6.0,,win,26.0
+1473449,2025,6,Mumbai,2025-03-31,Indian Premier League,12.0,male,T20,T20,20,2025,club,"Wankhede Stadium, Mumbai",3,6,3,field,3,,8.0,win,41785.0
+1473450,2025,6,Lucknow,2025-04-01,Indian Premier League,13.0,male,T20,T20,20,2025,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",494,614,494,field,494,,8.0,win,3747.0
+1473451,2025,6,Bengaluru,2025-04-02,Indian Premier League,14.0,male,T20,T20,20,2025,club,"M Chinnaswamy Stadium, Bengaluru",615,1,615,field,615,,8.0,win,538.0
+1473452,2025,6,Kolkata,2025-04-03,Indian Premier League,15.0,male,T20,T20,20,2025,club,"Eden Gardens, Kolkata",2,6,2,field,6,80.0,,win,6885.0
+1473453,2025,6,Lucknow,2025-04-04,Indian Premier League,16.0,male,T20,T20,20,2025,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",3,614,3,field,614,12.0,,win,11833.0
+1473454,2025,6,Chennai,2025-04-05,Indian Premier League,17.0,male,T20,T20,20,2025,club,"MA Chidambaram Stadium, Chepauk, Chennai",252,252,129,bat,252,25.0,,win,1409.0
+1473455,2025,6,Mohali,2025-04-05,Indian Premier League,18.0,male,T20,T20,20,2025,club,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",494,134,494,field,134,50.0,,win,1833.0
+1473456,2025,6,Kolkata,2025-04-08,Indian Premier League,21.0,male,T20,T20,20,2025,club,"Eden Gardens, Kolkata",6,614,6,field,614,4.0,,win,2766.0
+1473457,2025,6,Hyderabad,2025-04-06,Indian Premier League,19.0,male,T20,T20,20,2025,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",615,2,615,field,615,,7.0,win,538.0
+1473458,2025,6,Mumbai,2025-04-07,Indian Premier League,20.0,male,T20,T20,20,2025,club,"Wankhede Stadium, Mumbai",3,1,3,field,1,12.0,,win,5349.0
+1473459,2025,6,Mohali,2025-04-08,Indian Premier League,22.0,male,T20,T20,20,2025,club,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",494,494,129,bat,494,18.0,,win,11847.0
+1473460,2025,6,Ahmedabad,2025-04-09,Indian Premier League,23.0,male,T20,T20,20,2025,club,"Narendra Modi Stadium, Ahmedabad",134,615,134,field,615,58.0,,win,6999.0
+1473461,2025,6,Bengaluru,2025-04-10,Indian Premier League,24.0,male,T20,T20,20,2025,club,"M Chinnaswamy Stadium, Bengaluru",252,1,252,field,252,,6.0,win,1409.0
+1473462,2025,6,Chennai,2025-04-11,Indian Premier League,25.0,male,T20,T20,20,2025,club,"MA Chidambaram Stadium, Chepauk, Chennai",6,129,6,field,6,,8.0,win,65.0
+1473463,2025,6,Lucknow,2025-04-12,Indian Premier League,26.0,male,T20,T20,20,2025,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",614,615,614,field,614,,6.0,win,6054.0
+1473464,2025,6,Hyderabad,2025-04-12,Indian Premier League,27.0,male,T20,T20,20,2025,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",494,494,2,bat,2,,8.0,win,2349.0
+1473465,2025,6,Jaipur,2025-04-13,Indian Premier League,28.0,male,T20,T20,20,2025,club,"Sawai Mansingh Stadium, Jaipur",1,134,1,field,1,,9.0,win,8945.0
+1473466,2025,6,Delhi,2025-04-13,Indian Premier League,29.0,male,T20,T20,20,2025,club,"Arun Jaitley Stadium, Delhi",252,3,252,field,3,12.0,,win,676.0
+1473467,2025,6,Lucknow,2025-04-14,Indian Premier League,30.0,male,T20,T20,20,2025,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",129,614,129,field,129,,5.0,win,38.0
+1473468,2025,6,Mohali,2025-04-15,Indian Premier League,31.0,male,T20,T20,20,2025,club,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",494,494,6,bat,494,16.0,,win,10.0
+1473469,2025,6,Delhi,2025-04-16,Indian Premier League,32.0,male,T20,T20,20,2025,club,"Arun Jaitley Stadium, Delhi",134,252,134,field,134,,,tie,10109.0
+1473470,2025,6,Mumbai,2025-04-17,Indian Premier League,33.0,male,T20,T20,20,2025,club,"Wankhede Stadium, Mumbai",3,2,3,field,3,,4.0,win,10630.0
+1473471,2025,6,Bengaluru,2025-04-18,Indian Premier League,34.0,male,T20,T20,20,2025,club,"M Chinnaswamy Stadium, Bengaluru",494,1,494,field,494,,5.0,win,6550.0
+1473472,2025,6,Ahmedabad,2025-04-19,Indian Premier League,35.0,male,T20,T20,20,2025,club,"Narendra Modi Stadium, Ahmedabad",615,252,615,field,615,,7.0,win,24.0
+1473473,2025,6,Jaipur,2025-04-19,Indian Premier League,36.0,male,T20,T20,20,2025,club,"Sawai Mansingh Stadium, Jaipur",614,614,134,bat,614,2.0,,win,1286.0
+1473474,2025,6,Mohali,2025-04-20,Indian Premier League,37.0,male,T20,T20,20,2025,club,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",1,494,1,field,1,,7.0,win,332.0
+1473475,2025,6,Mumbai,2025-04-20,Indian Premier League,38.0,male,T20,T20,20,2025,club,"Wankhede Stadium, Mumbai",3,129,3,field,3,,9.0,win,25.0
+1473476,2025,6,Kolkata,2025-04-21,Indian Premier League,39.0,male,T20,T20,20,2025,club,"Eden Gardens, Kolkata",6,615,6,field,615,39.0,,win,1580.0
+1473477,2025,6,Lucknow,2025-04-22,Indian Premier League,40.0,male,T20,T20,20,2025,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",252,614,252,field,252,,8.0,win,8355.0
+1473478,2025,6,Hyderabad,2025-04-23,Indian Premier League,41.0,male,T20,T20,20,2025,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",3,2,3,field,3,,7.0,win,66.0
+1473479,2025,6,Bengaluru,2025-04-24,Indian Premier League,42.0,male,T20,T20,20,2025,club,"M Chinnaswamy Stadium, Bengaluru",134,1,134,field,1,11.0,,win,4664.0
+1473480,2025,6,Chennai,2025-04-25,Indian Premier League,43.0,male,T20,T20,20,2025,club,"MA Chidambaram Stadium, Chepauk, Chennai",2,129,2,field,2,,5.0,win,1285.0
+1473481,2025,6,Kolkata,2025-04-26,Indian Premier League,44.0,male,T20,T20,20,2025,club,"Eden Gardens, Kolkata",494,494,6,bat,6,,,no result,
+1473482,2025,6,Mumbai,2025-04-27,Indian Premier League,45.0,male,T20,T20,20,2025,club,"Wankhede Stadium, Mumbai",614,3,614,field,3,54.0,,win,10630.0
+1473483,2025,6,Delhi,2025-04-27,Indian Premier League,46.0,male,T20,T20,20,2025,club,"Arun Jaitley Stadium, Delhi",1,252,1,field,1,,6.0,win,28.0
+1473484,2025,6,Jaipur,2025-04-28,Indian Premier League,47.0,male,T20,T20,20,2025,club,"Sawai Mansingh Stadium, Jaipur",134,615,134,field,134,,8.0,win,42566.0
+1473485,2025,6,Delhi,2025-04-29,Indian Premier League,48.0,male,T20,T20,20,2025,club,"Arun Jaitley Stadium, Delhi",252,6,252,field,6,14.0,,win,65.0
+1473486,2025,6,Chennai,2025-04-30,Indian Premier League,49.0,male,T20,T20,20,2025,club,"MA Chidambaram Stadium, Chepauk, Chennai",494,129,494,field,494,,4.0,win,389.0
+1473487,2025,6,Jaipur,2025-05-01,Indian Premier League,50.0,male,T20,T20,20,2025,club,"Sawai Mansingh Stadium, Jaipur",134,3,134,field,3,100.0,,win,11801.0
+1473488,2025,6,Ahmedabad,2025-05-02,Indian Premier League,51.0,male,T20,T20,20,2025,club,"Narendra Modi Stadium, Ahmedabad",2,615,2,field,615,38.0,,win,2188.0
+1473489,2025,6,Bengaluru,2025-05-03,Indian Premier League,52.0,male,T20,T20,20,2025,club,"M Chinnaswamy Stadium, Bengaluru",129,1,129,field,1,2.0,,win,6761.0
+1473490,2025,6,Kolkata,2025-05-04,Indian Premier League,53.0,male,T20,T20,20,2025,club,"Eden Gardens, Kolkata",6,6,134,bat,6,1.0,,win,1437.0
+1473491,2025,6,Dharamsala,2025-05-04,Indian Premier League,54.0,male,T20,T20,20,2025,club,"Himachal Pradesh Cricket Association Stadium, Dharamsala",614,494,614,field,494,37.0,,win,3747.0
+1473492,2025,6,Hyderabad,2025-05-05,Indian Premier League,55.0,male,T20,T20,20,2025,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",2,252,2,field,2,,,no result,
+1473493,2025,6,Mumbai,2025-05-06,Indian Premier League,56.0,male,T20,T20,20,2025,club,"Wankhede Stadium, Mumbai",615,3,615,field,615,,3.0,win,1580.0
+1473494,2025,6,Kolkata,2025-05-07,Indian Premier League,57.0,male,T20,T20,20,2025,club,"Eden Gardens, Kolkata",6,6,129,bat,129,,2.0,win,8809.0
+1473495,2025,6,Dharamsala,2025-05-08,Indian Premier League,58.0,male,T20,T20,20,2025,club,"Himachal Pradesh Cricket Association Stadium, Dharamsala",494,494,252,bat,252,,,no result,
+1473497,2025,6,Jaipur,2025-05-18,Indian Premier League,59.0,male,T20,T20,20,2025,club,"Sawai Mansingh Stadium, Jaipur",494,494,134,bat,494,10.0,,win,3495.0
+1473498,2025,6,Delhi,2025-05-18,Indian Premier League,60.0,male,T20,T20,20,2025,club,"Arun Jaitley Stadium, Delhi",615,252,615,field,615,,10.0,win,6999.0
+1473499,2025,6,Lucknow,2025-05-19,Indian Premier League,61.0,male,T20,T20,20,2025,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",2,614,2,field,2,,6.0,win,2349.0
+1473500,2025,6,Delhi,2025-05-20,Indian Premier League,62.0,male,T20,T20,20,2025,club,"Arun Jaitley Stadium, Delhi",134,129,134,field,134,,6.0,win,9371.0
+1473501,2025,6,Mumbai,2025-05-21,Indian Premier League,63.0,male,T20,T20,20,2025,club,"Wankhede Stadium, Mumbai",252,3,252,field,3,59.0,,win,61.0
+1473502,2025,6,Ahmedabad,2025-05-22,Indian Premier League,64.0,male,T20,T20,20,2025,club,"Narendra Modi Stadium, Ahmedabad",615,614,615,field,614,33.0,,win,4960.0
+1473503,2025,6,Lucknow,2025-05-23,Indian Premier League,65.0,male,T20,T20,20,2025,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,2,1,field,2,42.0,,win,347.0
+1473504,2025,6,Ahmedabad,2025-05-25,Indian Premier League,67.0,male,T20,T20,20,2025,club,"Narendra Modi Stadium, Ahmedabad",129,129,615,bat,129,83.0,,win,6944.0
+1473505,2025,6,Delhi,2025-05-25,Indian Premier League,68.0,male,T20,T20,20,2025,club,"Arun Jaitley Stadium, Delhi",2,2,6,bat,2,110.0,,win,1740.0
+1473506,2025,6,Jaipur,2025-05-26,Indian Premier League,69.0,male,T20,T20,20,2025,club,"Sawai Mansingh Stadium, Jaipur",494,3,494,field,494,,7.0,win,42220.0
+1473507,2025,6,Lucknow,2025-05-27,Indian Premier League,70.0,male,T20,T20,20,2025,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",1,614,1,field,1,,6.0,win,6880.0
+1473508,2025,6,New Chandigarh,2025-05-29,Indian Premier League,,male,T20,T20,20,2025,club,"Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur",1,494,1,field,1,,8.0,win,8475.0
+1473509,2025,6,New Chandigarh,2025-05-30,Indian Premier League,,male,T20,T20,20,2025,club,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",3,3,615,bat,3,20.0,,win,25.0
+1473510,2025,6,Ahmedabad,2025-06-01,Indian Premier League,,male,T20,T20,20,2025,club,"Narendra Modi Stadium, Ahmedabad",494,3,494,field,494,,5.0,win,389.0
+1473511,2025,6,Ahmedabad,2025-06-03,Indian Premier League,,male,T20,T20,20,2025,club,"Narendra Modi Stadium, Ahmedabad",494,1,494,field,1,6.0,,win,28.0
+1485779,2025,6,Jaipur,2025-05-24,Indian Premier League,66.0,male,T20,T20,20,2025,club,"Sawai Mansingh Stadium, Jaipur",252,494,252,field,252,,6.0,win,10070.0
+1527674,2026,6,Bengaluru,2026-03-28,Indian Premier League,1.0,male,T20,T20,20,2026,club,"M Chinnaswamy Stadium, Bengaluru",1,2,1,field,1,,6.0,win,43967.0
+1527675,2026,6,Mumbai,2026-03-29,Indian Premier League,2.0,male,T20,T20,20,2026,club,"Wankhede Stadium, Mumbai",3,6,3,field,3,,6.0,win,360.0
+1527676,2026,6,Guwahati,2026-03-30,Indian Premier League,3.0,male,T20,T20,20,2026,club,"Barsapara Cricket Stadium, Guwahati",134,129,134,field,134,,8.0,win,10135.0
+1527677,2026,6,New Chandigarh,2026-03-31,Indian Premier League,4.0,male,T20,T20,20,2026,club,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",494,615,494,field,494,,3.0,win,44041.0
+1527678,2026,6,Lucknow,2026-04-01,Indian Premier League,5.0,male,T20,T20,20,2026,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",252,614,252,field,252,,6.0,win,10070.0
+1527679,2026,6,Kolkata,2026-04-02,Indian Premier League,6.0,male,T20,T20,20,2026,club,"Eden Gardens, Kolkata",6,2,6,field,2,65.0,,win,9824.0
+1527680,2026,6,Chennai,2026-04-03,Indian Premier League,7.0,male,T20,T20,20,2026,club,"MA Chidambaram Stadium, Chepauk, Chennai",494,129,494,field,494,,5.0,win,11847.0
+1527681,2026,6,Delhi,2026-04-04,Indian Premier League,8.0,male,T20,T20,20,2026,club,"Arun Jaitley Stadium, Delhi",252,3,252,field,252,,6.0,win,10070.0
+1527682,2026,6,Ahmedabad,2026-04-04,Indian Premier League,9.0,male,T20,T20,20,2026,club,"Narendra Modi Stadium, Ahmedabad",134,134,615,bat,134,6.0,,win,4059.0
+1527683,2026,6,Hyderabad,2026-04-05,Indian Premier League,10.0,male,T20,T20,20,2026,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",614,2,614,field,614,,5.0,win,460.0
+1527684,2026,6,Bengaluru,2026-04-05,Indian Premier League,11.0,male,T20,T20,20,2026,club,"M Chinnaswamy Stadium, Bengaluru",129,1,129,field,1,43.0,,win,6550.0
+1527685,2026,6,Kolkata,2026-04-06,Indian Premier League,12.0,male,T20,T20,20,2026,club,"Eden Gardens, Kolkata",6,6,494,bat,494,,,no result,
+1527686,2026,6,Guwahati,2026-04-07,Indian Premier League,13.0,male,T20,T20,20,2026,club,"Barsapara Cricket Stadium, Guwahati",3,134,3,field,134,27.0,,win,4104.0
+1527687,2026,6,Delhi,2026-04-08,Indian Premier League,14.0,male,T20,T20,20,2026,club,"Arun Jaitley Stadium, Delhi",252,615,252,field,615,1.0,,win,22.0
+1527688,2026,6,Kolkata,2026-04-09,Indian Premier League,15.0,male,T20,T20,20,2026,club,"Eden Gardens, Kolkata",614,6,614,field,614,,3.0,win,44056.0
+1527689,2026,6,Guwahati,2026-04-10,Indian Premier League,16.0,male,T20,T20,20,2026,club,"Barsapara Cricket Stadium, Guwahati",134,1,134,field,134,,6.0,win,42566.0
+1527690,2026,6,New Chandigarh,2026-04-11,Indian Premier League,17.0,male,T20,T20,20,2026,club,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",494,2,494,field,494,,6.0,win,389.0
+1527691,2026,6,Chennai,2026-04-11,Indian Premier League,18.0,male,T20,T20,20,2026,club,"MA Chidambaram Stadium, Chepauk, Chennai",252,129,252,field,129,23.0,,win,180.0
+1527692,2026,6,Lucknow,2026-04-12,Indian Premier League,19.0,male,T20,T20,20,2026,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",615,614,615,field,615,,7.0,win,2188.0
+1527693,2026,6,Mumbai,2026-04-12,Indian Premier League,20.0,male,T20,T20,20,2026,club,"Wankhede Stadium, Mumbai",3,1,3,field,1,18.0,,win,8945.0
+1529264,2026,6,Hyderabad,2026-04-13,Indian Premier League,21.0,male,T20,T20,20,2026,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",134,2,134,field,2,57.0,,win,44775.0
+1529265,2026,6,Chennai,2026-04-14,Indian Premier League,22.0,male,T20,T20,20,2026,club,"MA Chidambaram Stadium, Chepauk, Chennai",6,129,6,field,129,32.0,,win,8809.0
+1529266,2026,6,Bengaluru,2026-04-15,Indian Premier League,23.0,male,T20,T20,20,2026,club,"M Chinnaswamy Stadium, Bengaluru",1,614,1,field,1,,5.0,win,4664.0
+1529267,2026,6,Mumbai,2026-04-16,Indian Premier League,24.0,male,T20,T20,20,2026,club,"Wankhede Stadium, Mumbai",494,3,494,field,494,,7.0,win,3388.0
+1529268,2026,6,Ahmedabad,2026-04-17,Indian Premier League,25.0,male,T20,T20,20,2026,club,"Narendra Modi Stadium, Ahmedabad",6,6,615,bat,615,,5.0,win,1580.0
+1529269,2026,6,Bengaluru,2026-04-18,Indian Premier League,26.0,male,T20,T20,20,2026,club,"M Chinnaswamy Stadium, Bengaluru",252,1,252,field,252,,6.0,win,7947.0
+1529270,2026,6,Hyderabad,2026-04-18,Indian Premier League,27.0,male,T20,T20,20,2026,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",129,2,129,field,2,10.0,,win,42133.0
+1529271,2026,6,Kolkata,2026-04-19,Indian Premier League,28.0,male,T20,T20,20,2026,club,"Eden Gardens, Kolkata",134,134,6,bat,6,,4.0,win,2825.0
+1529272,2026,6,New Chandigarh,2026-04-19,Indian Premier League,29.0,male,T20,T20,20,2026,club,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",614,494,614,field,494,54.0,,win,11847.0
+1529273,2026,6,Ahmedabad,2026-04-20,Indian Premier League,30.0,male,T20,T20,20,2026,club,"Narendra Modi Stadium, Ahmedabad",615,3,615,field,3,99.0,,win,6681.0
+1529274,2026,6,Hyderabad,2026-04-21,Indian Premier League,31.0,male,T20,T20,20,2026,club,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",252,2,252,field,2,47.0,,win,2349.0
+1529275,2026,6,Lucknow,2026-04-22,Indian Premier League,32.0,male,T20,T20,20,2026,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",614,134,614,field,134,40.0,,win,348.0
+1529276,2026,6,Mumbai,2026-04-23,Indian Premier League,33.0,male,T20,T20,20,2026,club,"Wankhede Stadium, Mumbai",3,129,3,field,129,103.0,,win,180.0
+1529277,2026,6,Bengaluru,2026-04-24,Indian Premier League,34.0,male,T20,T20,20,2026,club,"M Chinnaswamy Stadium, Bengaluru",1,615,1,field,1,,5.0,win,332.0
+1529278,2026,6,Delhi,2026-04-25,Indian Premier League,35.0,male,T20,T20,20,2026,club,"Arun Jaitley Stadium, Delhi",252,252,494,bat,494,,6.0,win,1409.0
+1529279,2026,6,Jaipur,2026-04-25,Indian Premier League,36.0,male,T20,T20,20,2026,club,"Sawai Mansingh Stadium, Jaipur",2,134,2,field,2,,5.0,win,347.0
+1529280,2026,6,Chennai,2026-04-26,Indian Premier League,37.0,male,T20,T20,20,2026,club,"MA Chidambaram Stadium, Chepauk, Chennai",615,129,615,field,615,,8.0,win,590.0
+1529281,2026,6,Lucknow,2026-04-26,Indian Premier League,38.0,male,T20,T20,20,2026,club,"Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",614,6,614,field,614,,,tie,1436.0
+1529282,2026,6,Delhi,2026-04-27,Indian Premier League,39.0,male,T20,T20,20,2026,club,"Arun Jaitley Stadium, Delhi",1,252,1,field,1,,9.0,win,4664.0
+1529283,2026,6,New Chandigarh,2026-04-28,Indian Premier League,40.0,male,T20,T20,20,2026,club,"Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",134,494,134,field,134,,6.0,win,11389.0
+1529284,2026,6,Mumbai,2026-04-29,Indian Premier League,41.0,male,T20,T20,20,2026,club,"Wankhede Stadium, Mumbai",3,3,2,bat,2,,6.0,win,1740.0
+1529285,2026,6,Ahmedabad,2026-04-30,Indian Premier League,42.0,male,T20,T20,20,2026,club,"Narendra Modi Stadium, Ahmedabad",615,1,615,field,615,,4.0,win,4098.0
+1529286,2026,6,Jaipur,2026-05-01,Indian Premier League,43.0,male,T20,T20,20,2026,club,"Sawai Mansingh Stadium, Jaipur",134,134,252,bat,252,,7.0,win,1409.0

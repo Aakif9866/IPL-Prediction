@@ -1,0 +1,4271 @@
+{
+ "meta": {
+  "target": 2027,
+  "team_matches_2027": 14.65,
+  "form_ratio_p10_p90": [
+   0.622667481312556,
+   1.4163166163485896
+  ],
+  "conformal": {
+   "offset": 50.0,
+   "coverage": 0.8,
+   "bands": [
+    {
+     "from": 0.0,
+     "to": 150.0,
+     "q_lo": -0.4890571058682709,
+     "q_hi": 0.60987061664286,
+     "n": 1832
+    },
+    {
+     "from": 150.0,
+     "to": 350.0,
+     "q_lo": -0.7788415237646075,
+     "q_hi": 0.6936347915183909,
+     "n": 447
+    },
+    {
+     "from": 350.0,
+     "to": null,
+     "q_lo": -0.5871186859332704,
+     "q_hi": 0.399056607139473,
+     "n": 103
+    }
+   ]
+  },
+  "partial_season": 2026,
+  "partial_season_matches": 43
+ },
+ "players": [
+  {
+   "slug": "sai-sudharsan",
+   "name": "Sai Sudharsan",
+   "dataset_name": "B Sai Sudharsan",
+   "player_id": 6999,
+   "rank": 1,
+   "team_2026": "GT",
+   "team_color": "#1C2C5B",
+   "role": "Opener",
+   "batting_position_w": 1.5,
+   "expected_runs": 572.2,
+   "lower_80": 206.89,
+   "upper_80": 820.49,
+   "expected_innings": 14.28,
+   "expected_rpi": 40.06,
+   "expected_average": 42.7,
+   "expected_sr": 153.32,
+   "confidence": "High",
+   "scenarios": {
+    "full": 560.83,
+    "strong": 794.32,
+    "weak": 349.21,
+    "reduced": 320.48
+   },
+   "share": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "history": [
+    {
+     "season": 2022,
+     "runs": 145,
+     "innings": 5,
+     "balls": 114,
+     "outs": 4,
+     "fifties": 1,
+     "team": "GT"
+    },
+    {
+     "season": 2023,
+     "runs": 362,
+     "innings": 8,
+     "balls": 256,
+     "outs": 7,
+     "fifties": 3,
+     "team": "GT"
+    },
+    {
+     "season": 2024,
+     "runs": 527,
+     "innings": 12,
+     "balls": 373,
+     "outs": 11,
+     "fifties": 3,
+     "team": "GT"
+    },
+    {
+     "season": 2025,
+     "runs": 759,
+     "innings": 15,
+     "balls": 486,
+     "outs": 14,
+     "fifties": 7,
+     "team": "GT"
+    },
+    {
+     "season": 2026,
+     "runs": 328,
+     "innings": 9,
+     "balls": 202,
+     "outs": 9,
+     "fifties": 3,
+     "team": "GT"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 994,
+     "balls": 682,
+     "outs": 24
+    },
+    "spin": {
+     "runs": 620,
+     "balls": 379,
+     "outs": 10
+    },
+    "powerplay": {
+     "runs": 736,
+     "balls": 521,
+     "outs": 11
+    },
+    "middle": {
+     "runs": 752,
+     "balls": 479,
+     "outs": 15
+    },
+    "death": {
+     "runs": 126,
+     "balls": 61,
+     "outs": 8
+    }
+   },
+   "recent_innings": [
+    22,
+    62,
+    53,
+    19,
+    20,
+    47,
+    43,
+    96,
+    45,
+    37,
+    45,
+    33,
+    31,
+    35,
+    12,
+    31,
+    65,
+    84,
+    6,
+    103,
+    74,
+    63,
+    49,
+    5,
+    82,
+    56,
+    36,
+    52,
+    39,
+    48,
+    5,
+    108,
+    21,
+    41,
+    80,
+    13,
+    73,
+    12,
+    15,
+    22,
+    0,
+    100,
+    87,
+    6
+   ],
+   "analysis": {
+    "Historical trend": "2022: 145 (5 inn), 2023: 362 (8 inn), 2024: 527 (12 inn), 2025: 759 (15 inn), 2026: 328 (9 inn). Teams in data: GT.",
+    "Recent performance": "2026 (partial, to data cutoff): 328 runs in 9 innings, SR 162; last 10 innings: 408 runs, SR 163.",
+    "Strengths (data-derived)": "strike rate 207 vs death (top-order benchmark 190, 61 balls); high recent runs per innings (weighted, shrunk: 42.8); frequent 50+ scores (35% of innings, weighted).",
+    "Risk factors": "none flagged by the rules beyond general IPL variance.",
+    "2027 estimate": "572 runs (80% interval 207\u2013820) from 14.3 expected innings \u00d7 40.1 runs/innings; confidence **High**.",
+    "Scenarios": "full season (14 inn) 561; strong form 794; weak form 349; reduced time (8 inn) 320.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "abhishek-sharma",
+   "name": "Abhishek Sharma",
+   "dataset_name": "Abhishek Sharma",
+   "player_id": 2349,
+   "rank": 2,
+   "team_2026": "SRH",
+   "team_color": "#FF822A",
+   "role": "Opener",
+   "batting_position_w": 1.68,
+   "expected_runs": 541.38,
+   "lower_80": 194.17,
+   "upper_80": 777.37,
+   "expected_innings": 14.65,
+   "expected_rpi": 36.95,
+   "expected_average": 39.59,
+   "expected_sr": 200.92,
+   "confidence": "High",
+   "scenarios": {
+    "full": 517.36,
+    "strong": 732.74,
+    "weak": 322.14,
+    "reduced": 295.63
+   },
+   "share": [
+    1.0,
+    0.93,
+    1.0
+   ],
+   "history": [
+    {
+     "season": 2018,
+     "runs": 63,
+     "innings": 3,
+     "balls": 33,
+     "outs": 1,
+     "fifties": 0,
+     "team": "DC"
+    },
+    {
+     "season": 2019,
+     "runs": 9,
+     "innings": 3,
+     "balls": 9,
+     "outs": 2,
+     "fifties": 0,
+     "team": "SRH"
+    },
+    {
+     "season": 2020,
+     "runs": 71,
+     "innings": 7,
+     "balls": 56,
+     "outs": 5,
+     "fifties": 0,
+     "team": "SRH"
+    },
+    {
+     "season": 2021,
+     "runs": 98,
+     "innings": 7,
+     "balls": 75,
+     "outs": 6,
+     "fifties": 0,
+     "team": "SRH"
+    },
+    {
+     "season": 2022,
+     "runs": 426,
+     "innings": 14,
+     "balls": 320,
+     "outs": 14,
+     "fifties": 2,
+     "team": "SRH"
+    },
+    {
+     "season": 2023,
+     "runs": 226,
+     "innings": 11,
+     "balls": 157,
+     "outs": 11,
+     "fifties": 2,
+     "team": "SRH"
+    },
+    {
+     "season": 2024,
+     "runs": 484,
+     "innings": 16,
+     "balls": 237,
+     "outs": 15,
+     "fifties": 3,
+     "team": "SRH"
+    },
+    {
+     "season": 2025,
+     "runs": 439,
+     "innings": 13,
+     "balls": 227,
+     "outs": 13,
+     "fifties": 3,
+     "team": "SRH"
+    },
+    {
+     "season": 2026,
+     "runs": 425,
+     "innings": 9,
+     "balls": 203,
+     "outs": 8,
+     "fifties": 4,
+     "team": "SRH"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 863,
+     "balls": 466,
+     "outs": 27
+    },
+    "spin": {
+     "runs": 485,
+     "balls": 201,
+     "outs": 9
+    },
+    "powerplay": {
+     "runs": 872,
+     "balls": 437,
+     "outs": 20
+    },
+    "middle": {
+     "runs": 440,
+     "balls": 206,
+     "outs": 15
+    },
+    "death": {
+     "runs": 36,
+     "balls": 24,
+     "outs": 1
+    }
+   },
+   "recent_innings": [
+    0,
+    32,
+    1,
+    34,
+    5,
+    67,
+    9,
+    55,
+    7,
+    5,
+    11,
+    32,
+    63,
+    29,
+    37,
+    16,
+    34,
+    46,
+    31,
+    15,
+    12,
+    11,
+    75,
+    66,
+    3,
+    12,
+    2,
+    24,
+    6,
+    1,
+    2,
+    18,
+    141,
+    40,
+    8,
+    0,
+    74,
+    59,
+    34,
+    32,
+    7,
+    48,
+    0,
+    74,
+    0,
+    59,
+    135,
+    57,
+    45
+   ],
+   "analysis": {
+    "Historical trend": "2020: 71 (7 inn), 2021: 98 (7 inn), 2022: 426 (14 inn), 2023: 226 (11 inn), 2024: 484 (16 inn), 2025: 439 (13 inn), 2026: 425 (9 inn). Teams in data: DC \u2192 SRH.",
+    "Recent performance": "2026 (partial, to data cutoff): 425 runs in 9 innings, SR 209; last 10 innings: 457 runs, SR 209.",
+    "Strengths (data-derived)": "strike rate 185 vs pace (top-order benchmark 160, 466 balls); strike rate 241 vs spin (top-order benchmark 151, 201 balls); strike rate 200 vs powerplay (top-order benchmark 153, 437 balls); strike rate 214 vs middle (top-order benchmark 154, 206 balls); high recent runs per innings (weighted, shrunk: 35.7); frequent 50+ scores (27% of innings, weighted).",
+    "Risk factors": "none flagged by the rules beyond general IPL variance.",
+    "2027 estimate": "541 runs (80% interval 194\u2013777) from 14.7 expected innings \u00d7 37.0 runs/innings; confidence **High**.",
+    "Scenarios": "full season (14 inn) 517; strong form 733; weak form 322; reduced time (8 inn) 296.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "virat-kohli",
+   "name": "Virat Kohli",
+   "dataset_name": "V Kohli",
+   "player_id": 332,
+   "rank": 3,
+   "team_2026": "RCB",
+   "team_color": "#EC1C24",
+   "role": "Opener",
+   "batting_position_w": 1.78,
+   "expected_runs": 515.31,
+   "lower_80": 183.4,
+   "upper_80": 740.89,
+   "expected_innings": 13.5,
+   "expected_rpi": 38.18,
+   "expected_average": 48.23,
+   "expected_sr": 153.11,
+   "confidence": "High",
+   "scenarios": {
+    "full": 534.53,
+    "strong": 757.07,
+    "weak": 332.84,
+    "reduced": 305.45
+   },
+   "share": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "history": [
+    {
+     "season": 2008,
+     "runs": 165,
+     "innings": 12,
+     "balls": 157,
+     "outs": 11,
+     "fifties": 0,
+     "team": "RCB"
+    },
+    {
+     "season": 2009,
+     "runs": 246,
+     "innings": 13,
+     "balls": 219,
+     "outs": 11,
+     "fifties": 1,
+     "team": "RCB"
+    },
+    {
+     "season": 2010,
+     "runs": 307,
+     "innings": 13,
+     "balls": 212,
+     "outs": 11,
+     "fifties": 1,
+     "team": "RCB"
+    },
+    {
+     "season": 2011,
+     "runs": 557,
+     "innings": 16,
+     "balls": 460,
+     "outs": 12,
+     "fifties": 4,
+     "team": "RCB"
+    },
+    {
+     "season": 2012,
+     "runs": 364,
+     "innings": 15,
+     "balls": 326,
+     "outs": 13,
+     "fifties": 2,
+     "team": "RCB"
+    },
+    {
+     "season": 2013,
+     "runs": 634,
+     "innings": 16,
+     "balls": 457,
+     "outs": 14,
+     "fifties": 6,
+     "team": "RCB"
+    },
+    {
+     "season": 2014,
+     "runs": 359,
+     "innings": 14,
+     "balls": 294,
+     "outs": 13,
+     "fifties": 2,
+     "team": "RCB"
+    },
+    {
+     "season": 2015,
+     "runs": 505,
+     "innings": 16,
+     "balls": 386,
+     "outs": 11,
+     "fifties": 3,
+     "team": "RCB"
+    },
+    {
+     "season": 2016,
+     "runs": 973,
+     "innings": 16,
+     "balls": 640,
+     "outs": 12,
+     "fifties": 11,
+     "team": "RCB"
+    },
+    {
+     "season": 2017,
+     "runs": 308,
+     "innings": 10,
+     "balls": 252,
+     "outs": 10,
+     "fifties": 4,
+     "team": "RCB"
+    },
+    {
+     "season": 2018,
+     "runs": 530,
+     "innings": 14,
+     "balls": 381,
+     "outs": 11,
+     "fifties": 4,
+     "team": "RCB"
+    },
+    {
+     "season": 2019,
+     "runs": 464,
+     "innings": 14,
+     "balls": 328,
+     "outs": 14,
+     "fifties": 3,
+     "team": "RCB"
+    },
+    {
+     "season": 2020,
+     "runs": 466,
+     "innings": 15,
+     "balls": 384,
+     "outs": 11,
+     "fifties": 3,
+     "team": "RCB"
+    },
+    {
+     "season": 2021,
+     "runs": 405,
+     "innings": 15,
+     "balls": 339,
+     "outs": 14,
+     "fifties": 3,
+     "team": "RCB"
+    },
+    {
+     "season": 2022,
+     "runs": 341,
+     "innings": 16,
+     "balls": 294,
+     "outs": 15,
+     "fifties": 2,
+     "team": "RCB"
+    },
+    {
+     "season": 2023,
+     "runs": 639,
+     "innings": 14,
+     "balls": 457,
+     "outs": 12,
+     "fifties": 8,
+     "team": "RCB"
+    },
+    {
+     "season": 2024,
+     "runs": 741,
+     "innings": 15,
+     "balls": 479,
+     "outs": 12,
+     "fifties": 6,
+     "team": "RCB"
+    },
+    {
+     "season": 2025,
+     "runs": 657,
+     "innings": 15,
+     "balls": 454,
+     "outs": 12,
+     "fifties": 8,
+     "team": "RCB"
+    },
+    {
+     "season": 2026,
+     "runs": 379,
+     "innings": 9,
+     "balls": 229,
+     "outs": 7,
+     "fifties": 3,
+     "team": "RCB"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 1156,
+     "balls": 698,
+     "outs": 22
+    },
+    "spin": {
+     "runs": 621,
+     "balls": 464,
+     "outs": 9
+    },
+    "powerplay": {
+     "runs": 913,
+     "balls": 566,
+     "outs": 11
+    },
+    "middle": {
+     "runs": 711,
+     "balls": 518,
+     "outs": 16
+    },
+    "death": {
+     "runs": 153,
+     "balls": 78,
+     "outs": 4
+    }
+   },
+   "recent_innings": [
+    82,
+    21,
+    61,
+    50,
+    6,
+    59,
+    0,
+    54,
+    31,
+    55,
+    1,
+    18,
+    100,
+    101,
+    21,
+    77,
+    83,
+    22,
+    113,
+    3,
+    42,
+    18,
+    51,
+    70,
+    42,
+    92,
+    27,
+    47,
+    33,
+    59,
+    31,
+    7,
+    67,
+    22,
+    62,
+    1,
+    73,
+    70,
+    51,
+    62,
+    43,
+    54,
+    12,
+    43,
+    69,
+    28,
+    32,
+    50,
+    49,
+    19,
+    81,
+    23,
+    28
+   ],
+   "analysis": {
+    "Historical trend": "2020: 466 (15 inn), 2021: 405 (15 inn), 2022: 341 (16 inn), 2023: 639 (14 inn), 2024: 741 (15 inn), 2025: 657 (15 inn), 2026: 379 (9 inn). Teams in data: RCB.",
+    "Recent performance": "2026 (partial, to data cutoff): 379 runs in 9 innings, SR 166; last 10 innings: 422 runs, SR 160.",
+    "Strengths (data-derived)": "high recent runs per innings (weighted, shrunk: 43.4); frequent 50+ scores (41% of innings, weighted).",
+    "Risk factors": "strike rate 134 vs spin (benchmark 151, 464 balls); strike rate 137 vs middle (benchmark 154, 518 balls); volatile season-to-season output (runs-per-innings CV 0.36 over 18 seasons).",
+    "2027 estimate": "515 runs (80% interval 183\u2013741) from 13.5 expected innings \u00d7 38.2 runs/innings; confidence **High**.",
+    "Scenarios": "full season (14 inn) 535; strong form 757; weak form 333; reduced time (8 inn) 305.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "shubman-gill",
+   "name": "Shubman Gill",
+   "dataset_name": "Shubman Gill",
+   "player_id": 1580,
+   "rank": 4,
+   "team_2026": "GT",
+   "team_color": "#1C2C5B",
+   "role": "Opener",
+   "batting_position_w": 2.09,
+   "expected_runs": 500.54,
+   "lower_80": 177.31,
+   "upper_80": 720.23,
+   "expected_innings": 13.09,
+   "expected_rpi": 38.23,
+   "expected_average": 42.07,
+   "expected_sr": 153.43,
+   "confidence": "High",
+   "scenarios": {
+    "full": 535.22,
+    "strong": 758.04,
+    "weak": 333.27,
+    "reduced": 305.84
+   },
+   "share": [
+    0.89,
+    1.0,
+    1.0
+   ],
+   "history": [
+    {
+     "season": 2018,
+     "runs": 203,
+     "innings": 11,
+     "balls": 139,
+     "outs": 6,
+     "fifties": 1,
+     "team": "KKR"
+    },
+    {
+     "season": 2019,
+     "runs": 296,
+     "innings": 13,
+     "balls": 238,
+     "outs": 9,
+     "fifties": 3,
+     "team": "KKR"
+    },
+    {
+     "season": 2020,
+     "runs": 440,
+     "innings": 14,
+     "balls": 373,
+     "outs": 13,
+     "fifties": 3,
+     "team": "KKR"
+    },
+    {
+     "season": 2021,
+     "runs": 478,
+     "innings": 17,
+     "balls": 402,
+     "outs": 17,
+     "fifties": 3,
+     "team": "KKR"
+    },
+    {
+     "season": 2022,
+     "runs": 483,
+     "innings": 16,
+     "balls": 365,
+     "outs": 14,
+     "fifties": 4,
+     "team": "GT"
+    },
+    {
+     "season": 2023,
+     "runs": 890,
+     "innings": 17,
+     "balls": 564,
+     "outs": 15,
+     "fifties": 7,
+     "team": "GT"
+    },
+    {
+     "season": 2024,
+     "runs": 426,
+     "innings": 12,
+     "balls": 289,
+     "outs": 11,
+     "fifties": 3,
+     "team": "GT"
+    },
+    {
+     "season": 2025,
+     "runs": 650,
+     "innings": 15,
+     "balls": 417,
+     "outs": 13,
+     "fifties": 6,
+     "team": "GT"
+    },
+    {
+     "season": 2026,
+     "runs": 373,
+     "innings": 8,
+     "balls": 240,
+     "outs": 8,
+     "fifties": 3,
+     "team": "GT"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 865,
+     "balls": 569,
+     "outs": 21
+    },
+    "spin": {
+     "runs": 584,
+     "balls": 377,
+     "outs": 11
+    },
+    "powerplay": {
+     "runs": 674,
+     "balls": 461,
+     "outs": 13
+    },
+    "middle": {
+     "runs": 630,
+     "balls": 406,
+     "outs": 13
+    },
+    "death": {
+     "runs": 145,
+     "balls": 79,
+     "outs": 6
+    }
+   },
+   "recent_innings": [
+    63,
+    14,
+    39,
+    67,
+    45,
+    0,
+    56,
+    49,
+    6,
+    36,
+    94,
+    6,
+    101,
+    104,
+    42,
+    129,
+    39,
+    31,
+    8,
+    36,
+    89,
+    19,
+    72,
+    8,
+    35,
+    6,
+    16,
+    2,
+    104,
+    33,
+    38,
+    14,
+    61,
+    2,
+    60,
+    7,
+    90,
+    84,
+    76,
+    43,
+    93,
+    35,
+    13,
+    1,
+    39,
+    70,
+    56,
+    86,
+    14,
+    32,
+    33,
+    43
+   ],
+   "analysis": {
+    "Historical trend": "2020: 440 (14 inn), 2021: 478 (17 inn), 2022: 483 (16 inn), 2023: 890 (17 inn), 2024: 426 (12 inn), 2025: 650 (15 inn), 2026: 373 (8 inn). Teams in data: KKR \u2192 GT.",
+    "Recent performance": "2026 (partial, to data cutoff): 373 runs in 8 innings, SR 155; last 10 innings: 387 runs, SR 154.",
+    "Strengths (data-derived)": "high recent runs per innings (weighted, shrunk: 40.7); frequent 50+ scores (34% of innings, weighted).",
+    "Risk factors": "volatile season-to-season output (runs-per-innings CV 0.33 over 8 seasons).",
+    "2027 estimate": "501 runs (80% interval 177\u2013720) from 13.1 expected innings \u00d7 38.2 runs/innings; confidence **High**.",
+    "Scenarios": "full season (14 inn) 535; strong form 758; weak form 333; reduced time (8 inn) 306.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "heinrich-klaasen",
+   "name": "Heinrich Klaasen",
+   "dataset_name": "H Klaasen",
+   "player_id": 1740,
+   "rank": 5,
+   "team_2026": "SRH",
+   "team_color": "#FF822A",
+   "role": "Middle order / finisher",
+   "batting_position_w": 4.63,
+   "expected_runs": 487.22,
+   "lower_80": 171.81,
+   "upper_80": 701.6,
+   "expected_innings": 14.65,
+   "expected_rpi": 33.26,
+   "expected_average": 41.21,
+   "expected_sr": 165.56,
+   "confidence": "High",
+   "scenarios": {
+    "full": 465.6,
+    "strong": 659.44,
+    "weak": 289.92,
+    "reduced": 266.06
+   },
+   "share": [
+    1.0,
+    0.93,
+    0.94
+   ],
+   "history": [
+    {
+     "season": 2018,
+     "runs": 57,
+     "innings": 4,
+     "balls": 47,
+     "outs": 3,
+     "fifties": 0,
+     "team": "RR"
+    },
+    {
+     "season": 2019,
+     "runs": 9,
+     "innings": 2,
+     "balls": 10,
+     "outs": 2,
+     "fifties": 0,
+     "team": "RCB"
+    },
+    {
+     "season": 2023,
+     "runs": 448,
+     "innings": 11,
+     "balls": 253,
+     "outs": 9,
+     "fifties": 3,
+     "team": "SRH"
+    },
+    {
+     "season": 2024,
+     "runs": 479,
+     "innings": 15,
+     "balls": 280,
+     "outs": 12,
+     "fifties": 4,
+     "team": "SRH"
+    },
+    {
+     "season": 2025,
+     "runs": 487,
+     "innings": 13,
+     "balls": 282,
+     "outs": 11,
+     "fifties": 2,
+     "team": "SRH"
+    },
+    {
+     "season": 2026,
+     "runs": 414,
+     "innings": 9,
+     "balls": 263,
+     "outs": 7,
+     "fifties": 4,
+     "team": "SRH"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 770,
+     "balls": 479,
+     "outs": 21
+    },
+    "spin": {
+     "runs": 610,
+     "balls": 346,
+     "outs": 9
+    },
+    "powerplay": {
+     "runs": 44,
+     "balls": 40,
+     "outs": 1
+    },
+    "middle": {
+     "runs": 842,
+     "balls": 541,
+     "outs": 13
+    },
+    "death": {
+     "runs": 494,
+     "balls": 244,
+     "outs": 16
+    }
+   },
+   "recent_innings": [
+    16,
+    36,
+    17,
+    31,
+    53,
+    36,
+    26,
+    47,
+    64,
+    104,
+    18,
+    63,
+    80,
+    24,
+    10,
+    9,
+    67,
+    15,
+    7,
+    20,
+    42,
+    2,
+    42,
+    32,
+    50,
+    16,
+    34,
+    26,
+    32,
+    33,
+    27,
+    21,
+    37,
+    71,
+    7,
+    23,
+    47,
+    24,
+    105,
+    31,
+    52,
+    62,
+    39,
+    40,
+    59,
+    37,
+    29,
+    65
+   ],
+   "analysis": {
+    "Historical trend": "2023: 448 (11 inn), 2024: 479 (15 inn), 2025: 487 (13 inn), 2026: 414 (9 inn). Teams in data: RR \u2192 RCB \u2192 SRH.",
+    "Recent performance": "2026 (partial, to data cutoff): 414 runs in 9 innings, SR 157; last 10 innings: 519 runs, SR 172.",
+    "Strengths (data-derived)": "strike rate 176 vs spin (top-order benchmark 151, 346 balls); high recent runs per innings (weighted, shrunk: 37.2); frequent 50+ scores (27% of innings, weighted).",
+    "Risk factors": "no IPL innings in 2020, 2021, 2022 (availability/selection history); middle/lower-order role (weighted batting position 4.6) caps balls per innings.",
+    "2027 estimate": "487 runs (80% interval 172\u2013702) from 14.7 expected innings \u00d7 33.3 runs/innings; confidence **High**.",
+    "Scenarios": "full season (14 inn) 466; strong form 659; weak form 290; reduced time (8 inn) 266.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "yashasvi-jaiswal",
+   "name": "Yashasvi Jaiswal",
+   "dataset_name": "YBK Jaiswal",
+   "player_id": 4104,
+   "rank": 6,
+   "team_2026": "RR",
+   "team_color": "#EA1A85",
+   "role": "Opener",
+   "batting_position_w": 1.1,
+   "expected_runs": 464.35,
+   "lower_80": 162.37,
+   "upper_80": 669.61,
+   "expected_innings": 13.1,
+   "expected_rpi": 35.46,
+   "expected_average": 40.3,
+   "expected_sr": 158.09,
+   "confidence": "High",
+   "scenarios": {
+    "full": 496.41,
+    "strong": 703.08,
+    "weak": 309.1,
+    "reduced": 283.66
+   },
+   "share": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "history": [
+    {
+     "season": 2020,
+     "runs": 40,
+     "innings": 3,
+     "balls": 44,
+     "outs": 3,
+     "fifties": 0,
+     "team": "RR"
+    },
+    {
+     "season": 2021,
+     "runs": 249,
+     "innings": 10,
+     "balls": 168,
+     "outs": 10,
+     "fifties": 1,
+     "team": "RR"
+    },
+    {
+     "season": 2022,
+     "runs": 258,
+     "innings": 10,
+     "balls": 194,
+     "outs": 10,
+     "fifties": 2,
+     "team": "RR"
+    },
+    {
+     "season": 2023,
+     "runs": 625,
+     "innings": 14,
+     "balls": 382,
+     "outs": 13,
+     "fifties": 6,
+     "team": "RR"
+    },
+    {
+     "season": 2024,
+     "runs": 435,
+     "innings": 15,
+     "balls": 279,
+     "outs": 14,
+     "fifties": 2,
+     "team": "RR"
+    },
+    {
+     "season": 2025,
+     "runs": 559,
+     "innings": 14,
+     "balls": 350,
+     "outs": 13,
+     "fifties": 6,
+     "team": "RR"
+    },
+    {
+     "season": 2026,
+     "runs": 312,
+     "innings": 10,
+     "balls": 196,
+     "outs": 8,
+     "fifties": 3,
+     "team": "RR"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 1012,
+     "balls": 607,
+     "outs": 28
+    },
+    "spin": {
+     "runs": 294,
+     "balls": 218,
+     "outs": 7
+    },
+    "powerplay": {
+     "runs": 852,
+     "balls": 511,
+     "outs": 19
+    },
+    "middle": {
+     "runs": 413,
+     "balls": 290,
+     "outs": 14
+    },
+    "death": {
+     "runs": 41,
+     "balls": 24,
+     "outs": 2
+    }
+   },
+   "recent_innings": [
+    54,
+    11,
+    60,
+    10,
+    1,
+    44,
+    47,
+    77,
+    124,
+    14,
+    35,
+    98,
+    0,
+    50,
+    24,
+    5,
+    10,
+    0,
+    24,
+    39,
+    19,
+    104,
+    24,
+    67,
+    4,
+    24,
+    4,
+    45,
+    42,
+    1,
+    29,
+    4,
+    67,
+    6,
+    75,
+    51,
+    74,
+    49,
+    70,
+    13,
+    34,
+    50,
+    36,
+    38,
+    55,
+    77,
+    13,
+    1,
+    39,
+    22,
+    10,
+    51,
+    6
+   ],
+   "analysis": {
+    "Historical trend": "2020: 40 (3 inn), 2021: 249 (10 inn), 2022: 258 (10 inn), 2023: 625 (14 inn), 2024: 435 (15 inn), 2025: 559 (14 inn), 2026: 312 (10 inn). Teams in data: RR.",
+    "Recent performance": "2026 (partial, to data cutoff): 312 runs in 10 innings, SR 159; last 10 innings: 312 runs, SR 159.",
+    "Strengths (data-derived)": "frequent 50+ scores (29% of innings, weighted).",
+    "Risk factors": "strike rate 135 vs spin (benchmark 151, 218 balls).",
+    "2027 estimate": "464 runs (80% interval 162\u2013670) from 13.1 expected innings \u00d7 35.5 runs/innings; confidence **High**.",
+    "Scenarios": "full season (14 inn) 496; strong form 703; weak form 309; reduced time (8 inn) 284.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "shreyas-iyer",
+   "name": "Shreyas Iyer",
+   "dataset_name": "SS Iyer",
+   "player_id": 389,
+   "rank": 7,
+   "team_2026": "PBKS",
+   "team_color": "#DD1F2D",
+   "role": "Top order",
+   "batting_position_w": 3.9,
+   "expected_runs": 421.43,
+   "lower_80": 144.64,
+   "upper_80": 609.55,
+   "expected_innings": 13.32,
+   "expected_rpi": 31.64,
+   "expected_average": 45.54,
+   "expected_sr": 167.45,
+   "confidence": "High",
+   "scenarios": {
+    "full": 442.91,
+    "strong": 627.3,
+    "weak": 275.79,
+    "reduced": 253.09
+   },
+   "share": [
+    0.88,
+    0.94,
+    1.0
+   ],
+   "history": [
+    {
+     "season": 2015,
+     "runs": 439,
+     "innings": 14,
+     "balls": 342,
+     "outs": 13,
+     "fifties": 4,
+     "team": "DC"
+    },
+    {
+     "season": 2016,
+     "runs": 30,
+     "innings": 6,
+     "balls": 43,
+     "outs": 6,
+     "fifties": 0,
+     "team": "DC"
+    },
+    {
+     "season": 2017,
+     "runs": 338,
+     "innings": 12,
+     "balls": 243,
+     "outs": 10,
+     "fifties": 2,
+     "team": "DC"
+    },
+    {
+     "season": 2018,
+     "runs": 411,
+     "innings": 14,
+     "balls": 310,
+     "outs": 11,
+     "fifties": 4,
+     "team": "DC"
+    },
+    {
+     "season": 2019,
+     "runs": 463,
+     "innings": 16,
+     "balls": 386,
+     "outs": 15,
+     "fifties": 3,
+     "team": "DC"
+    },
+    {
+     "season": 2020,
+     "runs": 519,
+     "innings": 17,
+     "balls": 421,
+     "outs": 15,
+     "fifties": 3,
+     "team": "DC"
+    },
+    {
+     "season": 2021,
+     "runs": 175,
+     "innings": 8,
+     "balls": 171,
+     "outs": 5,
+     "fifties": 0,
+     "team": "DC"
+    },
+    {
+     "season": 2022,
+     "runs": 401,
+     "innings": 14,
+     "balls": 298,
+     "outs": 13,
+     "fifties": 3,
+     "team": "KKR"
+    },
+    {
+     "season": 2024,
+     "runs": 351,
+     "innings": 14,
+     "balls": 239,
+     "outs": 9,
+     "fifties": 2,
+     "team": "KKR"
+    },
+    {
+     "season": 2025,
+     "runs": 604,
+     "innings": 17,
+     "balls": 345,
+     "outs": 12,
+     "fifties": 6,
+     "team": "PBKS"
+    },
+    {
+     "season": 2026,
+     "runs": 309,
+     "innings": 7,
+     "balls": 177,
+     "outs": 5,
+     "fifties": 4,
+     "team": "PBKS"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 792,
+     "balls": 454,
+     "outs": 22
+    },
+    "spin": {
+     "runs": 472,
+     "balls": 307,
+     "outs": 4
+    },
+    "powerplay": {
+     "runs": 129,
+     "balls": 101,
+     "outs": 7
+    },
+    "middle": {
+     "runs": 739,
+     "balls": 475,
+     "outs": 7
+    },
+    "death": {
+     "runs": 396,
+     "balls": 185,
+     "outs": 12
+    }
+   },
+   "recent_innings": [
+    0,
+    39,
+    18,
+    34,
+    38,
+    11,
+    50,
+    28,
+    33,
+    6,
+    23,
+    7,
+    58,
+    6,
+    97,
+    52,
+    10,
+    9,
+    82,
+    0,
+    7,
+    6,
+    25,
+    72,
+    45,
+    30,
+    53,
+    26,
+    2,
+    87,
+    1,
+    18,
+    50,
+    69,
+    66,
+    5,
+    71,
+    30
+   ],
+   "analysis": {
+    "Historical trend": "2020: 519 (17 inn), 2021: 175 (8 inn), 2022: 401 (14 inn), 2024: 351 (14 inn), 2025: 604 (17 inn), 2026: 309 (7 inn). Teams in data: DC \u2192 KKR \u2192 PBKS.",
+    "Recent performance": "2026 (partial, to data cutoff): 309 runs in 7 innings, SR 175; last 10 innings: 399 runs, SR 179.",
+    "Strengths (data-derived)": "strike rate 214 vs death (top-order benchmark 190, 185 balls); frequent 50+ scores (33% of innings, weighted).",
+    "Risk factors": "strike rate 128 vs powerplay (benchmark 153, 101 balls); no IPL innings in 2023 (availability/selection history).",
+    "2027 estimate": "421 runs (80% interval 145\u2013610) from 13.3 expected innings \u00d7 31.6 runs/innings; confidence **High**.",
+    "Scenarios": "full season (14 inn) 443; strong form 627; weak form 276; reduced time (8 inn) 253.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "travis-head",
+   "name": "Travis Head",
+   "dataset_name": "TM Head",
+   "player_id": 3,
+   "rank": 8,
+   "team_2026": "SRH",
+   "team_color": "#FF822A",
+   "role": "Opener",
+   "batting_position_w": 1.61,
+   "expected_runs": 417.7,
+   "lower_80": 143.1,
+   "upper_80": 604.33,
+   "expected_innings": 12.69,
+   "expected_rpi": 32.91,
+   "expected_average": 34.15,
+   "expected_sr": 171.92,
+   "confidence": "High",
+   "scenarios": {
+    "full": 460.81,
+    "strong": 652.65,
+    "weak": 286.93,
+    "reduced": 263.32
+   },
+   "share": [
+    1.0,
+    0.86,
+    0.94
+   ],
+   "history": [
+    {
+     "season": 2016,
+     "runs": 54,
+     "innings": 3,
+     "balls": 40,
+     "outs": 2,
+     "fifties": 0,
+     "team": "RCB"
+    },
+    {
+     "season": 2017,
+     "runs": 151,
+     "innings": 7,
+     "balls": 108,
+     "outs": 5,
+     "fifties": 1,
+     "team": "RCB"
+    },
+    {
+     "season": 2024,
+     "runs": 567,
+     "innings": 15,
+     "balls": 296,
+     "outs": 14,
+     "fifties": 5,
+     "team": "SRH"
+    },
+    {
+     "season": 2025,
+     "runs": 374,
+     "innings": 12,
+     "balls": 230,
+     "outs": 12,
+     "fifties": 3,
+     "team": "SRH"
+    },
+    {
+     "season": 2026,
+     "runs": 262,
+     "innings": 9,
+     "balls": 160,
+     "outs": 9,
+     "fifties": 1,
+     "team": "SRH"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 879,
+     "balls": 475,
+     "outs": 24
+    },
+    "spin": {
+     "runs": 324,
+     "balls": 211,
+     "outs": 11
+    },
+    "powerplay": {
+     "runs": 874,
+     "balls": 482,
+     "outs": 18
+    },
+    "middle": {
+     "runs": 329,
+     "balls": 204,
+     "outs": 17
+    },
+    "death": {
+     "runs": 0,
+     "balls": 0,
+     "outs": 0
+    }
+   },
+   "recent_innings": [
+    62,
+    19,
+    31,
+    21,
+    102,
+    89,
+    1,
+    13,
+    58,
+    48,
+    89,
+    0,
+    0,
+    34,
+    0,
+    67,
+    47,
+    22,
+    4,
+    8,
+    66,
+    28,
+    0,
+    19,
+    20,
+    17,
+    76,
+    11,
+    46,
+    7,
+    38,
+    18,
+    23,
+    37,
+    6,
+    76
+   ],
+   "analysis": {
+    "Historical trend": "2024: 567 (15 inn), 2025: 374 (12 inn), 2026: 262 (9 inn). Teams in data: RCB \u2192 SRH.",
+    "Recent performance": "2026 (partial, to data cutoff): 262 runs in 9 innings, SR 164; last 10 innings: 338 runs, SR 169.",
+    "Strengths (data-derived)": "strike rate 185 vs pace (top-order benchmark 160, 475 balls); strike rate 181 vs powerplay (top-order benchmark 153, 482 balls).",
+    "Risk factors": "no IPL innings in 2020, 2021, 2022, 2023 (availability/selection history).",
+    "2027 estimate": "418 runs (80% interval 143\u2013604) from 12.7 expected innings \u00d7 32.9 runs/innings; confidence **High**.",
+    "Scenarios": "full season (14 inn) 461; strong form 653; weak form 287; reduced time (8 inn) 263.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "phil-salt",
+   "name": "Phil Salt",
+   "dataset_name": "PD Salt",
+   "player_id": 8945,
+   "rank": 9,
+   "team_2026": "RCB",
+   "team_color": "#EC1C24",
+   "role": "Opener",
+   "batting_position_w": 1.12,
+   "expected_runs": 412.94,
+   "lower_80": 141.14,
+   "upper_80": 597.68,
+   "expected_innings": 11.5,
+   "expected_rpi": 35.9,
+   "expected_average": 38.73,
+   "expected_sr": 174.74,
+   "confidence": "Medium",
+   "scenarios": {
+    "full": 502.65,
+    "strong": 711.91,
+    "weak": 312.98,
+    "reduced": 287.23
+   },
+   "share": [
+    0.67,
+    0.87,
+    0.86
+   ],
+   "history": [
+    {
+     "season": 2023,
+     "runs": 218,
+     "innings": 9,
+     "balls": 133,
+     "outs": 8,
+     "fifties": 2,
+     "team": "DC"
+    },
+    {
+     "season": 2024,
+     "runs": 435,
+     "innings": 12,
+     "balls": 239,
+     "outs": 11,
+     "fifties": 4,
+     "team": "KKR"
+    },
+    {
+     "season": 2025,
+     "runs": 403,
+     "innings": 13,
+     "balls": 229,
+     "outs": 12,
+     "fifties": 4,
+     "team": "RCB"
+    },
+    {
+     "season": 2026,
+     "runs": 202,
+     "innings": 6,
+     "balls": 120,
+     "outs": 6,
+     "fifties": 2,
+     "team": "RCB"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 778,
+     "balls": 451,
+     "outs": 21
+    },
+    "spin": {
+     "runs": 262,
+     "balls": 137,
+     "outs": 8
+    },
+    "powerplay": {
+     "runs": 732,
+     "balls": 417,
+     "outs": 18
+    },
+    "middle": {
+     "runs": 303,
+     "balls": 168,
+     "outs": 11
+    },
+    "death": {
+     "runs": 5,
+     "balls": 3,
+     "outs": 0
+    }
+   },
+   "recent_innings": [
+    5,
+    0,
+    59,
+    0,
+    87,
+    17,
+    21,
+    26,
+    3,
+    54,
+    30,
+    18,
+    0,
+    89,
+    10,
+    48,
+    75,
+    68,
+    5,
+    32,
+    6,
+    56,
+    32,
+    14,
+    4,
+    37,
+    65,
+    4,
+    1,
+    26,
+    62,
+    30,
+    56,
+    16,
+    8,
+    46,
+    0,
+    78,
+    7,
+    63
+   ],
+   "analysis": {
+    "Historical trend": "2023: 218 (9 inn), 2024: 435 (12 inn), 2025: 403 (13 inn), 2026: 202 (6 inn). Teams in data: DC \u2192 KKR \u2192 RCB.",
+    "Recent performance": "2026 (partial, to data cutoff): 202 runs in 6 innings, SR 168; last 10 innings: 366 runs, SR 177.",
+    "Strengths (data-derived)": "strike rate 191 vs spin (top-order benchmark 151, 137 balls); strike rate 176 vs powerplay (top-order benchmark 153, 417 balls); strike rate 180 vs middle (top-order benchmark 154, 168 balls); frequent 50+ scores (31% of innings, weighted).",
+    "Risk factors": "batted in only 67% of the team's 2026 matches in the data.",
+    "2027 estimate": "413 runs (80% interval 141\u2013598) from 11.5 expected innings \u00d7 35.9 runs/innings; confidence **Medium**.",
+    "Scenarios": "full season (14 inn) 503; strong form 712; weak form 313; reduced time (8 inn) 287.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "sanju-samson",
+   "name": "Sanju Samson",
+   "dataset_name": "SV Samson",
+   "player_id": 180,
+   "rank": 10,
+   "team_2026": "CSK",
+   "team_color": "#F9CD05",
+   "role": "Opener",
+   "batting_position_w": 2.2,
+   "expected_runs": 392.34,
+   "lower_80": 132.64,
+   "upper_80": 568.87,
+   "expected_innings": 11.75,
+   "expected_rpi": 33.39,
+   "expected_average": 42.6,
+   "expected_sr": 154.46,
+   "confidence": "Medium",
+   "scenarios": {
+    "full": 467.46,
+    "strong": 662.07,
+    "weak": 291.07,
+    "reduced": 267.12
+   },
+   "share": [
+    1.0,
+    0.64,
+    1.0
+   ],
+   "history": [
+    {
+     "season": 2013,
+     "runs": 206,
+     "innings": 10,
+     "balls": 178,
+     "outs": 8,
+     "fifties": 1,
+     "team": "RR"
+    },
+    {
+     "season": 2014,
+     "runs": 339,
+     "innings": 13,
+     "balls": 273,
+     "outs": 13,
+     "fifties": 2,
+     "team": "RR"
+    },
+    {
+     "season": 2015,
+     "runs": 204,
+     "innings": 11,
+     "balls": 163,
+     "outs": 10,
+     "fifties": 1,
+     "team": "RR"
+    },
+    {
+     "season": 2016,
+     "runs": 291,
+     "innings": 14,
+     "balls": 259,
+     "outs": 11,
+     "fifties": 1,
+     "team": "DC"
+    },
+    {
+     "season": 2017,
+     "runs": 386,
+     "innings": 14,
+     "balls": 273,
+     "outs": 14,
+     "fifties": 3,
+     "team": "DC"
+    },
+    {
+     "season": 2018,
+     "runs": 441,
+     "innings": 15,
+     "balls": 320,
+     "outs": 14,
+     "fifties": 3,
+     "team": "RR"
+    },
+    {
+     "season": 2019,
+     "runs": 342,
+     "innings": 12,
+     "balls": 230,
+     "outs": 10,
+     "fifties": 1,
+     "team": "RR"
+    },
+    {
+     "season": 2020,
+     "runs": 375,
+     "innings": 14,
+     "balls": 236,
+     "outs": 13,
+     "fifties": 3,
+     "team": "RR"
+    },
+    {
+     "season": 2021,
+     "runs": 484,
+     "innings": 14,
+     "balls": 354,
+     "outs": 12,
+     "fifties": 3,
+     "team": "RR"
+    },
+    {
+     "season": 2022,
+     "runs": 458,
+     "innings": 17,
+     "balls": 312,
+     "outs": 16,
+     "fifties": 2,
+     "team": "RR"
+    },
+    {
+     "season": 2023,
+     "runs": 362,
+     "innings": 14,
+     "balls": 236,
+     "outs": 12,
+     "fifties": 3,
+     "team": "RR"
+    },
+    {
+     "season": 2024,
+     "runs": 531,
+     "innings": 15,
+     "balls": 346,
+     "outs": 11,
+     "fifties": 5,
+     "team": "RR"
+    },
+    {
+     "season": 2025,
+     "runs": 285,
+     "innings": 9,
+     "balls": 203,
+     "outs": 8,
+     "fifties": 1,
+     "team": "RR"
+    },
+    {
+     "season": 2026,
+     "runs": 304,
+     "innings": 8,
+     "balls": 179,
+     "outs": 6,
+     "fifties": 2,
+     "team": "CSK"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 781,
+     "balls": 483,
+     "outs": 20
+    },
+    "spin": {
+     "runs": 339,
+     "balls": 245,
+     "outs": 5
+    },
+    "powerplay": {
+     "runs": 444,
+     "balls": 296,
+     "outs": 10
+    },
+    "middle": {
+     "runs": 508,
+     "balls": 348,
+     "outs": 14
+    },
+    "death": {
+     "runs": 168,
+     "balls": 84,
+     "outs": 1
+    }
+   },
+   "recent_innings": [
+    55,
+    42,
+    0,
+    0,
+    60,
+    2,
+    22,
+    17,
+    14,
+    30,
+    66,
+    48,
+    4,
+    2,
+    82,
+    15,
+    12,
+    69,
+    68,
+    18,
+    12,
+    38,
+    71,
+    0,
+    86,
+    15,
+    18,
+    17,
+    10,
+    66,
+    13,
+    20,
+    38,
+    41,
+    15,
+    31,
+    20,
+    41,
+    6,
+    7,
+    9,
+    115,
+    48,
+    7,
+    101,
+    11
+   ],
+   "analysis": {
+    "Historical trend": "2020: 375 (14 inn), 2021: 484 (14 inn), 2022: 458 (17 inn), 2023: 362 (14 inn), 2024: 531 (15 inn), 2025: 285 (9 inn), 2026: 304 (8 inn). Teams in data: RR \u2192 DC \u2192 RR \u2192 CSK.",
+    "Recent performance": "2026 (partial, to data cutoff): 304 runs in 8 innings, SR 170; last 10 innings: 365 runs, SR 162.",
+    "Strengths (data-derived)": "no split stands out by \u226515 SR points from the benchmark.",
+    "Risk factors": "none flagged by the rules beyond general IPL variance.",
+    "2027 estimate": "392 runs (80% interval 133\u2013569) from 11.8 expected innings \u00d7 33.4 runs/innings; confidence **Medium**.",
+    "Scenarios": "full season (14 inn) 467; strong form 662; weak form 291; reduced time (8 inn) 267.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "rajat-patidar",
+   "name": "Rajat Patidar",
+   "dataset_name": "RM Patidar",
+   "player_id": 5349,
+   "rank": 11,
+   "team_2026": "RCB",
+   "team_color": "#EC1C24",
+   "role": "Top order",
+   "batting_position_w": 3.93,
+   "expected_runs": 360.56,
+   "lower_80": 119.51,
+   "upper_80": 524.4,
+   "expected_innings": 12.41,
+   "expected_rpi": 29.05,
+   "expected_average": 31.51,
+   "expected_sr": 169.77,
+   "confidence": "High",
+   "scenarios": {
+    "full": 406.67,
+    "strong": 575.97,
+    "weak": 253.22,
+    "reduced": 232.38
+   },
+   "share": [
+    0.89,
+    0.93,
+    0.87
+   ],
+   "history": [
+    {
+     "season": 2021,
+     "runs": 71,
+     "innings": 4,
+     "balls": 62,
+     "outs": 4,
+     "fifties": 0,
+     "team": "RCB"
+    },
+    {
+     "season": 2022,
+     "runs": 333,
+     "innings": 7,
+     "balls": 218,
+     "outs": 6,
+     "fifties": 3,
+     "team": "RCB"
+    },
+    {
+     "season": 2024,
+     "runs": 395,
+     "innings": 13,
+     "balls": 223,
+     "outs": 13,
+     "fifties": 5,
+     "team": "RCB"
+    },
+    {
+     "season": 2025,
+     "runs": 312,
+     "innings": 14,
+     "balls": 217,
+     "outs": 13,
+     "fifties": 2,
+     "team": "RCB"
+    },
+    {
+     "season": 2026,
+     "runs": 257,
+     "innings": 8,
+     "balls": 128,
+     "outs": 7,
+     "fifties": 2,
+     "team": "RCB"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 550,
+     "balls": 335,
+     "outs": 26
+    },
+    "spin": {
+     "runs": 414,
+     "balls": 233,
+     "outs": 7
+    },
+    "powerplay": {
+     "runs": 112,
+     "balls": 89,
+     "outs": 2
+    },
+    "middle": {
+     "runs": 725,
+     "balls": 404,
+     "outs": 19
+    },
+    "death": {
+     "runs": 127,
+     "balls": 75,
+     "outs": 12
+    }
+   },
+   "recent_innings": [
+    0,
+    18,
+    3,
+    29,
+    50,
+    9,
+    52,
+    50,
+    2,
+    55,
+    52,
+    41,
+    34,
+    34,
+    51,
+    12,
+    64,
+    25,
+    23,
+    12,
+    1,
+    6,
+    11,
+    18,
+    14,
+    15,
+    26,
+    31,
+    48,
+    63,
+    53,
+    27,
+    8,
+    8,
+    19
+   ],
+   "analysis": {
+    "Historical trend": "2021: 71 (4 inn), 2022: 333 (7 inn), 2024: 395 (13 inn), 2025: 312 (14 inn), 2026: 257 (8 inn). Teams in data: RCB.",
+    "Recent performance": "2026 (partial, to data cutoff): 257 runs in 8 innings, SR 201; last 10 innings: 298 runs, SR 196.",
+    "Strengths (data-derived)": "strike rate 178 vs spin (top-order benchmark 151, 233 balls); strike rate 179 vs middle (top-order benchmark 154, 404 balls).",
+    "Risk factors": "strike rate 126 vs powerplay (benchmark 153, 89 balls); strike rate 169 vs death (benchmark 190, 75 balls); no IPL innings in 2023 (availability/selection history).",
+    "2027 estimate": "361 runs (80% interval 120\u2013524) from 12.4 expected innings \u00d7 29.0 runs/innings; confidence **High**.",
+    "Scenarios": "full season (14 inn) 407; strong form 576; weak form 253; reduced time (8 inn) 232.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "suryakumar-yadav",
+   "name": "Suryakumar Yadav",
+   "dataset_name": "SA Yadav",
+   "player_id": 61,
+   "rank": 12,
+   "team_2026": "MI",
+   "team_color": "#004BA0",
+   "role": "Top order",
+   "batting_position_w": 3.53,
+   "expected_runs": 344.49,
+   "lower_80": 37.24,
+   "upper_80": 618.12,
+   "expected_innings": 11.85,
+   "expected_rpi": 29.07,
+   "expected_average": 35.12,
+   "expected_sr": 161.86,
+   "confidence": "High",
+   "scenarios": {
+    "full": 406.99,
+    "strong": 576.43,
+    "weak": 253.42,
+    "reduced": 232.57
+   },
+   "share": [
+    1.0,
+    1.0,
+    0.79
+   ],
+   "history": [
+    {
+     "season": 2012,
+     "runs": 0,
+     "innings": 1,
+     "balls": 4,
+     "outs": 1,
+     "fifties": 0,
+     "team": "MI"
+    },
+    {
+     "season": 2014,
+     "runs": 164,
+     "innings": 10,
+     "balls": 117,
+     "outs": 5,
+     "fifties": 0,
+     "team": "KKR"
+    },
+    {
+     "season": 2015,
+     "runs": 157,
+     "innings": 13,
+     "balls": 113,
+     "outs": 9,
+     "fifties": 0,
+     "team": "KKR"
+    },
+    {
+     "season": 2016,
+     "runs": 182,
+     "innings": 11,
+     "balls": 143,
+     "outs": 7,
+     "fifties": 1,
+     "team": "KKR"
+    },
+    {
+     "season": 2017,
+     "runs": 105,
+     "innings": 7,
+     "balls": 88,
+     "outs": 6,
+     "fifties": 0,
+     "team": "KKR"
+    },
+    {
+     "season": 2018,
+     "runs": 512,
+     "innings": 14,
+     "balls": 384,
+     "outs": 14,
+     "fifties": 4,
+     "team": "MI"
+    },
+    {
+     "season": 2019,
+     "runs": 424,
+     "innings": 15,
+     "balls": 324,
+     "outs": 13,
+     "fifties": 2,
+     "team": "MI"
+    },
+    {
+     "season": 2020,
+     "runs": 480,
+     "innings": 15,
+     "balls": 331,
+     "outs": 12,
+     "fifties": 4,
+     "team": "MI"
+    },
+    {
+     "season": 2021,
+     "runs": 317,
+     "innings": 14,
+     "balls": 221,
+     "outs": 14,
+     "fifties": 2,
+     "team": "MI"
+    },
+    {
+     "season": 2022,
+     "runs": 303,
+     "innings": 8,
+     "balls": 208,
+     "outs": 7,
+     "fifties": 3,
+     "team": "MI"
+    },
+    {
+     "season": 2023,
+     "runs": 605,
+     "innings": 16,
+     "balls": 334,
+     "outs": 14,
+     "fifties": 6,
+     "team": "MI"
+    },
+    {
+     "season": 2024,
+     "runs": 345,
+     "innings": 11,
+     "balls": 206,
+     "outs": 10,
+     "fifties": 4,
+     "team": "MI"
+    },
+    {
+     "season": 2025,
+     "runs": 717,
+     "innings": 16,
+     "balls": 427,
+     "outs": 11,
+     "fifties": 5,
+     "team": "MI"
+    },
+    {
+     "season": 2026,
+     "runs": 162,
+     "innings": 8,
+     "balls": 115,
+     "outs": 8,
+     "fifties": 1,
+     "team": "MI"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 707,
+     "balls": 411,
+     "outs": 21
+    },
+    "spin": {
+     "runs": 517,
+     "balls": 337,
+     "outs": 8
+    },
+    "powerplay": {
+     "runs": 211,
+     "balls": 151,
+     "outs": 6
+    },
+    "middle": {
+     "runs": 845,
+     "balls": 516,
+     "outs": 16
+    },
+    "death": {
+     "runs": 168,
+     "balls": 81,
+     "outs": 7
+    }
+   },
+   "recent_innings": [
+    15,
+    1,
+    0,
+    43,
+    7,
+    57,
+    23,
+    55,
+    66,
+    26,
+    83,
+    103,
+    7,
+    25,
+    33,
+    61,
+    0,
+    52,
+    0,
+    78,
+    10,
+    26,
+    10,
+    56,
+    102,
+    11,
+    0,
+    29,
+    48,
+    27,
+    67,
+    28,
+    40,
+    26,
+    68,
+    40,
+    54,
+    48,
+    35,
+    73,
+    57,
+    33,
+    44,
+    16,
+    51,
+    6,
+    33,
+    0,
+    15,
+    36,
+    5
+   ],
+   "analysis": {
+    "Historical trend": "2020: 480 (15 inn), 2021: 317 (14 inn), 2022: 303 (8 inn), 2023: 605 (16 inn), 2024: 345 (11 inn), 2025: 717 (16 inn), 2026: 162 (8 inn). Teams in data: MI \u2192 KKR \u2192 MI.",
+    "Recent performance": "2026 (partial, to data cutoff): 162 runs in 8 innings, SR 141; last 10 innings: 239 runs, SR 148.",
+    "Strengths (data-derived)": "strike rate 207 vs death (top-order benchmark 190, 81 balls); frequent 50+ scores (26% of innings, weighted).",
+    "Risk factors": "volatile season-to-season output (runs-per-innings CV 0.37 over 11 seasons).",
+    "2027 estimate": "344 runs (80% interval 37\u2013618) from 11.8 expected innings \u00d7 29.1 runs/innings; confidence **High**.",
+    "Scenarios": "full season (14 inn) 407; strong form 576; weak form 253; reduced time (8 inn) 233.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "riyan-parag",
+   "name": "Riyan Parag",
+   "dataset_name": "R Parag",
+   "player_id": 3230,
+   "rank": 13,
+   "team_2026": "RR",
+   "team_color": "#EA1A85",
+   "role": "Top order",
+   "batting_position_w": 3.97,
+   "expected_runs": 335.8,
+   "lower_80": 35.32,
+   "upper_80": 603.4,
+   "expected_innings": 12.09,
+   "expected_rpi": 27.77,
+   "expected_average": 32.83,
+   "expected_sr": 153.19,
+   "confidence": "High",
+   "scenarios": {
+    "full": 388.78,
+    "strong": 550.64,
+    "weak": 242.08,
+    "reduced": 222.16
+   },
+   "share": [
+    1.0,
+    1.0,
+    0.93
+   ],
+   "history": [
+    {
+     "season": 2019,
+     "runs": 160,
+     "innings": 5,
+     "balls": 126,
+     "outs": 5,
+     "fifties": 1,
+     "team": "RR"
+    },
+    {
+     "season": 2020,
+     "runs": 86,
+     "innings": 8,
+     "balls": 77,
+     "outs": 7,
+     "fifties": 0,
+     "team": "RR"
+    },
+    {
+     "season": 2021,
+     "runs": 93,
+     "innings": 10,
+     "balls": 83,
+     "outs": 8,
+     "fifties": 0,
+     "team": "RR"
+    },
+    {
+     "season": 2022,
+     "runs": 183,
+     "innings": 14,
+     "balls": 132,
+     "outs": 11,
+     "fifties": 1,
+     "team": "RR"
+    },
+    {
+     "season": 2023,
+     "runs": 78,
+     "innings": 7,
+     "balls": 66,
+     "outs": 6,
+     "fifties": 0,
+     "team": "RR"
+    },
+    {
+     "season": 2024,
+     "runs": 573,
+     "innings": 14,
+     "balls": 384,
+     "outs": 11,
+     "fifties": 4,
+     "team": "RR"
+    },
+    {
+     "season": 2025,
+     "runs": 393,
+     "innings": 14,
+     "balls": 236,
+     "outs": 12,
+     "fifties": 1,
+     "team": "RR"
+    },
+    {
+     "season": 2026,
+     "runs": 207,
+     "innings": 10,
+     "balls": 144,
+     "outs": 9,
+     "fifties": 1,
+     "team": "RR"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 704,
+     "balls": 426,
+     "outs": 23
+    },
+    "spin": {
+     "runs": 469,
+     "balls": 338,
+     "outs": 9
+    },
+    "powerplay": {
+     "runs": 173,
+     "balls": 117,
+     "outs": 3
+    },
+    "middle": {
+     "runs": 771,
+     "balls": 520,
+     "outs": 17
+    },
+    "death": {
+     "runs": 229,
+     "balls": 127,
+     "outs": 12
+    }
+   },
+   "recent_innings": [
+    7,
+    20,
+    7,
+    5,
+    15,
+    4,
+    20,
+    43,
+    84,
+    54,
+    4,
+    76,
+    23,
+    34,
+    14,
+    77,
+    27,
+    47,
+    48,
+    36,
+    6,
+    4,
+    25,
+    37,
+    43,
+    26,
+    30,
+    8,
+    39,
+    22,
+    32,
+    16,
+    95,
+    13,
+    3,
+    14,
+    8,
+    20,
+    3,
+    4,
+    12,
+    20,
+    7,
+    29,
+    90
+   ],
+   "analysis": {
+    "Historical trend": "2020: 86 (8 inn), 2021: 93 (10 inn), 2022: 183 (14 inn), 2023: 78 (7 inn), 2024: 573 (14 inn), 2025: 393 (14 inn), 2026: 207 (10 inn). Teams in data: RR.",
+    "Recent performance": "2026 (partial, to data cutoff): 207 runs in 10 innings, SR 144; last 10 innings: 207 runs, SR 144.",
+    "Strengths (data-derived)": "no split stands out by \u226515 SR points from the benchmark.",
+    "Risk factors": "volatile season-to-season output (runs-per-innings CV 0.67 over 5 seasons).",
+    "2027 estimate": "336 runs (80% interval 35\u2013603) from 12.1 expected innings \u00d7 27.8 runs/innings; confidence **High**.",
+    "Scenarios": "full season (14 inn) 389; strong form 551; weak form 242; reduced time (8 inn) 222.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "tilak-varma",
+   "name": "Tilak Varma",
+   "dataset_name": "Tilak Varma",
+   "player_id": 6681,
+   "rank": 14,
+   "team_2026": "MI",
+   "team_color": "#004BA0",
+   "role": "Middle order / finisher",
+   "batting_position_w": 4.58,
+   "expected_runs": 314.88,
+   "lower_80": 30.7,
+   "upper_80": 567.98,
+   "expected_innings": 11.89,
+   "expected_rpi": 26.48,
+   "expected_average": 32.0,
+   "expected_sr": 149.11,
+   "confidence": "High",
+   "scenarios": {
+    "full": 370.66,
+    "strong": 524.97,
+    "weak": 230.8,
+    "reduced": 211.8
+   },
+   "share": [
+    1.0,
+    0.81,
+    0.93
+   ],
+   "history": [
+    {
+     "season": 2022,
+     "runs": 397,
+     "innings": 14,
+     "balls": 303,
+     "outs": 11,
+     "fifties": 2,
+     "team": "MI"
+    },
+    {
+     "season": 2023,
+     "runs": 343,
+     "innings": 11,
+     "balls": 209,
+     "outs": 8,
+     "fifties": 1,
+     "team": "MI"
+    },
+    {
+     "season": 2024,
+     "runs": 416,
+     "innings": 13,
+     "balls": 278,
+     "outs": 10,
+     "fifties": 3,
+     "team": "MI"
+    },
+    {
+     "season": 2025,
+     "runs": 343,
+     "innings": 13,
+     "balls": 248,
+     "outs": 11,
+     "fifties": 2,
+     "team": "MI"
+    },
+    {
+     "season": 2026,
+     "runs": 188,
+     "innings": 8,
+     "balls": 111,
+     "outs": 7,
+     "fifties": 1,
+     "team": "MI"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 583,
+     "balls": 371,
+     "outs": 20
+    },
+    "spin": {
+     "runs": 364,
+     "balls": 266,
+     "outs": 8
+    },
+    "powerplay": {
+     "runs": 107,
+     "balls": 100,
+     "outs": 3
+    },
+    "middle": {
+     "runs": 579,
+     "balls": 410,
+     "outs": 14
+    },
+    "death": {
+     "runs": 261,
+     "balls": 127,
+     "outs": 11
+    }
+   },
+   "recent_innings": [
+    84,
+    22,
+    41,
+    30,
+    37,
+    3,
+    2,
+    29,
+    26,
+    26,
+    43,
+    25,
+    64,
+    32,
+    6,
+    16,
+    31,
+    34,
+    65,
+    63,
+    7,
+    4,
+    37,
+    32,
+    31,
+    39,
+    25,
+    56,
+    59,
+    21,
+    2,
+    6,
+    7,
+    27,
+    1,
+    25,
+    44,
+    20,
+    0,
+    14,
+    1,
+    8,
+    101,
+    37,
+    7
+   ],
+   "analysis": {
+    "Historical trend": "2022: 397 (14 inn), 2023: 343 (11 inn), 2024: 416 (13 inn), 2025: 343 (13 inn), 2026: 188 (8 inn). Teams in data: MI.",
+    "Recent performance": "2026 (partial, to data cutoff): 188 runs in 8 innings, SR 169; last 10 innings: 257 runs, SR 170.",
+    "Strengths (data-derived)": "strike rate 206 vs death (top-order benchmark 190, 127 balls).",
+    "Risk factors": "strike rate 107 vs powerplay (benchmark 153, 100 balls); middle/lower-order role (weighted batting position 4.6) caps balls per innings.",
+    "2027 estimate": "315 runs (80% interval 31\u2013568) from 11.9 expected innings \u00d7 26.5 runs/innings; confidence **High**.",
+    "Scenarios": "full season (14 inn) 371; strong form 525; weak form 231; reduced time (8 inn) 212.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "nicholas-pooran",
+   "name": "Nicholas Pooran",
+   "dataset_name": "N Pooran",
+   "player_id": 2766,
+   "rank": 15,
+   "team_2026": "LSG",
+   "team_color": "#A72056",
+   "role": "Top order",
+   "batting_position_w": 4.18,
+   "expected_runs": 314.49,
+   "lower_80": 30.61,
+   "upper_80": 567.31,
+   "expected_innings": 11.61,
+   "expected_rpi": 27.09,
+   "expected_average": 33.5,
+   "expected_sr": 165.09,
+   "confidence": "High",
+   "scenarios": {
+    "full": 379.24,
+    "strong": 537.13,
+    "weak": 236.14,
+    "reduced": 216.71
+   },
+   "share": [
+    1.0,
+    1.0,
+    1.0
+   ],
+   "history": [
+    {
+     "season": 2019,
+     "runs": 168,
+     "innings": 6,
+     "balls": 107,
+     "outs": 6,
+     "fifties": 0,
+     "team": "PBKS"
+    },
+    {
+     "season": 2020,
+     "runs": 353,
+     "innings": 14,
+     "balls": 208,
+     "outs": 10,
+     "fifties": 2,
+     "team": "PBKS"
+    },
+    {
+     "season": 2021,
+     "runs": 85,
+     "innings": 11,
+     "balls": 76,
+     "outs": 11,
+     "fifties": 0,
+     "team": "PBKS"
+    },
+    {
+     "season": 2022,
+     "runs": 306,
+     "innings": 13,
+     "balls": 212,
+     "outs": 8,
+     "fifties": 2,
+     "team": "SRH"
+    },
+    {
+     "season": 2023,
+     "runs": 358,
+     "innings": 15,
+     "balls": 207,
+     "outs": 12,
+     "fifties": 2,
+     "team": "LSG"
+    },
+    {
+     "season": 2024,
+     "runs": 499,
+     "innings": 14,
+     "balls": 280,
+     "outs": 8,
+     "fifties": 3,
+     "team": "LSG"
+    },
+    {
+     "season": 2025,
+     "runs": 524,
+     "innings": 14,
+     "balls": 267,
+     "outs": 12,
+     "fifties": 5,
+     "team": "LSG"
+    },
+    {
+     "season": 2026,
+     "runs": 82,
+     "innings": 8,
+     "balls": 101,
+     "outs": 8,
+     "fifties": 0,
+     "team": "LSG"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 679,
+     "balls": 424,
+     "outs": 22
+    },
+    "spin": {
+     "runs": 426,
+     "balls": 224,
+     "outs": 6
+    },
+    "powerplay": {
+     "runs": 145,
+     "balls": 92,
+     "outs": 3
+    },
+    "middle": {
+     "runs": 616,
+     "balls": 371,
+     "outs": 17
+    },
+    "death": {
+     "runs": 344,
+     "balls": 185,
+     "outs": 8
+    }
+   },
+   "recent_innings": [
+    36,
+    32,
+    11,
+    62,
+    0,
+    29,
+    1,
+    45,
+    9,
+    20,
+    3,
+    44,
+    8,
+    58,
+    0,
+    64,
+    42,
+    40,
+    32,
+    0,
+    45,
+    23,
+    34,
+    11,
+    14,
+    10,
+    48,
+    61,
+    75,
+    75,
+    70,
+    44,
+    12,
+    87,
+    61,
+    8,
+    11,
+    9,
+    27,
+    6,
+    45,
+    56,
+    13,
+    8,
+    1,
+    13,
+    19,
+    1,
+    9,
+    22,
+    9
+   ],
+   "analysis": {
+    "Historical trend": "2020: 353 (14 inn), 2021: 85 (11 inn), 2022: 306 (13 inn), 2023: 358 (15 inn), 2024: 499 (14 inn), 2025: 524 (14 inn), 2026: 82 (8 inn). Teams in data: PBKS \u2192 SRH \u2192 LSG.",
+    "Recent performance": "2026 (partial, to data cutoff): 82 runs in 8 innings, SR 81; last 10 innings: 151 runs, SR 109.",
+    "Strengths (data-derived)": "strike rate 190 vs spin (top-order benchmark 151, 224 balls).",
+    "Risk factors": "volatile season-to-season output (runs-per-innings CV 0.42 over 6 seasons).",
+    "2027 estimate": "314 runs (80% interval 31\u2013567) from 11.6 expected innings \u00d7 27.1 runs/innings; confidence **High**.",
+    "Scenarios": "full season (14 inn) 379; strong form 537; weak form 236; reduced time (8 inn) 217.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "rishabh-pant",
+   "name": "Rishabh Pant",
+   "dataset_name": "RR Pant",
+   "player_id": 181,
+   "rank": 16,
+   "team_2026": "LSG",
+   "team_color": "#A72056",
+   "role": "Top order",
+   "batting_position_w": 3.84,
+   "expected_runs": 307.58,
+   "lower_80": 29.08,
+   "upper_80": 555.61,
+   "expected_innings": 11.25,
+   "expected_rpi": 27.34,
+   "expected_average": 32.21,
+   "expected_sr": 138.99,
+   "confidence": "High",
+   "scenarios": {
+    "full": 382.74,
+    "strong": 542.09,
+    "weak": 238.32,
+    "reduced": 218.71
+   },
+   "share": [
+    1.0,
+    0.93,
+    0.93
+   ],
+   "history": [
+    {
+     "season": 2016,
+     "runs": 198,
+     "innings": 10,
+     "balls": 152,
+     "outs": 8,
+     "fifties": 1,
+     "team": "DC"
+    },
+    {
+     "season": 2017,
+     "runs": 366,
+     "innings": 14,
+     "balls": 221,
+     "outs": 14,
+     "fifties": 2,
+     "team": "DC"
+    },
+    {
+     "season": 2018,
+     "runs": 684,
+     "innings": 14,
+     "balls": 394,
+     "outs": 13,
+     "fifties": 6,
+     "team": "DC"
+    },
+    {
+     "season": 2019,
+     "runs": 488,
+     "innings": 16,
+     "balls": 300,
+     "outs": 13,
+     "fifties": 3,
+     "team": "DC"
+    },
+    {
+     "season": 2020,
+     "runs": 343,
+     "innings": 14,
+     "balls": 301,
+     "outs": 11,
+     "fifties": 1,
+     "team": "DC"
+    },
+    {
+     "season": 2021,
+     "runs": 419,
+     "innings": 16,
+     "balls": 326,
+     "outs": 12,
+     "fifties": 3,
+     "team": "DC"
+    },
+    {
+     "season": 2022,
+     "runs": 340,
+     "innings": 13,
+     "balls": 224,
+     "outs": 11,
+     "fifties": 0,
+     "team": "DC"
+    },
+    {
+     "season": 2024,
+     "runs": 446,
+     "innings": 13,
+     "balls": 287,
+     "outs": 11,
+     "fifties": 3,
+     "team": "DC"
+    },
+    {
+     "season": 2025,
+     "runs": 269,
+     "innings": 13,
+     "balls": 202,
+     "outs": 11,
+     "fifties": 2,
+     "team": "LSG"
+    },
+    {
+     "season": 2026,
+     "runs": 189,
+     "innings": 8,
+     "balls": 149,
+     "outs": 7,
+     "fifties": 1,
+     "team": "LSG"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 626,
+     "balls": 406,
+     "outs": 19
+    },
+    "spin": {
+     "runs": 278,
+     "balls": 232,
+     "outs": 10
+    },
+    "powerplay": {
+     "runs": 125,
+     "balls": 123,
+     "outs": 4
+    },
+    "middle": {
+     "runs": 534,
+     "balls": 394,
+     "outs": 16
+    },
+    "death": {
+     "runs": 245,
+     "balls": 121,
+     "outs": 9
+    }
+   },
+   "recent_innings": [
+    18,
+    28,
+    51,
+    55,
+    1,
+    41,
+    16,
+    44,
+    88,
+    29,
+    27,
+    15,
+    33,
+    0,
+    15,
+    2,
+    2,
+    21,
+    63,
+    3,
+    0,
+    4,
+    18,
+    7,
+    16,
+    118,
+    7,
+    68,
+    10,
+    18,
+    1,
+    43,
+    0,
+    42
+   ],
+   "analysis": {
+    "Historical trend": "2020: 343 (14 inn), 2021: 419 (16 inn), 2022: 340 (13 inn), 2024: 446 (13 inn), 2025: 269 (13 inn), 2026: 189 (8 inn). Teams in data: DC \u2192 LSG.",
+    "Recent performance": "2026 (partial, to data cutoff): 189 runs in 8 innings, SR 127; last 10 innings: 323 runs, SR 150.",
+    "Strengths (data-derived)": "no split stands out by \u226515 SR points from the benchmark.",
+    "Risk factors": "strike rate 120 vs spin (benchmark 151, 232 balls); strike rate 102 vs powerplay (benchmark 153, 123 balls); strike rate 136 vs middle (benchmark 154, 394 balls); no IPL innings in 2023 (availability/selection history); volatile season-to-season output (runs-per-innings CV 0.31 over 9 seasons).",
+    "2027 estimate": "308 runs (80% interval 29\u2013556) from 11.3 expected innings \u00d7 27.3 runs/innings; confidence **High**.",
+    "Scenarios": "full season (14 inn) 383; strong form 542; weak form 238; reduced time (8 inn) 219.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "ruturaj-gaikwad",
+   "name": "Ruturaj Gaikwad",
+   "dataset_name": "RD Gaikwad",
+   "player_id": 4119,
+   "rank": 17,
+   "team_2026": "CSK",
+   "team_color": "#F9CD05",
+   "role": "Opener",
+   "batting_position_w": 2.28,
+   "expected_runs": 299.93,
+   "lower_80": 27.39,
+   "upper_80": 542.65,
+   "expected_innings": 9.67,
+   "expected_rpi": 31.03,
+   "expected_average": 36.33,
+   "expected_sr": 135.99,
+   "confidence": "Medium",
+   "scenarios": {
+    "full": 434.43,
+    "strong": 615.28,
+    "weak": 270.5,
+    "reduced": 248.24
+   },
+   "share": [
+    1.0,
+    0.36,
+    1.0
+   ],
+   "history": [
+    {
+     "season": 2020,
+     "runs": 204,
+     "innings": 6,
+     "balls": 169,
+     "outs": 4,
+     "fifties": 3,
+     "team": "CSK"
+    },
+    {
+     "season": 2021,
+     "runs": 635,
+     "innings": 16,
+     "balls": 466,
+     "outs": 14,
+     "fifties": 5,
+     "team": "CSK"
+    },
+    {
+     "season": 2022,
+     "runs": 368,
+     "innings": 14,
+     "balls": 291,
+     "outs": 14,
+     "fifties": 3,
+     "team": "CSK"
+    },
+    {
+     "season": 2023,
+     "runs": 590,
+     "innings": 15,
+     "balls": 400,
+     "outs": 14,
+     "fifties": 4,
+     "team": "CSK"
+    },
+    {
+     "season": 2024,
+     "runs": 583,
+     "innings": 14,
+     "balls": 413,
+     "outs": 11,
+     "fifties": 5,
+     "team": "CSK"
+    },
+    {
+     "season": 2025,
+     "runs": 122,
+     "innings": 5,
+     "balls": 81,
+     "outs": 5,
+     "fifties": 2,
+     "team": "CSK"
+    },
+    {
+     "season": 2026,
+     "runs": 178,
+     "innings": 8,
+     "balls": 147,
+     "outs": 7,
+     "fifties": 1,
+     "team": "CSK"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 629,
+     "balls": 448,
+     "outs": 14
+    },
+    "spin": {
+     "runs": 254,
+     "balls": 193,
+     "outs": 9
+    },
+    "powerplay": {
+     "runs": 431,
+     "balls": 316,
+     "outs": 12
+    },
+    "middle": {
+     "runs": 341,
+     "balls": 265,
+     "outs": 7
+    },
+    "death": {
+     "runs": 111,
+     "balls": 60,
+     "outs": 4
+    }
+   },
+   "recent_innings": [
+    92,
+    57,
+    40,
+    8,
+    3,
+    35,
+    35,
+    47,
+    37,
+    30,
+    24,
+    17,
+    79,
+    60,
+    26,
+    15,
+    46,
+    1,
+    26,
+    67,
+    69,
+    17,
+    108,
+    98,
+    62,
+    32,
+    0,
+    42,
+    0,
+    53,
+    0,
+    63,
+    5,
+    1,
+    6,
+    28,
+    7,
+    15,
+    7,
+    19,
+    22,
+    74
+   ],
+   "analysis": {
+    "Historical trend": "2020: 204 (6 inn), 2021: 635 (16 inn), 2022: 368 (14 inn), 2023: 590 (15 inn), 2024: 583 (14 inn), 2025: 122 (5 inn), 2026: 178 (8 inn). Teams in data: CSK.",
+    "Recent performance": "2026 (partial, to data cutoff): 178 runs in 8 innings, SR 121; last 10 innings: 184 runs, SR 119.",
+    "Strengths (data-derived)": "frequent 50+ scores (26% of innings, weighted).",
+    "Risk factors": "strike rate 140 vs pace (benchmark 160, 448 balls); strike rate 132 vs spin (benchmark 151, 193 balls); strike rate 136 vs powerplay (benchmark 153, 316 balls); strike rate 129 vs middle (benchmark 154, 265 balls).",
+    "2027 estimate": "300 runs (80% interval 27\u2013543) from 9.7 expected innings \u00d7 31.0 runs/innings; confidence **Medium**.",
+    "Scenarios": "full season (14 inn) 434; strong form 615; weak form 271; reduced time (8 inn) 248.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "devdutt-padikkal",
+   "name": "Devdutt Padikkal",
+   "dataset_name": "D Padikkal",
+   "player_id": 4071,
+   "rank": 18,
+   "team_2026": "RCB",
+   "team_color": "#EC1C24",
+   "role": "Top order",
+   "batting_position_w": 3.09,
+   "expected_runs": 288.12,
+   "lower_80": 24.78,
+   "upper_80": 522.65,
+   "expected_innings": 10.34,
+   "expected_rpi": 27.86,
+   "expected_average": 31.03,
+   "expected_sr": 159.49,
+   "confidence": "Low",
+   "scenarios": {
+    "full": 390.11,
+    "strong": 552.52,
+    "weak": 242.91,
+    "reduced": 222.92
+   },
+   "share": [
+    0.89,
+    0.67,
+    0.5
+   ],
+   "history": [
+    {
+     "season": 2020,
+     "runs": 473,
+     "innings": 15,
+     "balls": 379,
+     "outs": 15,
+     "fifties": 5,
+     "team": "RCB"
+    },
+    {
+     "season": 2021,
+     "runs": 411,
+     "innings": 14,
+     "balls": 328,
+     "outs": 13,
+     "fifties": 2,
+     "team": "RCB"
+    },
+    {
+     "season": 2022,
+     "runs": 376,
+     "innings": 17,
+     "balls": 306,
+     "outs": 17,
+     "fifties": 1,
+     "team": "RR"
+    },
+    {
+     "season": 2023,
+     "runs": 261,
+     "innings": 11,
+     "balls": 200,
+     "outs": 10,
+     "fifties": 2,
+     "team": "RR"
+    },
+    {
+     "season": 2024,
+     "runs": 38,
+     "innings": 7,
+     "balls": 53,
+     "outs": 7,
+     "fifties": 0,
+     "team": "LSG"
+    },
+    {
+     "season": 2025,
+     "runs": 247,
+     "innings": 10,
+     "balls": 164,
+     "outs": 9,
+     "fifties": 2,
+     "team": "RCB"
+    },
+    {
+     "season": 2026,
+     "runs": 282,
+     "innings": 8,
+     "balls": 150,
+     "outs": 7,
+     "fifties": 3,
+     "team": "RCB"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 386,
+     "balls": 223,
+     "outs": 14
+    },
+    "spin": {
+     "runs": 181,
+     "balls": 144,
+     "outs": 9
+    },
+    "powerplay": {
+     "runs": 225,
+     "balls": 145,
+     "outs": 9
+    },
+    "middle": {
+     "runs": 318,
+     "balls": 207,
+     "outs": 12
+    },
+    "death": {
+     "runs": 24,
+     "balls": 15,
+     "outs": 2
+    }
+   },
+   "recent_innings": [
+    2,
+    21,
+    38,
+    26,
+    26,
+    52,
+    27,
+    2,
+    12,
+    4,
+    51,
+    0,
+    9,
+    6,
+    7,
+    3,
+    13,
+    0,
+    10,
+    27,
+    4,
+    37,
+    1,
+    40,
+    61,
+    50,
+    0,
+    17,
+    61,
+    50,
+    14,
+    10,
+    18,
+    55,
+    34,
+    40
+   ],
+   "analysis": {
+    "Historical trend": "2020: 473 (15 inn), 2021: 411 (14 inn), 2022: 376 (17 inn), 2023: 261 (11 inn), 2024: 38 (7 inn), 2025: 247 (10 inn), 2026: 282 (8 inn). Teams in data: RCB \u2192 RR \u2192 LSG \u2192 RCB.",
+    "Recent performance": "2026 (partial, to data cutoff): 282 runs in 8 innings, SR 188; last 10 innings: 299 runs, SR 179.",
+    "Strengths (data-derived)": "no split stands out by \u226515 SR points from the benchmark.",
+    "Risk factors": "strike rate 126 vs spin (benchmark 151, 144 balls).",
+    "2027 estimate": "288 runs (80% interval 25\u2013523) from 10.3 expected innings \u00d7 27.9 runs/innings; confidence **Low**.",
+    "Scenarios": "full season (14 inn) 390; strong form 553; weak form 243; reduced time (8 inn) 223.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "rohit-sharma",
+   "name": "Rohit Sharma",
+   "dataset_name": "RG Sharma",
+   "player_id": 25,
+   "rank": 19,
+   "team_2026": "MI",
+   "team_color": "#004BA0",
+   "role": "Opener",
+   "batting_position_w": 1.75,
+   "expected_runs": 246.82,
+   "lower_80": 15.64,
+   "upper_80": 452.7,
+   "expected_innings": 8.16,
+   "expected_rpi": 30.27,
+   "expected_average": 33.95,
+   "expected_sr": 151.82,
+   "confidence": "Medium",
+   "scenarios": {
+    "full": 423.72,
+    "strong": 600.12,
+    "weak": 263.83,
+    "reduced": 242.12
+   },
+   "share": [
+    0.5,
+    0.94,
+    1.0
+   ],
+   "history": [
+    {
+     "season": 2008,
+     "runs": 404,
+     "innings": 12,
+     "balls": 273,
+     "outs": 11,
+     "fifties": 4,
+     "team": "SRH"
+    },
+    {
+     "season": 2009,
+     "runs": 362,
+     "innings": 16,
+     "balls": 315,
+     "outs": 13,
+     "fifties": 1,
+     "team": "SRH"
+    },
+    {
+     "season": 2010,
+     "runs": 404,
+     "innings": 16,
+     "balls": 302,
+     "outs": 14,
+     "fifties": 3,
+     "team": "SRH"
+    },
+    {
+     "season": 2011,
+     "runs": 372,
+     "innings": 14,
+     "balls": 297,
+     "outs": 11,
+     "fifties": 3,
+     "team": "MI"
+    },
+    {
+     "season": 2012,
+     "runs": 433,
+     "innings": 16,
+     "balls": 342,
+     "outs": 14,
+     "fifties": 4,
+     "team": "MI"
+    },
+    {
+     "season": 2013,
+     "runs": 538,
+     "innings": 19,
+     "balls": 409,
+     "outs": 14,
+     "fifties": 4,
+     "team": "MI"
+    },
+    {
+     "season": 2014,
+     "runs": 390,
+     "innings": 15,
+     "balls": 302,
+     "outs": 13,
+     "fifties": 3,
+     "team": "MI"
+    },
+    {
+     "season": 2015,
+     "runs": 482,
+     "innings": 16,
+     "balls": 333,
+     "outs": 14,
+     "fifties": 3,
+     "team": "MI"
+    },
+    {
+     "season": 2016,
+     "runs": 489,
+     "innings": 14,
+     "balls": 368,
+     "outs": 11,
+     "fifties": 5,
+     "team": "MI"
+    },
+    {
+     "season": 2017,
+     "runs": 333,
+     "innings": 16,
+     "balls": 273,
+     "outs": 14,
+     "fifties": 3,
+     "team": "MI"
+    },
+    {
+     "season": 2018,
+     "runs": 286,
+     "innings": 14,
+     "balls": 215,
+     "outs": 12,
+     "fifties": 2,
+     "team": "MI"
+    },
+    {
+     "season": 2019,
+     "runs": 405,
+     "innings": 15,
+     "balls": 315,
+     "outs": 14,
+     "fifties": 2,
+     "team": "MI"
+    },
+    {
+     "season": 2020,
+     "runs": 332,
+     "innings": 12,
+     "balls": 260,
+     "outs": 12,
+     "fifties": 3,
+     "team": "MI"
+    },
+    {
+     "season": 2021,
+     "runs": 381,
+     "innings": 13,
+     "balls": 299,
+     "outs": 13,
+     "fifties": 1,
+     "team": "MI"
+    },
+    {
+     "season": 2022,
+     "runs": 268,
+     "innings": 14,
+     "balls": 223,
+     "outs": 14,
+     "fifties": 0,
+     "team": "MI"
+    },
+    {
+     "season": 2023,
+     "runs": 332,
+     "innings": 16,
+     "balls": 250,
+     "outs": 16,
+     "fifties": 2,
+     "team": "MI"
+    },
+    {
+     "season": 2024,
+     "runs": 417,
+     "innings": 14,
+     "balls": 278,
+     "outs": 13,
+     "fifties": 2,
+     "team": "MI"
+    },
+    {
+     "season": 2025,
+     "runs": 418,
+     "innings": 15,
+     "balls": 280,
+     "outs": 14,
+     "fifties": 4,
+     "team": "MI"
+    },
+    {
+     "season": 2026,
+     "runs": 137,
+     "innings": 4,
+     "balls": 83,
+     "outs": 3,
+     "fifties": 1,
+     "team": "MI"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 674,
+     "balls": 429,
+     "outs": 20
+    },
+    "spin": {
+     "runs": 298,
+     "balls": 212,
+     "outs": 10
+    },
+    "powerplay": {
+     "runs": 613,
+     "balls": 398,
+     "outs": 18
+    },
+    "middle": {
+     "runs": 317,
+     "balls": 222,
+     "outs": 11
+    },
+    "death": {
+     "runs": 42,
+     "balls": 21,
+     "outs": 1
+    }
+   },
+   "recent_innings": [
+    1,
+    21,
+    65,
+    20,
+    28,
+    44,
+    2,
+    3,
+    0,
+    0,
+    7,
+    29,
+    37,
+    56,
+    11,
+    8,
+    43,
+    26,
+    0,
+    49,
+    38,
+    105,
+    36,
+    6,
+    8,
+    4,
+    11,
+    4,
+    19,
+    68,
+    0,
+    8,
+    13,
+    17,
+    18,
+    26,
+    76,
+    70,
+    12,
+    53,
+    7,
+    5,
+    24,
+    81,
+    8,
+    78,
+    35,
+    5,
+    19
+   ],
+   "analysis": {
+    "Historical trend": "2020: 332 (12 inn), 2021: 381 (13 inn), 2022: 268 (14 inn), 2023: 332 (16 inn), 2024: 417 (14 inn), 2025: 418 (15 inn), 2026: 137 (4 inn). Teams in data: SRH \u2192 MI.",
+    "Recent performance": "2026 (partial, to data cutoff): 137 runs in 4 innings, SR 165; last 10 innings: 315 runs, SR 150.",
+    "Strengths (data-derived)": "no split stands out by \u226515 SR points from the benchmark.",
+    "Risk factors": "batted in only 50% of the team's 2026 matches in the data.",
+    "2027 estimate": "247 runs (80% interval 16\u2013453) from 8.2 expected innings \u00d7 30.3 runs/innings; confidence **Medium**.",
+    "Scenarios": "full season (14 inn) 424; strong form 600; weak form 264; reduced time (8 inn) 242.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  },
+  {
+   "slug": "tim-david",
+   "name": "Tim David",
+   "dataset_name": "TH David",
+   "player_id": 6550,
+   "rank": 20,
+   "team_2026": "RCB",
+   "team_color": "#EC1C24",
+   "role": "Middle order / finisher",
+   "batting_position_w": 6.33,
+   "expected_runs": 194.74,
+   "lower_80": 4.13,
+   "upper_80": 364.5,
+   "expected_innings": 10.34,
+   "expected_rpi": 18.83,
+   "expected_average": 38.2,
+   "expected_sr": 176.81,
+   "confidence": "Medium",
+   "scenarios": {
+    "full": 263.68,
+    "strong": 373.46,
+    "weak": 164.19,
+    "reduced": 150.68
+   },
+   "share": [
+    0.89,
+    0.6,
+    0.79
+   ],
+   "history": [
+    {
+     "season": 2021,
+     "runs": 1,
+     "innings": 1,
+     "balls": 3,
+     "outs": 1,
+     "fifties": 0,
+     "team": "RCB"
+    },
+    {
+     "season": 2022,
+     "runs": 186,
+     "innings": 8,
+     "balls": 86,
+     "outs": 5,
+     "fifties": 0,
+     "team": "MI"
+    },
+    {
+     "season": 2023,
+     "runs": 231,
+     "innings": 15,
+     "balls": 146,
+     "outs": 9,
+     "fifties": 0,
+     "team": "MI"
+    },
+    {
+     "season": 2024,
+     "runs": 241,
+     "innings": 11,
+     "balls": 152,
+     "outs": 8,
+     "fifties": 0,
+     "team": "MI"
+    },
+    {
+     "season": 2025,
+     "runs": 187,
+     "innings": 9,
+     "balls": 101,
+     "outs": 3,
+     "fifties": 1,
+     "team": "RCB"
+    },
+    {
+     "season": 2026,
+     "runs": 192,
+     "innings": 8,
+     "balls": 100,
+     "outs": 3,
+     "fifties": 1,
+     "team": "RCB"
+    }
+   ],
+   "splits": {
+    "pace": {
+     "runs": 494,
+     "balls": 270,
+     "outs": 12
+    },
+    "spin": {
+     "runs": 126,
+     "balls": 83,
+     "outs": 2
+    },
+    "powerplay": {
+     "runs": 0,
+     "balls": 0,
+     "outs": 0
+    },
+    "middle": {
+     "runs": 167,
+     "balls": 121,
+     "outs": 3
+    },
+    "death": {
+     "runs": 453,
+     "balls": 232,
+     "outs": 11
+    }
+   },
+   "recent_innings": [
+    4,
+    31,
+    13,
+    24,
+    16,
+    25,
+    0,
+    45,
+    19,
+    2,
+    0,
+    5,
+    32,
+    13,
+    2,
+    11,
+    42,
+    17,
+    45,
+    13,
+    14,
+    3,
+    37,
+    35,
+    24,
+    0,
+    22,
+    32,
+    1,
+    37,
+    50,
+    23,
+    19,
+    2,
+    1,
+    16,
+    70,
+    13,
+    34,
+    14,
+    26,
+    10,
+    9
+   ],
+   "analysis": {
+    "Historical trend": "2021: 1 (1 inn), 2022: 186 (8 inn), 2023: 231 (15 inn), 2024: 241 (11 inn), 2025: 187 (9 inn), 2026: 192 (8 inn). Teams in data: RCB \u2192 MI \u2192 RCB.",
+    "Recent performance": "2026 (partial, to data cutoff): 192 runs in 8 innings, SR 192; last 10 innings: 195 runs, SR 181.",
+    "Strengths (data-derived)": "strike rate 183 vs pace (top-order benchmark 160, 270 balls).",
+    "Risk factors": "strike rate 138 vs middle (benchmark 154, 121 balls); middle/lower-order role (weighted batting position 6.3) caps balls per innings.",
+    "2027 estimate": "195 runs (80% interval 4\u2013364) from 10.3 expected innings \u00d7 18.8 runs/innings; confidence **Medium**.",
+    "Scenarios": "full season (14 inn) 264; strong form 373; weak form 164; reduced time (8 inn) 151.",
+    "Assumptions": "plays IPL 2027 with availability in line with the player's own recent history; role similar to 2024\u20132026; 2027 team, squad and batting position not known from the data."
+   }
+  }
+ ],
+ "backtest": [
+  {
+   "subset": "all active batters",
+   "model": "last_season",
+   "n": 2382.0,
+   "MAE": 63.8,
+   "RMSE": 117.1,
+   "bias": 9.1
+  },
+  {
+   "subset": "all active batters",
+   "model": "career_avg",
+   "n": 2382.0,
+   "MAE": 74.8,
+   "RMSE": 119.2,
+   "bias": 18.5
+  },
+  {
+   "subset": "all active batters",
+   "model": "marcel",
+   "n": 2382.0,
+   "MAE": 64.5,
+   "RMSE": 107.5,
+   "bias": 6.6
+  },
+  {
+   "subset": "all active batters",
+   "model": "ridge",
+   "n": 2382.0,
+   "MAE": 62.9,
+   "RMSE": 103.9,
+   "bias": 5.0
+  },
+  {
+   "subset": "all active batters",
+   "model": "rf",
+   "n": 2382.0,
+   "MAE": 62.7,
+   "RMSE": 104.2,
+   "bias": 2.8
+  },
+  {
+   "subset": "all active batters",
+   "model": "gbm",
+   "n": 2382.0,
+   "MAE": 62.8,
+   "RMSE": 106.2,
+   "bias": 1.5
+  },
+  {
+   "subset": "all active batters",
+   "model": "two_part",
+   "n": 2382.0,
+   "MAE": 60.4,
+   "RMSE": 102.6,
+   "bias": -0.2
+  },
+  {
+   "subset": "all active batters",
+   "model": "ens_ridge_two_part",
+   "n": 2382.0,
+   "MAE": 61.4,
+   "RMSE": 102.8,
+   "bias": 2.4
+  },
+  {
+   "subset": "established (\u2265250 runs in S-1)",
+   "model": "last_season",
+   "n": 393.0,
+   "MAE": 165.1,
+   "RMSE": 211.2,
+   "bias": 91.5
+  },
+  {
+   "subset": "established (\u2265250 runs in S-1)",
+   "model": "career_avg",
+   "n": 393.0,
+   "MAE": 149.2,
+   "RMSE": 188.5,
+   "bias": -6.5
+  },
+  {
+   "subset": "established (\u2265250 runs in S-1)",
+   "model": "marcel",
+   "n": 393.0,
+   "MAE": 142.0,
+   "RMSE": 181.9,
+   "bias": 9.7
+  },
+  {
+   "subset": "established (\u2265250 runs in S-1)",
+   "model": "ridge",
+   "n": 393.0,
+   "MAE": 138.7,
+   "RMSE": 175.7,
+   "bias": -3.5
+  },
+  {
+   "subset": "established (\u2265250 runs in S-1)",
+   "model": "rf",
+   "n": 393.0,
+   "MAE": 138.1,
+   "RMSE": 174.9,
+   "bias": -1.5
+  },
+  {
+   "subset": "established (\u2265250 runs in S-1)",
+   "model": "gbm",
+   "n": 393.0,
+   "MAE": 142.6,
+   "RMSE": 179.6,
+   "bias": 6.4
+  },
+  {
+   "subset": "established (\u2265250 runs in S-1)",
+   "model": "two_part",
+   "n": 393.0,
+   "MAE": 136.6,
+   "RMSE": 175.2,
+   "bias": -2.5
+  },
+  {
+   "subset": "established (\u2265250 runs in S-1)",
+   "model": "ens_ridge_two_part",
+   "n": 393.0,
+   "MAE": 137.0,
+   "RMSE": 174.8,
+   "bias": -3.0
+  }
+ ],
+ "bootstrap": [
+  {
+   "comparison": "two_part \u2212 last_season",
+   "subset": "all",
+   "MAE diff": -3.4,
+   "lo95": -5.6,
+   "hi95": -1.2
+  },
+  {
+   "comparison": "two_part \u2212 marcel",
+   "subset": "all",
+   "MAE diff": -4.1,
+   "lo95": -5.3,
+   "hi95": -2.9
+  },
+  {
+   "comparison": "two_part \u2212 ridge",
+   "subset": "all",
+   "MAE diff": -2.5,
+   "lo95": -3.3,
+   "hi95": -1.8
+  },
+  {
+   "comparison": "two_part \u2212 rf",
+   "subset": "all",
+   "MAE diff": -2.2,
+   "lo95": -3.2,
+   "hi95": -1.3
+  },
+  {
+   "comparison": "two_part \u2212 gbm",
+   "subset": "all",
+   "MAE diff": -2.4,
+   "lo95": -3.7,
+   "hi95": -1.2
+  },
+  {
+   "comparison": "two_part \u2212 last_season",
+   "subset": "established",
+   "MAE diff": -28.5,
+   "lo95": -39.0,
+   "hi95": -19.2
+  },
+  {
+   "comparison": "two_part \u2212 marcel",
+   "subset": "established",
+   "MAE diff": -5.4,
+   "lo95": -10.2,
+   "hi95": -0.4
+  },
+  {
+   "comparison": "two_part \u2212 ridge",
+   "subset": "established",
+   "MAE diff": -2.0,
+   "lo95": -4.9,
+   "hi95": 0.8
+  },
+  {
+   "comparison": "two_part \u2212 rf",
+   "subset": "established",
+   "MAE diff": -1.4,
+   "lo95": -5.7,
+   "hi95": 2.7
+  },
+  {
+   "comparison": "two_part \u2212 gbm",
+   "subset": "established",
+   "MAE diff": -5.9,
+   "lo95": -11.5,
+   "hi95": -0.2
+  }
+ ],
+ "components": [
+  {
+   "target": "innings",
+   "model": "two-part share model",
+   "MAE": 2.61
+  },
+  {
+   "target": "innings",
+   "model": "last season innings",
+   "MAE": 2.71
+  },
+  {
+   "target": "innings",
+   "model": "Marcel weighted share \u00d7 matches",
+   "MAE": 2.8
+  },
+  {
+   "target": "runs/innings (\u22655 inn)",
+   "model": "two-part rpi model",
+   "MAE": 5.9
+  },
+  {
+   "target": "runs/innings (\u22655 inn)",
+   "model": "last season rpi",
+   "MAE": 7.57
+  },
+  {
+   "target": "runs/innings (\u22655 inn)",
+   "model": "weighted shrunk rpi",
+   "MAE": 6.31
+  },
+  {
+   "target": "strike rate (\u2265100 balls)",
+   "model": "weighted shrunk SR",
+   "MAE": 15.86
+  },
+  {
+   "target": "strike rate (\u2265100 balls)",
+   "model": "last season SR",
+   "MAE": 20.09
+  }
+ ],
+ "intervals": [
+  {
+   "method": "conformal around two-part (used)",
+   "subset": "all",
+   "n": 1937.0,
+   "coverage_80": 0.809,
+   "below_lower": 0.084,
+   "above_upper": 0.107,
+   "mean_width": 166.0,
+   "contains_point": 1.0
+  },
+  {
+   "method": "conformal around two-part (used)",
+   "subset": "established",
+   "n": 327.0,
+   "coverage_80": 0.801,
+   "below_lower": 0.089,
+   "above_upper": 0.11,
+   "mean_width": 469.0,
+   "contains_point": 1.0
+  },
+  {
+   "method": "CQR quantile GBM",
+   "subset": "all",
+   "n": 1937.0,
+   "coverage_80": 0.871,
+   "below_lower": 0.007,
+   "above_upper": 0.121,
+   "mean_width": 179.0,
+   "contains_point": 0.956
+  },
+  {
+   "method": "CQR quantile GBM",
+   "subset": "established",
+   "n": 327.0,
+   "coverage_80": 0.807,
+   "below_lower": 0.031,
+   "above_upper": 0.162,
+   "mean_width": 441.0,
+   "contains_point": 1.0
+  }
+ ],
+ "intervals_by_season": [
+  {
+   "season": 2016.0,
+   "n": 28.0,
+   "coverage_80": 0.82
+  },
+  {
+   "season": 2017.0,
+   "n": 24.0,
+   "coverage_80": 0.83
+  },
+  {
+   "season": 2018.0,
+   "n": 35.0,
+   "coverage_80": 0.69
+  },
+  {
+   "season": 2019.0,
+   "n": 30.0,
+   "coverage_80": 0.9
+  },
+  {
+   "season": 2020.0,
+   "n": 33.0,
+   "coverage_80": 0.82
+  },
+  {
+   "season": 2021.0,
+   "n": 33.0,
+   "coverage_80": 0.88
+  },
+  {
+   "season": 2022.0,
+   "n": 24.0,
+   "coverage_80": 0.92
+  },
+  {
+   "season": 2023.0,
+   "n": 40.0,
+   "coverage_80": 0.62
+  },
+  {
+   "season": 2024.0,
+   "n": 41.0,
+   "coverage_80": 0.83
+  },
+  {
+   "season": 2025.0,
+   "n": 39.0,
+   "coverage_80": 0.79
+  }
+ ]
+}

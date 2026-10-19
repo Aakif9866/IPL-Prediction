@@ -1,0 +1,32 @@
+2026-10-19 22:45:59,872 iplpred.data INFO loaded 1212 matches, seasons 2008-2026
+2026-10-19 22:46:00,064 iplpred.data INFO loaded 1212 matches, seasons 2008-2026
+2026-10-19 22:46:01,014 run INFO match-level rolling-origin backtest
+2026-10-19 22:46:01,188 iplpred.models INFO season 2013: elo {'k': 2, 'carry': 0.5, 'home': 20}, train n=263, test n=76
+2026-10-19 22:46:01,375 iplpred.models INFO season 2014: elo {'k': 6, 'carry': 1.0, 'home': 40}, train n=339, test n=60
+2026-10-19 22:46:01,506 iplpred.models INFO season 2015: elo {'k': 10, 'carry': 0.9, 'home': 40}, train n=399, test n=57
+2026-10-19 22:46:01,638 iplpred.models INFO season 2016: elo {'k': 8, 'carry': 1.0, 'home': 40}, train n=456, test n=60
+2026-10-19 22:46:01,750 iplpred.models INFO season 2017: elo {'k': 6, 'carry': 1.0, 'home': 40}, train n=516, test n=59
+2026-10-19 22:46:01,867 iplpred.models INFO season 2018: elo {'k': 6, 'carry': 1.0, 'home': 40}, train n=575, test n=60
+2026-10-19 22:46:01,980 iplpred.models INFO season 2019: elo {'k': 6, 'carry': 1.0, 'home': 40}, train n=635, test n=59
+2026-10-19 22:46:02,107 iplpred.models INFO season 2020: elo {'k': 6, 'carry': 1.0, 'home': 40}, train n=694, test n=60
+2026-10-19 22:46:02,268 iplpred.models INFO season 2021: elo {'k': 6, 'carry': 1.0, 'home': 40}, train n=754, test n=60
+2026-10-19 22:46:02,405 iplpred.models INFO season 2022: elo {'k': 4, 'carry': 1.0, 'home': 40}, train n=814, test n=74
+2026-10-19 22:46:02,544 iplpred.models INFO season 2023: elo {'k': 4, 'carry': 0.9, 'home': 40}, train n=888, test n=73
+2026-10-19 22:46:02,671 iplpred.models INFO season 2024: elo {'k': 4, 'carry': 0.9, 'home': 20}, train n=961, test n=71
+2026-10-19 22:46:02,781 iplpred.models INFO season 2025: elo {'k': 4, 'carry': 0.9, 'home': 20}, train n=1032, test n=71
+2026-10-19 22:46:02,933 iplpred.models INFO season 2026: elo {'k': 4, 'carry': 0.8, 'home': 20}, train n=1103, test n=42
+2026-10-19 22:46:03,029 run INFO pre-tournament backtest
+2026-10-19 22:46:14,966 run INFO tournament backtest
+2026-10-19 22:46:16,062 run INFO IPL 2027 simulation
+2026-10-19 22:46:17,013 run INFO done -> /Users/shaikyasin/Documents/AI/IPL prediction/outputs
+team                        name  elo_end_of_data  mu_2027_at_mle  p_playoffs  p_final  p_champion  exp_points
+ RCB Royal Challengers Bengaluru           1515.7          1515.7        45.9     24.5        12.9        14.5
+  GT              Gujarat Titans           1512.5          1512.5        46.0     24.4        12.2        14.5
+PBKS                Punjab Kings           1506.6          1506.6        42.5     21.5        11.0        14.2
+ KKR       Kolkata Knight Riders           1496.0          1496.0        38.2     18.9         9.9        13.9
+ SRH         Sunrisers Hyderabad           1499.6          1499.6        39.3     19.4         9.8        13.9
+  RR            Rajasthan Royals           1498.6          1498.6        39.7     19.8         9.5        14.0
+  DC              Delhi Capitals           1495.6          1495.6        38.4     18.5         9.1        13.8
+ LSG        Lucknow Super Giants           1494.5          1494.5        38.0     18.4         8.9        13.8
+ CSK         Chennai Super Kings           1492.7          1492.7        36.8     17.8         8.4        13.7
+  MI              Mumbai Indians           1491.5          1491.5        35.3     16.8         8.2        13.6

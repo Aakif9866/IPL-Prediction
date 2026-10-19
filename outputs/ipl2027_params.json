@@ -1,0 +1,26 @@
+{
+  "elo": {
+    "k": 4,
+    "carry": 0.8,
+    "home": 20
+  },
+  "mle_shrink_tau": [
+    1.25,
+    0
+  ],
+  "n_sims": 20000,
+  "n_schedules": 20,
+  "data_cutoff": "2026-05-01",
+  "teams": [
+    "CSK",
+    "DC",
+    "GT",
+    "KKR",
+    "LSG",
+    "MI",
+    "PBKS",
+    "RCB",
+    "RR",
+    "SRH"
+  ]
+}

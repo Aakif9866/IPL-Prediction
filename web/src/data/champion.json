@@ -1,0 +1,1831 @@
+{
+ "meta": {
+  "data_cutoff": "2026-05-01",
+  "n_sims": 20000,
+  "elo": {
+   "k": 4,
+   "carry": 0.8,
+   "home": 20
+  },
+  "base": 1500.0,
+  "format": "2022\u20132026 IPL format: 10 teams, 14 league matches each (two groups drawn at random per simulation), top-4 Qualifier/Eliminator playoffs"
+ },
+ "teams": [
+  {
+   "code": "RCB",
+   "name": "Royal Challengers Bengaluru",
+   "color": "#EC1C24",
+   "p_playoffs": 0.4585303196081077,
+   "p_final": 0.2452361567699759,
+   "p_champion": 0.1290276387869345,
+   "exp_points": 14.546015253099997,
+   "elo_end": 1515.6897425443474,
+   "start_2027": 1512.551794035478,
+   "tau_sensitivity": {
+    "tau=0": 0.1333,
+    "tau=50": 0.1273,
+    "tau=100": 0.1195,
+    "tau=150": 0.1169
+   },
+   "elo_history": [
+    {
+     "season": 2008,
+     "elo": 1488.5
+    },
+    {
+     "season": 2009,
+     "elo": 1495.8
+    },
+    {
+     "season": 2010,
+     "elo": 1496.8
+    },
+    {
+     "season": 2011,
+     "elo": 1505.9
+    },
+    {
+     "season": 2012,
+     "elo": 1506.2
+    },
+    {
+     "season": 2013,
+     "elo": 1508.1
+    },
+    {
+     "season": 2014,
+     "elo": 1498.3
+    },
+    {
+     "season": 2015,
+     "elo": 1503.4
+    },
+    {
+     "season": 2016,
+     "elo": 1506.2
+    },
+    {
+     "season": 2017,
+     "elo": 1491.2
+    },
+    {
+     "season": 2018,
+     "elo": 1490.0
+    },
+    {
+     "season": 2019,
+     "elo": 1487.5
+    },
+    {
+     "season": 2020,
+     "elo": 1486.9
+    },
+    {
+     "season": 2021,
+     "elo": 1496.2
+    },
+    {
+     "season": 2022,
+     "elo": 1501.1
+    },
+    {
+     "season": 2023,
+     "elo": 1500.9
+    },
+    {
+     "season": 2024,
+     "elo": 1499.1
+    },
+    {
+     "season": 2025,
+     "elo": 1513.2
+    },
+    {
+     "season": 2026,
+     "elo": 1515.7
+    }
+   ],
+   "titles": [
+    2025
+   ],
+   "finals": [
+    2009,
+    2011,
+    2016,
+    2025
+   ],
+   "playoffs": [
+    2009,
+    2010,
+    2011,
+    2015,
+    2016,
+    2020,
+    2021,
+    2022,
+    2024,
+    2025
+   ],
+   "seasons": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ],
+   "record_2025": {
+    "played": 15,
+    "won": 11,
+    "no_result": 0
+   },
+   "record_2026": {
+    "played": 9,
+    "won": 6,
+    "no_result": 0
+   }
+  },
+  {
+   "code": "GT",
+   "name": "Gujarat Titans",
+   "color": "#1C2C5B",
+   "p_playoffs": 0.4602986363474212,
+   "p_final": 0.2440127819062698,
+   "p_champion": 0.1217146819044145,
+   "exp_points": 14.549906046988884,
+   "elo_end": 1512.5311479254865,
+   "start_2027": 1510.0249183403891,
+   "tau_sensitivity": {
+    "tau=0": 0.12935,
+    "tau=50": 0.1263499999999999,
+    "tau=100": 0.1179,
+    "tau=150": 0.11235
+   },
+   "elo_history": [
+    {
+     "season": 2022,
+     "elo": 1515.2
+    },
+    {
+     "season": 2023,
+     "elo": 1520.5
+    },
+    {
+     "season": 2024,
+     "elo": 1511.2
+    },
+    {
+     "season": 2025,
+     "elo": 1513.6
+    },
+    {
+     "season": 2026,
+     "elo": 1512.5
+    }
+   ],
+   "titles": [
+    2022
+   ],
+   "finals": [
+    2022,
+    2023
+   ],
+   "playoffs": [
+    2022,
+    2023,
+    2025
+   ],
+   "seasons": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ],
+   "record_2025": {
+    "played": 15,
+    "won": 9,
+    "no_result": 0
+   },
+   "record_2026": {
+    "played": 9,
+    "won": 5,
+    "no_result": 0
+   }
+  },
+  {
+   "code": "PBKS",
+   "name": "Punjab Kings",
+   "color": "#DD1F2D",
+   "p_playoffs": 0.4249901465307349,
+   "p_final": 0.2153133781786358,
+   "p_champion": 0.1100822901015217,
+   "exp_points": 14.196356182320644,
+   "elo_end": 1506.588885761519,
+   "start_2027": 1505.271108609215,
+   "tau_sensitivity": {
+    "tau=0": 0.1132,
+    "tau=50": 0.1127499999999999,
+    "tau=100": 0.1095,
+    "tau=150": 0.1035
+   },
+   "elo_history": [
+    {
+     "season": 2008,
+     "elo": 1509.6
+    },
+    {
+     "season": 2009,
+     "elo": 1507.1
+    },
+    {
+     "season": 2010,
+     "elo": 1491.9
+    },
+    {
+     "season": 2011,
+     "elo": 1493.9
+    },
+    {
+     "season": 2012,
+     "elo": 1495.7
+    },
+    {
+     "season": 2013,
+     "elo": 1497.3
+    },
+    {
+     "season": 2014,
+     "elo": 1511.9
+    },
+    {
+     "season": 2015,
+     "elo": 1491.9
+    },
+    {
+     "season": 2016,
+     "elo": 1482.4
+    },
+    {
+     "season": 2017,
+     "elo": 1487.2
+    },
+    {
+     "season": 2018,
+     "elo": 1486.5
+    },
+    {
+     "season": 2019,
+     "elo": 1486.2
+    },
+    {
+     "season": 2020,
+     "elo": 1486.3
+    },
+    {
+     "season": 2021,
+     "elo": 1486.4
+    },
+    {
+     "season": 2022,
+     "elo": 1490.2
+    },
+    {
+     "season": 2023,
+     "elo": 1488.7
+    },
+    {
+     "season": 2024,
+     "elo": 1484.2
+    },
+    {
+     "season": 2025,
+     "elo": 1496.1
+    },
+    {
+     "season": 2026,
+     "elo": 1506.6
+    }
+   ],
+   "titles": [],
+   "finals": [
+    2014,
+    2025
+   ],
+   "playoffs": [
+    2008,
+    2014,
+    2025
+   ],
+   "seasons": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ],
+   "record_2025": {
+    "played": 18,
+    "won": 10,
+    "no_result": 2
+   },
+   "record_2026": {
+    "played": 8,
+    "won": 6,
+    "no_result": 1
+   }
+  },
+  {
+   "code": "KKR",
+   "name": "Kolkata Knight Riders",
+   "color": "#3A225D",
+   "p_playoffs": 0.3815603362243318,
+   "p_final": 0.1889342915365994,
+   "p_champion": 0.098962717572512,
+   "exp_points": 13.885378333820192,
+   "elo_end": 1496.0040289605172,
+   "start_2027": 1496.8032231684138,
+   "tau_sensitivity": {
+    "tau=0": 0.09025,
+    "tau=50": 0.09085,
+    "tau=100": 0.092,
+    "tau=150": 0.09205
+   },
+   "elo_history": [
+    {
+     "season": 2008,
+     "elo": 1498.0
+    },
+    {
+     "season": 2009,
+     "elo": 1487.0
+    },
+    {
+     "season": 2010,
+     "elo": 1490.3
+    },
+    {
+     "season": 2011,
+     "elo": 1494.8
+    },
+    {
+     "season": 2012,
+     "elo": 1510.4
+    },
+    {
+     "season": 2013,
+     "elo": 1500.1
+    },
+    {
+     "season": 2014,
+     "elo": 1514.3
+    },
+    {
+     "season": 2015,
+     "elo": 1512.4
+    },
+    {
+     "season": 2016,
+     "elo": 1510.7
+    },
+    {
+     "season": 2017,
+     "elo": 1511.4
+    },
+    {
+     "season": 2018,
+     "elo": 1512.3
+    },
+    {
+     "season": 2019,
+     "elo": 1506.9
+    },
+    {
+     "season": 2020,
+     "elo": 1503.2
+    },
+    {
+     "season": 2021,
+     "elo": 1504.7
+    },
+    {
+     "season": 2022,
+     "elo": 1499.6
+    },
+    {
+     "season": 2023,
+     "elo": 1496.0
+    },
+    {
+     "season": 2024,
+     "elo": 1512.1
+    },
+    {
+     "season": 2025,
+     "elo": 1504.9
+    },
+    {
+     "season": 2026,
+     "elo": 1496.0
+    }
+   ],
+   "titles": [
+    2012,
+    2014,
+    2024
+   ],
+   "finals": [
+    2012,
+    2014,
+    2021,
+    2024
+   ],
+   "playoffs": [
+    2011,
+    2012,
+    2014,
+    2016,
+    2017,
+    2018,
+    2021,
+    2024
+   ],
+   "seasons": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ],
+   "record_2025": {
+    "played": 13,
+    "won": 5,
+    "no_result": 1
+   },
+   "record_2026": {
+    "played": 8,
+    "won": 1,
+    "no_result": 1
+   }
+  },
+  {
+   "code": "SRH",
+   "name": "Sunrisers Hyderabad",
+   "color": "#FF822A",
+   "p_playoffs": 0.3931543928006712,
+   "p_final": 0.1944174141429224,
+   "p_champion": 0.0975624336400116,
+   "exp_points": 13.9232035433424,
+   "elo_end": 1499.5601971321576,
+   "start_2027": 1499.6481577057261,
+   "tau_sensitivity": {
+    "tau=0": 0.09535,
+    "tau=50": 0.0957,
+    "tau=100": 0.09455,
+    "tau=150": 0.095
+   },
+   "elo_history": [
+    {
+     "season": 2013,
+     "elo": 1504.1
+    },
+    {
+     "season": 2014,
+     "elo": 1499.6
+    },
+    {
+     "season": 2015,
+     "elo": 1500.3
+    },
+    {
+     "season": 2016,
+     "elo": 1509.8
+    },
+    {
+     "season": 2017,
+     "elo": 1510.9
+    },
+    {
+     "season": 2018,
+     "elo": 1513.7
+    },
+    {
+     "season": 2019,
+     "elo": 1506.2
+    },
+    {
+     "season": 2020,
+     "elo": 1506.6
+    },
+    {
+     "season": 2021,
+     "elo": 1491.6
+    },
+    {
+     "season": 2022,
+     "elo": 1490.0
+    },
+    {
+     "season": 2023,
+     "elo": 1481.0
+    },
+    {
+     "season": 2024,
+     "elo": 1490.2
+    },
+    {
+     "season": 2025,
+     "elo": 1491.3
+    },
+    {
+     "season": 2026,
+     "elo": 1499.6
+    }
+   ],
+   "titles": [
+    2016
+   ],
+   "finals": [
+    2016,
+    2018,
+    2024
+   ],
+   "playoffs": [
+    2013,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2024
+   ],
+   "seasons": [
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ],
+   "record_2025": {
+    "played": 14,
+    "won": 6,
+    "no_result": 1
+   },
+   "record_2026": {
+    "played": 9,
+    "won": 6,
+    "no_result": 0
+   }
+  },
+  {
+   "code": "RR",
+   "name": "Rajasthan Royals",
+   "color": "#EA1A85",
+   "p_playoffs": 0.396982660495406,
+   "p_final": 0.1975983461027952,
+   "p_champion": 0.0953523604332798,
+   "exp_points": 13.978402448149946,
+   "elo_end": 1498.5665244579216,
+   "start_2027": 1498.8532195663372,
+   "tau_sensitivity": {
+    "tau=0": 0.09225,
+    "tau=50": 0.0959,
+    "tau=100": 0.09855,
+    "tau=150": 0.0992
+   },
+   "elo_history": [
+    {
+     "season": 2008,
+     "elo": 1519.2
+    },
+    {
+     "season": 2009,
+     "elo": 1510.3
+    },
+    {
+     "season": 2010,
+     "elo": 1503.8
+    },
+    {
+     "season": 2011,
+     "elo": 1500.8
+    },
+    {
+     "season": 2012,
+     "elo": 1496.5
+    },
+    {
+     "season": 2013,
+     "elo": 1505.3
+    },
+    {
+     "season": 2014,
+     "elo": 1502.6
+    },
+    {
+     "season": 2015,
+     "elo": 1506.1
+    },
+    {
+     "season": 2018,
+     "elo": 1501.3
+    },
+    {
+     "season": 2019,
+     "elo": 1495.6
+    },
+    {
+     "season": 2020,
+     "elo": 1493.1
+    },
+    {
+     "season": 2021,
+     "elo": 1487.3
+    },
+    {
+     "season": 2022,
+     "elo": 1496.8
+    },
+    {
+     "season": 2023,
+     "elo": 1497.6
+    },
+    {
+     "season": 2024,
+     "elo": 1503.6
+    },
+    {
+     "season": 2025,
+     "elo": 1493.2
+    },
+    {
+     "season": 2026,
+     "elo": 1498.6
+    }
+   ],
+   "titles": [
+    2008
+   ],
+   "finals": [
+    2008,
+    2022
+   ],
+   "playoffs": [
+    2008,
+    2013,
+    2015,
+    2018,
+    2022,
+    2024
+   ],
+   "seasons": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ],
+   "record_2025": {
+    "played": 14,
+    "won": 5,
+    "no_result": 0
+   },
+   "record_2026": {
+    "played": 10,
+    "won": 6,
+    "no_result": 0
+   }
+  },
+  {
+   "code": "DC",
+   "name": "Delhi Capitals",
+   "color": "#17479E",
+   "p_playoffs": 0.3841246437989997,
+   "p_final": 0.1850620597152463,
+   "p_champion": 0.0912338585655481,
+   "exp_points": 13.83859999433524,
+   "elo_end": 1495.5865422558772,
+   "start_2027": 1496.4692338047018,
+   "tau_sensitivity": {
+    "tau=0": 0.09195,
+    "tau=50": 0.09185,
+    "tau=100": 0.0961,
+    "tau=150": 0.09935
+   },
+   "elo_history": [
+    {
+     "season": 2008,
+     "elo": 1500.0
+    },
+    {
+     "season": 2009,
+     "elo": 1509.2
+    },
+    {
+     "season": 2010,
+     "elo": 1506.5
+    },
+    {
+     "season": 2011,
+     "elo": 1495.1
+    },
+    {
+     "season": 2012,
+     "elo": 1504.1
+    },
+    {
+     "season": 2013,
+     "elo": 1486.1
+    },
+    {
+     "season": 2014,
+     "elo": 1470.7
+    },
+    {
+     "season": 2015,
+     "elo": 1472.7
+    },
+    {
+     "season": 2016,
+     "elo": 1479.7
+    },
+    {
+     "season": 2017,
+     "elo": 1481.5
+    },
+    {
+     "season": 2018,
+     "elo": 1479.2
+    },
+    {
+     "season": 2019,
+     "elo": 1490.9
+    },
+    {
+     "season": 2020,
+     "elo": 1493.7
+    },
+    {
+     "season": 2021,
+     "elo": 1501.2
+    },
+    {
+     "season": 2022,
+     "elo": 1501.2
+    },
+    {
+     "season": 2023,
+     "elo": 1493.4
+    },
+    {
+     "season": 2024,
+     "elo": 1495.6
+    },
+    {
+     "season": 2025,
+     "elo": 1496.5
+    },
+    {
+     "season": 2026,
+     "elo": 1495.6
+    }
+   ],
+   "titles": [],
+   "finals": [
+    2020
+   ],
+   "playoffs": [
+    2008,
+    2009,
+    2012,
+    2019,
+    2020,
+    2021
+   ],
+   "seasons": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ],
+   "record_2025": {
+    "played": 15,
+    "won": 6,
+    "no_result": 2
+   },
+   "record_2026": {
+    "played": 9,
+    "won": 4,
+    "no_result": 0
+   }
+  },
+  {
+   "code": "LSG",
+   "name": "Lucknow Super Giants",
+   "color": "#A72056",
+   "p_playoffs": 0.3798455897695038,
+   "p_final": 0.1835020049668712,
+   "p_champion": 0.0894514627409171,
+   "exp_points": 13.81118022822655,
+   "elo_end": 1494.539637380197,
+   "start_2027": 1495.6317099041576,
+   "tau_sensitivity": {
+    "tau=0": 0.0875499999999999,
+    "tau=50": 0.08925,
+    "tau=100": 0.09045,
+    "tau=150": 0.0968
+   },
+   "elo_history": [
+    {
+     "season": 2022,
+     "elo": 1505.9
+    },
+    {
+     "season": 2023,
+     "elo": 1508.4
+    },
+    {
+     "season": 2024,
+     "elo": 1506.2
+    },
+    {
+     "season": 2025,
+     "elo": 1500.5
+    },
+    {
+     "season": 2026,
+     "elo": 1494.5
+    }
+   ],
+   "titles": [],
+   "finals": [],
+   "playoffs": [
+    2022,
+    2023
+   ],
+   "seasons": [
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ],
+   "record_2025": {
+    "played": 14,
+    "won": 6,
+    "no_result": 0
+   },
+   "record_2026": {
+    "played": 8,
+    "won": 3,
+    "no_result": 0
+   }
+  },
+  {
+   "code": "CSK",
+   "name": "Chennai Super Kings",
+   "color": "#F9CD05",
+   "p_playoffs": 0.3676187162678181,
+   "p_final": 0.1783958855298048,
+   "p_champion": 0.0844634623136513,
+   "exp_points": 13.687410665935364,
+   "elo_end": 1492.6614459395423,
+   "start_2027": 1494.1291567516341,
+   "tau_sensitivity": {
+    "tau=0": 0.0850499999999999,
+    "tau=50": 0.0854999999999999,
+    "tau=100": 0.0899,
+    "tau=150": 0.0903
+   },
+   "elo_history": [
+    {
+     "season": 2008,
+     "elo": 1503.7
+    },
+    {
+     "season": 2009,
+     "elo": 1506.6
+    },
+    {
+     "season": 2010,
+     "elo": 1510.7
+    },
+    {
+     "season": 2011,
+     "elo": 1519.3
+    },
+    {
+     "season": 2012,
+     "elo": 1517.7
+    },
+    {
+     "season": 2013,
+     "elo": 1524.3
+    },
+    {
+     "season": 2014,
+     "elo": 1526.0
+    },
+    {
+     "season": 2015,
+     "elo": 1524.4
+    },
+    {
+     "season": 2018,
+     "elo": 1523.7
+    },
+    {
+     "season": 2019,
+     "elo": 1522.7
+    },
+    {
+     "season": 2020,
+     "elo": 1513.0
+    },
+    {
+     "season": 2021,
+     "elo": 1520.9
+    },
+    {
+     "season": 2022,
+     "elo": 1504.0
+    },
+    {
+     "season": 2023,
+     "elo": 1512.7
+    },
+    {
+     "season": 2024,
+     "elo": 1509.3
+    },
+    {
+     "season": 2025,
+     "elo": 1495.5
+    },
+    {
+     "season": 2026,
+     "elo": 1492.7
+    }
+   ],
+   "titles": [
+    2010,
+    2011,
+    2018,
+    2021,
+    2023
+   ],
+   "finals": [
+    2008,
+    2010,
+    2011,
+    2012,
+    2013,
+    2015,
+    2018,
+    2019,
+    2021,
+    2023
+   ],
+   "playoffs": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2018,
+    2019,
+    2021,
+    2023
+   ],
+   "seasons": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ],
+   "record_2025": {
+    "played": 14,
+    "won": 4,
+    "no_result": 0
+   },
+   "record_2026": {
+    "played": 8,
+    "won": 3,
+    "no_result": 0
+   }
+  },
+  {
+   "code": "MI",
+   "name": "Mumbai Indians",
+   "color": "#004BA0",
+   "p_playoffs": 0.3528945581570047,
+   "p_final": 0.1675276811508784,
+   "p_champion": 0.0821490939412088,
+   "exp_points": 13.58354730378075,
+   "elo_end": 1491.5046085560875,
+   "start_2027": 1493.20368684487,
+   "tau_sensitivity": {
+    "tau=0": 0.0817499999999999,
+    "tau=50": 0.0845499999999999,
+    "tau=100": 0.0915499999999999,
+    "tau=150": 0.09455
+   },
+   "elo_history": [
+    {
+     "season": 2008,
+     "elo": 1500.2
+    },
+    {
+     "season": 2009,
+     "elo": 1494.2
+    },
+    {
+     "season": 2010,
+     "elo": 1506.6
+    },
+    {
+     "season": 2011,
+     "elo": 1511.7
+    },
+    {
+     "season": 2012,
+     "elo": 1514.3
+    },
+    {
+     "season": 2013,
+     "elo": 1524.0
+    },
+    {
+     "season": 2014,
+     "elo": 1516.1
+    },
+    {
+     "season": 2015,
+     "elo": 1520.3
+    },
+    {
+     "season": 2016,
+     "elo": 1515.3
+    },
+    {
+     "season": 2017,
+     "elo": 1522.3
+    },
+    {
+     "season": 2018,
+     "elo": 1512.7
+    },
+    {
+     "season": 2019,
+     "elo": 1519.4
+    },
+    {
+     "season": 2020,
+     "elo": 1529.4
+    },
+    {
+     "season": 2021,
+     "elo": 1521.6
+    },
+    {
+     "season": 2022,
+     "elo": 1503.9
+    },
+    {
+     "season": 2023,
+     "elo": 1507.1
+    },
+    {
+     "season": 2024,
+     "elo": 1493.6
+    },
+    {
+     "season": 2025,
+     "elo": 1499.4
+    },
+    {
+     "season": 2026,
+     "elo": 1491.5
+    }
+   ],
+   "titles": [
+    2013,
+    2015,
+    2017,
+    2019,
+    2020
+   ],
+   "finals": [
+    2010,
+    2013,
+    2015,
+    2017,
+    2019,
+    2020
+   ],
+   "playoffs": [
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2017,
+    2019,
+    2020,
+    2023,
+    2025
+   ],
+   "seasons": [
+    2008,
+    2009,
+    2010,
+    2011,
+    2012,
+    2013,
+    2014,
+    2015,
+    2016,
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024,
+    2025,
+    2026
+   ],
+   "record_2025": {
+    "played": 16,
+    "won": 9,
+    "no_result": 0
+   },
+   "record_2026": {
+    "played": 8,
+    "won": 2,
+    "no_result": 0
+   }
+  }
+ ],
+ "posterior": [
+  {
+   "shrink": 1.25,
+   "tau": 0,
+   "weight": 0.0862964547111695
+  },
+  {
+   "shrink": 1.0,
+   "tau": 0,
+   "weight": 0.0853132871857169
+  },
+  {
+   "shrink": 1.5,
+   "tau": 0,
+   "weight": 0.0789846281672324
+  },
+  {
+   "shrink": 0.75,
+   "tau": 0,
+   "weight": 0.0762970965020125
+  },
+  {
+   "shrink": 1.25,
+   "tau": 25,
+   "weight": 0.0754887562385604
+  },
+  {
+   "shrink": 1.0,
+   "tau": 25,
+   "weight": 0.0743745373968098
+  },
+  {
+   "shrink": 1.5,
+   "tau": 25,
+   "weight": 0.0699110804131393
+  },
+  {
+   "shrink": 0.75,
+   "tau": 25,
+   "weight": 0.0668476664486077
+  },
+  {
+   "shrink": 0.5,
+   "tau": 0,
+   "weight": 0.0617141516571165
+  },
+  {
+   "shrink": 0.5,
+   "tau": 25,
+   "weight": 0.0548023291488188
+  },
+  {
+   "shrink": 2.0,
+   "tau": 0,
+   "weight": 0.049079512544894
+  },
+  {
+   "shrink": 2.0,
+   "tau": 25,
+   "weight": 0.0455948358107064
+  },
+  {
+   "shrink": 0.25,
+   "tau": 0,
+   "weight": 0.0451428065619287
+  },
+  {
+   "shrink": 0.25,
+   "tau": 25,
+   "weight": 0.0409741714004248
+  },
+  {
+   "shrink": 1.25,
+   "tau": 50,
+   "weight": 0.0149724038422995
+  },
+  {
+   "shrink": 1.0,
+   "tau": 50,
+   "weight": 0.0148028414377561
+  },
+  {
+   "shrink": 1.5,
+   "tau": 50,
+   "weight": 0.0140732060528805
+  },
+  {
+   "shrink": 0.75,
+   "tau": 50,
+   "weight": 0.0135982304114223
+  },
+  {
+   "shrink": 0.5,
+   "tau": 50,
+   "weight": 0.0116048290925875
+  },
+  {
+   "shrink": 2.0,
+   "tau": 50,
+   "weight": 0.0099857122492282
+  },
+  {
+   "shrink": 0.25,
+   "tau": 50,
+   "weight": 0.009199327975773
+  },
+  {
+   "shrink": 1.0,
+   "tau": 75,
+   "weight": 0.0001525331968962
+  },
+  {
+   "shrink": 1.25,
+   "tau": 75,
+   "weight": 0.0001523731299051
+  },
+  {
+   "shrink": 0.75,
+   "tau": 75,
+   "weight": 0.0001444539649164
+  },
+  {
+   "shrink": 1.5,
+   "tau": 75,
+   "weight": 0.000144024803101
+  },
+  {
+   "shrink": 0.5,
+   "tau": 75,
+   "weight": 0.0001293988365953
+  },
+  {
+   "shrink": 0.25,
+   "tau": 75,
+   "weight": 0.0001096216235925
+  },
+  {
+   "shrink": 2.0,
+   "tau": 75,
+   "weight": 0.0001090849707168
+  },
+  {
+   "shrink": 1.0,
+   "tau": 100,
+   "weight": 1.0150955683149544e-07
+  },
+  {
+   "shrink": 1.25,
+   "tau": 100,
+   "weight": 9.974177779163467e-08
+  },
+  {
+   "shrink": 0.75,
+   "tau": 100,
+   "weight": 9.908630319849635e-08
+  },
+  {
+   "shrink": 1.5,
+   "tau": 100,
+   "weight": 9.40167161284498e-08
+  },
+  {
+   "shrink": 0.5,
+   "tau": 100,
+   "weight": 9.2751291010986e-08
+  },
+  {
+   "shrink": 0.25,
+   "tau": 100,
+   "weight": 8.32438951004413e-08
+  },
+  {
+   "shrink": 2.0,
+   "tau": 100,
+   "weight": 7.380333406677307e-08
+  },
+  {
+   "shrink": 1.0,
+   "tau": 125,
+   "weight": 1.1163322646791638e-11
+  },
+  {
+   "shrink": 0.75,
+   "tau": 125,
+   "weight": 1.1145648311326772e-11
+  },
+  {
+   "shrink": 1.25,
+   "tau": 125,
+   "weight": 1.0826570481331424e-11
+  },
+  {
+   "shrink": 0.5,
+   "tau": 125,
+   "weight": 1.0773553934676484e-11
+  },
+  {
+   "shrink": 1.5,
+   "tau": 125,
+   "weight": 1.0168831497018324e-11
+  },
+  {
+   "shrink": 0.25,
+   "tau": 125,
+   "weight": 1.0080749906291662e-11
+  },
+  {
+   "shrink": 2.0,
+   "tau": 125,
+   "weight": 8.15459051937239e-12
+  },
+  {
+   "shrink": 0.75,
+   "tau": 150,
+   "weight": 4.792004596115136e-16
+  },
+  {
+   "shrink": 1.0,
+   "tau": 150,
+   "weight": 4.73462256640417e-16
+  },
+  {
+   "shrink": 0.5,
+   "tau": 150,
+   "weight": 4.727060315210056e-16
+  },
+  {
+   "shrink": 1.25,
+   "tau": 150,
+   "weight": 4.559797170439262e-16
+  },
+  {
+   "shrink": 0.25,
+   "tau": 150,
+   "weight": 4.544227365010431e-16
+  },
+  {
+   "shrink": 1.5,
+   "tau": 150,
+   "weight": 4.281053335953006e-16
+  },
+  {
+   "shrink": 2.0,
+   "tau": 150,
+   "weight": 3.498025024266513e-16
+  }
+ ],
+ "match_backtest": [
+  {
+   "model": "coin",
+   "n": 882.0,
+   "log_loss": 0.6931,
+   "brier": 0.25,
+   "auc": null,
+   "accuracy": null
+  },
+  {
+   "model": "winpct",
+   "n": 882.0,
+   "log_loss": 0.6966,
+   "brier": 0.2516,
+   "auc": 0.5316,
+   "accuracy": 0.5257
+  },
+  {
+   "model": "elo",
+   "n": 882.0,
+   "log_loss": 0.6942,
+   "brier": 0.2505,
+   "auc": 0.5266,
+   "accuracy": 0.5085
+  },
+  {
+   "model": "logreg",
+   "n": 882.0,
+   "log_loss": 0.6988,
+   "brier": 0.2527,
+   "auc": 0.5155,
+   "accuracy": 0.4977
+  },
+  {
+   "model": "gbm",
+   "n": 882.0,
+   "log_loss": 0.7188,
+   "brier": 0.2622,
+   "auc": 0.4818,
+   "accuracy": 0.4909
+  },
+  {
+   "model": "ens_elo_lr",
+   "n": 882.0,
+   "log_loss": 0.696,
+   "brier": 0.2514,
+   "auc": 0.5181,
+   "accuracy": 0.5057
+  },
+  {
+   "model": "logreg_toss",
+   "n": 882.0,
+   "log_loss": 0.6985,
+   "brier": 0.2525,
+   "auc": 0.52,
+   "accuracy": 0.5181
+  }
+ ],
+ "bootstrap": [
+  {
+   "comparison": "elo - coin",
+   "mean": 0.001,
+   "lo95": -0.0069,
+   "hi95": 0.0098
+  },
+  {
+   "comparison": "logreg - coin",
+   "mean": 0.0057,
+   "lo95": -0.0041,
+   "hi95": 0.0167
+  },
+  {
+   "comparison": "gbm - coin",
+   "mean": 0.0257,
+   "lo95": 0.0114,
+   "hi95": 0.0402
+  },
+  {
+   "comparison": "winpct - coin",
+   "mean": 0.0034,
+   "lo95": -0.0074,
+   "hi95": 0.014
+  },
+  {
+   "comparison": "logreg - elo",
+   "mean": 0.0046,
+   "lo95": 0.0003,
+   "hi95": 0.0088
+  },
+  {
+   "comparison": "gbm - elo",
+   "mean": 0.0247,
+   "lo95": 0.0123,
+   "hi95": 0.0373
+  },
+  {
+   "comparison": "ens_elo_lr - elo",
+   "mean": 0.0018,
+   "lo95": -0.0003,
+   "hi95": 0.0039
+  },
+  {
+   "comparison": "logreg_toss - logreg",
+   "mean": -0.0003,
+   "lo95": -0.0021,
+   "hi95": 0.0016
+  }
+ ],
+ "pre_tournament": [
+  {
+   "model": "coin",
+   "n": 830.0,
+   "log_loss": 0.6931,
+   "brier": 0.25,
+   "auc": null,
+   "accuracy": null
+  },
+  {
+   "model": "pre_tournament",
+   "n": 830.0,
+   "log_loss": 0.6952,
+   "brier": 0.251,
+   "auc": 0.5228,
+   "accuracy": 0.506
+  }
+ ],
+ "tournament_backtest": [
+  {
+   "season": 2013,
+   "n_teams": 9,
+   "champion": "MI",
+   "p_champion": 0.1108348639827223,
+   "rank_of_champion": 6,
+   "favourite": "RR",
+   "p_favourite": 0.1333845611590323,
+   "playoff_brier": 0.2434094031219729,
+   "playoff_brier_uniform": 0.2469135802469136
+  },
+  {
+   "season": 2014,
+   "n_teams": 8,
+   "champion": "KKR",
+   "p_champion": 0.0913418124397549,
+   "rank_of_champion": 7,
+   "favourite": "CSK",
+   "p_favourite": 0.2034392188288467,
+   "playoff_brier": 0.2217462152073836,
+   "playoff_brier_uniform": 0.25
+  },
+  {
+   "season": 2015,
+   "n_teams": 8,
+   "champion": "MI",
+   "p_champion": 0.1728733424793172,
+   "rank_of_champion": 2,
+   "favourite": "CSK",
+   "p_favourite": 0.2544681022573031,
+   "playoff_brier": 0.214482696887169,
+   "playoff_brier_uniform": 0.25
+  },
+  {
+   "season": 2016,
+   "n_teams": 8,
+   "champion": "SRH",
+   "p_champion": 0.1311452320321617,
+   "rank_of_champion": 3,
+   "favourite": "MI",
+   "p_favourite": 0.2387850147581608,
+   "playoff_brier": 0.2206133044472442,
+   "playoff_brier_uniform": 0.25
+  },
+  {
+   "season": 2017,
+   "n_teams": 8,
+   "champion": "MI",
+   "p_champion": 0.2445098201550813,
+   "rank_of_champion": 1,
+   "favourite": "MI",
+   "p_favourite": 0.2445098201550813,
+   "playoff_brier": 0.1909861904691283,
+   "playoff_brier_uniform": 0.25
+  },
+  {
+   "season": 2018,
+   "n_teams": 8,
+   "champion": "CSK",
+   "p_champion": 0.2127557139565166,
+   "rank_of_champion": 2,
+   "favourite": "MI",
+   "p_favourite": 0.2256838205614835,
+   "playoff_brier": 0.1979452222804836,
+   "playoff_brier_uniform": 0.25
+  },
+  {
+   "season": 2019,
+   "n_teams": 8,
+   "champion": "MI",
+   "p_champion": 0.1882847923263506,
+   "rank_of_champion": 2,
+   "favourite": "CSK",
+   "p_favourite": 0.2904429875956877,
+   "playoff_brier": 0.2232197040882347,
+   "playoff_brier_uniform": 0.25
+  },
+  {
+   "season": 2020,
+   "n_teams": 8,
+   "champion": "MI",
+   "p_champion": 0.2227418911370184,
+   "rank_of_champion": 2,
+   "favourite": "CSK",
+   "p_favourite": 0.2800789571194587,
+   "playoff_brier": 0.2961693581344734,
+   "playoff_brier_uniform": 0.25
+  },
+  {
+   "season": 2021,
+   "n_teams": 8,
+   "champion": "CSK",
+   "p_champion": 0.2176472105576188,
+   "rank_of_champion": 2,
+   "favourite": "MI",
+   "p_favourite": 0.2744837410611712,
+   "playoff_brier": 0.2923714480091948,
+   "playoff_brier_uniform": 0.25
+  },
+  {
+   "season": 2022,
+   "n_teams": 10,
+   "champion": "GT",
+   "p_champion": 0.0735370392216474,
+   "rank_of_champion": 5,
+   "favourite": "MI",
+   "p_favourite": 0.2294085915789694,
+   "playoff_brier": 0.3079303315697711,
+   "playoff_brier_uniform": 0.24
+  },
+  {
+   "season": 2023,
+   "n_teams": 10,
+   "champion": "CSK",
+   "p_champion": 0.1221520702636824,
+   "rank_of_champion": 1,
+   "favourite": "CSK",
+   "p_favourite": 0.1221520702636824,
+   "playoff_brier": 0.2171760469181697,
+   "playoff_brier_uniform": 0.24
+  },
+  {
+   "season": 2024,
+   "n_teams": 10,
+   "champion": "KKR",
+   "p_champion": 0.0637018740334022,
+   "rank_of_champion": 9,
+   "favourite": "CSK",
+   "p_favourite": 0.1626724186466173,
+   "playoff_brier": 0.301467744503647,
+   "playoff_brier_uniform": 0.24
+  },
+  {
+   "season": 2025,
+   "n_teams": 10,
+   "champion": "RCB",
+   "p_champion": 0.068812581907926,
+   "rank_of_champion": 10,
+   "favourite": "CSK",
+   "p_favourite": 0.1225995693517505,
+   "playoff_brier": 0.2542808779506642,
+   "playoff_brier_uniform": 0.24
+  }
+ ],
+ "eras": [
+  {
+   "period": "2013\u20132021",
+   "seasons": 9,
+   "model_log_p": -1.7813375606456014,
+   "uniform_log_p": -2.092528545641656,
+   "beats_uniform": 7,
+   "playoff_brier": 0.2334381714050316,
+   "playoff_brier_uniform": 0.2496570644718793
+  },
+  {
+   "period": "2022\u20132025",
+   "seasons": 4,
+   "model_log_p": -2.5355911422369055,
+   "uniform_log_p": -2.3025850929940455,
+   "beats_uniform": 1,
+   "playoff_brier": 0.270213750235563,
+   "playoff_brier_uniform": 0.24
+  },
+  {
+   "period": "All",
+   "seasons": 13,
+   "model_log_p": -2.013415585750618,
+   "uniform_log_p": -2.1571613294423915,
+   "beats_uniform": 8,
+   "playoff_brier": 0.24475373412211815,
+   "playoff_brier_uniform": 0.24668566001899345
+  }
+ ],
+ "profile": {
+  "date_range": [
+   "2008-04-18",
+   "2026-05-01"
+  ],
+  "result_counts": {
+   "win": 1187,
+   "tie": 16,
+   "no result": 9
+  },
+  "team1_bats_first": 0.7524752475247525,
+  "toss_winner_wins": 0.5164279696714406,
+  "home_team_win_rate": 0.5271867612293144,
+  "home_matches": 846,
+  "season_2026_matches": 43,
+  "win_by_runs_consistent_with_balls": 0.978021978021978,
+  "matches": 1212,
+  "deliveries": 288226
+ }
+}

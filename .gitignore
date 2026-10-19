@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Web app
+web/node_modules/
+web/.next/
+web/.vercel/
+web/*.tsbuildinfo
+web/next-env.d.ts
+.vercel/
+
+# Local env / OS
+.env
+.env*.local
+.DS_Store

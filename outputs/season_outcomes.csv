@@ -1,0 +1,19 @@
+season,teams,playoff_teams,finalists,champion,n_playoff_matches
+2008,"['CSK', 'DC', 'DCH', 'KKR', 'MI', 'PBKS', 'RCB', 'RR']","['CSK', 'DC', 'PBKS', 'RR']","['CSK', 'RR']",RR,3
+2009,"['CSK', 'DC', 'DCH', 'KKR', 'MI', 'PBKS', 'RCB', 'RR']","['CSK', 'DC', 'DCH', 'RCB']","['DCH', 'RCB']",DCH,3
+2010,"['CSK', 'DC', 'DCH', 'KKR', 'MI', 'PBKS', 'RCB', 'RR']","['CSK', 'DCH', 'MI', 'RCB']","['CSK', 'MI']",CSK,4
+2011,"['CSK', 'DC', 'DCH', 'KKR', 'KTK', 'MI', 'PBKS', 'PWI', 'RCB', 'RR']","['CSK', 'KKR', 'MI', 'RCB']","['CSK', 'RCB']",CSK,4
+2012,"['CSK', 'DC', 'DCH', 'KKR', 'MI', 'PBKS', 'PWI', 'RCB', 'RR']","['CSK', 'DC', 'KKR', 'MI']","['CSK', 'KKR']",KKR,4
+2013,"['CSK', 'DC', 'KKR', 'MI', 'PBKS', 'PWI', 'RCB', 'RR', 'SRH']","['CSK', 'MI', 'RR', 'SRH']","['CSK', 'MI']",MI,4
+2014,"['CSK', 'DC', 'KKR', 'MI', 'PBKS', 'RCB', 'RR', 'SRH']","['CSK', 'KKR', 'MI', 'PBKS']","['KKR', 'PBKS']",KKR,4
+2015,"['CSK', 'DC', 'KKR', 'MI', 'PBKS', 'RCB', 'RR', 'SRH']","['CSK', 'MI', 'RCB', 'RR']","['CSK', 'MI']",MI,4
+2016,"['DC', 'GL', 'KKR', 'MI', 'PBKS', 'RCB', 'RPS', 'SRH']","['GL', 'KKR', 'RCB', 'SRH']","['RCB', 'SRH']",SRH,4
+2017,"['DC', 'GL', 'KKR', 'MI', 'PBKS', 'RCB', 'RPS', 'SRH']","['KKR', 'MI', 'RPS', 'SRH']","['MI', 'RPS']",MI,4
+2018,"['CSK', 'DC', 'KKR', 'MI', 'PBKS', 'RCB', 'RR', 'SRH']","['CSK', 'KKR', 'RR', 'SRH']","['CSK', 'SRH']",CSK,4
+2019,"['CSK', 'DC', 'KKR', 'MI', 'PBKS', 'RCB', 'RR', 'SRH']","['CSK', 'DC', 'MI', 'SRH']","['CSK', 'MI']",MI,4
+2020,"['CSK', 'DC', 'KKR', 'MI', 'PBKS', 'RCB', 'RR', 'SRH']","['DC', 'MI', 'RCB', 'SRH']","['DC', 'MI']",MI,4
+2021,"['CSK', 'DC', 'KKR', 'MI', 'PBKS', 'RCB', 'RR', 'SRH']","['CSK', 'DC', 'KKR', 'RCB']","['CSK', 'KKR']",CSK,4
+2022,"['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RCB', 'RR', 'SRH']","['GT', 'LSG', 'RCB', 'RR']","['GT', 'RR']",GT,4
+2023,"['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RCB', 'RR', 'SRH']","['CSK', 'GT', 'LSG', 'MI']","['CSK', 'GT']",CSK,4
+2024,"['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RCB', 'RR', 'SRH']","['KKR', 'RCB', 'RR', 'SRH']","['KKR', 'SRH']",KKR,4
+2025,"['CSK', 'DC', 'GT', 'KKR', 'LSG', 'MI', 'PBKS', 'RCB', 'RR', 'SRH']","['GT', 'MI', 'PBKS', 'RCB']","['PBKS', 'RCB']",RCB,4
