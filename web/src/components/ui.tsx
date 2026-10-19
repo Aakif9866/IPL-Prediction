@@ -88,7 +88,7 @@ export function ButtonLink({ href, children, variant = "outline", className = ""
     variant === "primary"
       ? "brand-gradient text-white hover:brightness-110"
       : "border border-accent-line text-accent hover:bg-accent-line hover:text-white dark:hover:text-black";
-  const external = href.startsWith("mailto:") || href.startsWith("http") || href.startsWith("/downloads/");
+  const external = href.startsWith("http") || href.startsWith("/downloads/");
   return external ? (
     <a href={href} className={`${base} ${style} ${className}`}>{children}</a>
   ) : (
