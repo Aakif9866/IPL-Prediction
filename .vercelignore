@@ -1,0 +1,13 @@
+# Only the Next.js app in web/ is deployed; the Python pipeline and raw data stay out of the upload.
+/IPL
+/outputs
+/reports
+/iplpred
+/batting
+/tests
+/*.py
+/requirements.txt
+/REPORT.md
+web/node_modules
+web/.next
+web/*.tsbuildinfo
